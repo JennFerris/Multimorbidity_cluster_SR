@@ -1,0 +1,1974 @@
+studyid,lead_author,year,category,method,subgroup_num,subgroup_name,subgroup_sex,subgroup_age_low,subgroup_age_high,cluster_name,asthma,cancer,CKD,COPD,dementia,DM,epilepsy,gout,HF,HIV,HTN,IHD,MAD,MS,OA,OP,PD,RA,SCZ,stroke,risk_of_bias_overall,age_bin,age_bin_2
+1,Prados-Torres,2012,factor-based,EFA,1,M 15-44,M,15,44,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,NA,0,0,NA,0,0,Low Risk of Bias,0-39,0-39
+1,Prados-Torres,2012,factor-based,EFA,1,M 15-44,M,15,44,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,0,0,NA,1,0,Low Risk of Bias,0-39,0-39
+1,Prados-Torres,2012,factor-based,EFA,2,M 45-64,M,45,64,1,0,0,0,1,0,1,0,0,0,0,1,1,0,0,NA,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+1,Prados-Torres,2012,factor-based,EFA,3,M 65+,M,65,NA,1,0,0,0,0,0,1,0,1,1,0,1,1,0,0,NA,0,0,NA,0,0,Low Risk of Bias,60+,60+
+1,Prados-Torres,2012,factor-based,EFA,3,M 65+,M,65,NA,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,NA,1,1,NA,0,1,Low Risk of Bias,60+,60+
+1,Prados-Torres,2012,factor-based,EFA,3,M 65+,M,65,NA,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,1,0,NA,0,0,Low Risk of Bias,60+,60+
+1,Prados-Torres,2012,factor-based,EFA,4,F 15-44,F,15,44,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,0,0,NA,0,0,Low Risk of Bias,0-39,0-39
+1,Prados-Torres,2012,factor-based,EFA,5,F 45-64,F,45,64,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,NA,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+1,Prados-Torres,2012,factor-based,EFA,5,F 45-64,F,45,64,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,1,0,NA,0,0,Low Risk of Bias,40-59,40-59
+1,Prados-Torres,2012,factor-based,EFA,5,F 45-64,F,45,64,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+1,Prados-Torres,2012,factor-based,EFA,6,F 65+,F,65,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,1,0,NA,0,0,Low Risk of Bias,60+,60+
+1,Prados-Torres,2012,factor-based,EFA,6,F 65+,F,65,NA,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,NA,0,0,NA,0,1,Low Risk of Bias,60+,60+
+1,Prados-Torres,2012,factor-based,EFA,6,F 65+,F,65,NA,3,0,0,0,0,0,1,0,0,1,0,1,1,0,0,NA,0,0,NA,0,0,Low Risk of Bias,60+,60+
+1,Prados-Torres,2012,factor-based,EFA,6,F 65+,F,65,NA,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,0,0,NA,0,0,Low Risk of Bias,60+,60+
+2,Aubert,2019,factor-based,LCA,1,all,Both,18,NA,1,NA,0,0,0,NA,NA,1,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,1,High Risk of Bias,16+,"Adults
+(16+)"
+2,Aubert,2019,factor-based,LCA,1,all,Both,18,NA,2,NA,0,1,0,NA,NA,0,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,High Risk of Bias,16+,"Adults
+(16+)"
+2,Aubert,2019,factor-based,LCA,1,all,Both,18,NA,3,NA,1,0,0,NA,NA,0,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,High Risk of Bias,16+,"Adults
+(16+)"
+2,Aubert,2019,factor-based,LCA,1,all,Both,18,NA,4,NA,0,1,1,NA,NA,0,NA,NA,NA,NA,1,0,NA,1,NA,NA,NA,NA,0,High Risk of Bias,16+,"Adults
+(16+)"
+2,Aubert,2019,factor-based,LCA,1,all,Both,18,NA,5,NA,0,0,1,NA,NA,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,0,High Risk of Bias,16+,"Adults
+(16+)"
+3,Egan,2019,cluster-based,HCA,1,all,Both,27,NA,1_CHF,NA,0,0,NA,NA,0,NA,NA,1,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+3,Egan,2019,cluster-based,HCA,1,all,Both,27,NA,10_OA,NA,0,0,NA,NA,0,NA,NA,0,NA,1,NA,NA,NA,1,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+3,Egan,2019,cluster-based,HCA,1,all,Both,27,NA,11_HTN,NA,0,0,NA,NA,0,NA,NA,0,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+3,Egan,2019,cluster-based,HCA,1,all,Both,27,NA,12_HLP,NA,0,0,NA,NA,0,NA,NA,0,NA,0,NA,NA,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+3,Egan,2019,cluster-based,HCA,1,all,Both,27,NA,2_CKD,NA,0,1,NA,NA,0,NA,NA,0,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+3,Egan,2019,cluster-based,HCA,1,all,Both,27,NA,3_Neuro,NA,0,0,NA,NA,0,NA,NA,0,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+3,Egan,2019,cluster-based,HCA,1,all,Both,27,NA,4_CA,NA,1,0,NA,NA,0,NA,NA,0,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+3,Egan,2019,cluster-based,HCA,1,all,Both,27,NA,5_CVD,NA,0,0,NA,NA,0,NA,NA,0,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+3,Egan,2019,cluster-based,HCA,1,all,Both,27,NA,6_CPD,NA,0,0,NA,NA,0,NA,NA,0,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+3,Egan,2019,cluster-based,HCA,1,all,Both,27,NA,7_DM,NA,0,0,NA,NA,1,NA,NA,0,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+3,Egan,2019,cluster-based,HCA,1,all,Both,27,NA,8_BH,NA,0,0,NA,NA,0,NA,NA,0,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+3,Egan,2019,cluster-based,HCA,1,all,Both,27,NA,9_Obes,NA,0,0,NA,NA,0,NA,NA,0,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+4,Lu,2023,cluster-based,Louvain,1,all,Both,0,NA,1,0,1,1,1,1,1,0,NA,1,1,1,1,0,1,NA,NA,1,1,0,1,Very High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+4,Lu,2023,cluster-based,Louvain,1,all,Both,0,NA,2,0,1,1,1,1,1,1,NA,0,0,1,0,1,1,NA,NA,1,1,0,1,Very High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+4,Lu,2023,cluster-based,Louvain,1,all,Both,0,NA,3,1,1,1,1,1,1,0,NA,1,0,0,0,0,0,NA,NA,1,1,0,1,Very High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+4,Lu,2023,cluster-based,Louvain,1,all,Both,0,NA,4,1,1,1,0,1,1,1,NA,0,0,0,0,1,0,NA,NA,1,0,1,0,Very High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+4,Lu,2023,cluster-based,Louvain,1,all,Both,0,NA,5,0,1,0,1,0,1,0,NA,0,0,0,0,0,0,NA,NA,1,1,0,1,Very High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+4,Lu,2023,cluster-based,Louvain,1,all,Both,0,NA,6,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,NA,NA,0,0,0,0,Very High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+5,Roso-Llorach,2022,factor-based,HMM,1,sexagenerians,Both,60,69,Cardio-metabolic,0,0,0,1,0,1,0,NA,1,NA,0,1,0,0,0,0,0,NA,NA,0,Low Risk of Bias,60-79,60+
+5,Roso-Llorach,2022,factor-based,HMM,1,sexagenerians,Both,60,69,Cardiovascular and anemia,0,0,1,1,0,0,0,NA,1,NA,0,0,0,0,0,1,0,NA,NA,0,Low Risk of Bias,60-79,60+
+5,Roso-Llorach,2022,factor-based,HMM,1,sexagenerians,Both,60,69,Psychiatric-endocrine and sensorial,0,0,0,0,0,0,0,NA,0,NA,0,0,1,0,1,1,0,NA,NA,0,Low Risk of Bias,60-79,60+
+5,Roso-Llorach,2022,factor-based,HMM,1,sexagenerians,Both,60,69,Unspecific,0,1,1,0,0,1,0,NA,0,NA,1,0,0,0,1,0,0,NA,NA,0,Low Risk of Bias,60-79,60+
+5,Roso-Llorach,2022,factor-based,HMM,2,septugenerians,Both,70,79,Cardiovascular and diabetes,0,0,0,1,0,1,0,NA,1,NA,0,1,0,0,0,0,0,NA,NA,0,Low Risk of Bias,60-79,60+
+5,Roso-Llorach,2022,factor-based,HMM,2,septugenerians,Both,70,79,Neuro-psychiatric and sensorial,0,0,1,0,1,0,0,NA,0,NA,1,0,1,0,1,0,1,NA,NA,0,Low Risk of Bias,60-79,60+
+5,Roso-Llorach,2022,factor-based,HMM,2,septugenerians,Both,70,79,Neuro-vascular and skin-sensorial,1,0,0,0,1,0,0,NA,0,NA,0,0,0,0,0,0,1,NA,NA,0,Low Risk of Bias,60-79,60+
+5,Roso-Llorach,2022,factor-based,HMM,2,septugenerians,Both,70,79,Unspecific,1,1,1,1,0,0,0,NA,0,NA,1,0,0,0,1,0,0,NA,NA,0,Low Risk of Bias,60-79,60+
+5,Roso-Llorach,2022,factor-based,HMM,3,octogenerians,Both,80,NA,Cardio-respiratory and Neurological,1,1,0,1,0,1,0,NA,1,NA,0,0,1,0,0,0,1,NA,NA,1,Low Risk of Bias,80+,60+
+5,Roso-Llorach,2022,factor-based,HMM,3,octogenerians,Both,80,NA,Neuro-sensorial,0,0,0,0,0,0,0,NA,0,NA,0,0,0,0,0,0,1,NA,NA,0,Low Risk of Bias,80+,60+
+5,Roso-Llorach,2022,factor-based,HMM,3,octogenerians,Both,80,NA,Respiratory-circulatory and skin,1,0,0,1,0,0,0,NA,1,NA,0,0,0,0,0,0,1,NA,NA,0,Low Risk of Bias,80+,60+
+5,Roso-Llorach,2022,factor-based,HMM,3,octogenerians,Both,80,NA,Unspecific,0,1,1,0,1,1,0,NA,0,NA,1,0,0,0,1,0,0,NA,NA,1,Low Risk of Bias,80+,60+
+6,Baré,2021,cluster-based,fuzzy c-means,1,all,Both,65,NA,1,1,0,0,0,0,0,NA,0,0,NA,0,0,1,NA,NA,1,0,NA,NA,0,Some Concerns,60+,60+
+6,Baré,2021,cluster-based,fuzzy c-means,1,all,Both,65,NA,2,0,0,0,0,1,0,NA,0,0,NA,0,0,0,NA,NA,0,0,NA,NA,1,Some Concerns,60+,60+
+6,Baré,2021,cluster-based,fuzzy c-means,1,all,Both,65,NA,3,0,1,1,0,1,0,NA,1,0,NA,1,0,0,NA,NA,0,0,NA,NA,1,Some Concerns,60+,60+
+6,Baré,2021,cluster-based,fuzzy c-means,1,all,Both,65,NA,4,0,1,0,1,0,0,NA,0,1,NA,0,0,0,NA,NA,0,0,NA,NA,0,Some Concerns,60+,60+
+7,Bisquera,2021,factor-based,EFA,1,2005 - 2010 cohort,Both,18,NA,factor1,0,1,1,0,1,1,0,NA,1,0,1,1,1,0,1,1,0,0,NA,1,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,factor-based,EFA,1,2005 - 2010 cohort,Both,18,NA,factor2,0,0,0,0,0,0,0,NA,0,1,0,0,0,0,0,0,0,0,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,factor-based,EFA,1,2005 - 2010 cohort,Both,18,NA,factor3,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,factor-based,EFA,1,2005 - 2010 cohort,Both,18,NA,factor4,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,factor-based,EFA,2,2011 - 2015 cohort,Both,18,NA,factor1,0,1,1,0,1,1,0,NA,1,0,1,1,0,0,1,1,0,0,NA,1,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,factor-based,EFA,2,2011 - 2015 cohort,Both,18,NA,factor2,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,factor-based,EFA,2,2011 - 2015 cohort,Both,18,NA,factor3,0,0,0,0,0,0,0,NA,0,1,0,0,0,0,0,0,0,0,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,factor-based,EFA,2,2011 - 2015 cohort,Both,18,NA,factor4,0,0,0,0,0,0,0,NA,0,0,0,0,1,0,0,0,0,0,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,factor-based,EFA,2,2011 - 2015 cohort,Both,18,NA,factor5,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,factor-based,EFA,3,2016 - 2020 cohort,Both,18,NA,factor1,0,1,1,0,1,1,0,NA,1,0,1,1,0,0,1,1,0,0,NA,1,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,factor-based,EFA,3,2016 - 2020 cohort,Both,18,NA,factor2,0,0,0,0,0,0,0,NA,0,1,0,0,0,0,0,0,0,0,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,factor-based,EFA,3,2016 - 2020 cohort,Both,18,NA,factor3,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,factor-based,EFA,3,2016 - 2020 cohort,Both,18,NA,factor4,0,0,0,0,0,0,0,NA,0,0,0,0,1,0,0,0,0,0,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,cluster-based,HCA,1,2005 - 2010 cohort,Both,18,NA,1,0,0,0,0,0,0,0,NA,0,1,0,0,0,0,0,0,0,0,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,cluster-based,HCA,1,2005 - 2010 cohort,Both,18,NA,2,0,0,0,0,1,0,1,NA,0,0,0,0,0,0,0,0,1,0,NA,1,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,cluster-based,HCA,1,2005 - 2010 cohort,Both,18,NA,3,1,1,1,1,0,1,0,NA,1,0,1,1,1,1,1,1,0,1,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,cluster-based,HCA,2,2011 - 2015 cohort,Both,18,NA,1,0,0,0,0,0,0,0,NA,0,1,0,0,0,0,0,0,0,0,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,cluster-based,HCA,2,2011 - 2015 cohort,Both,18,NA,2,0,0,0,1,0,0,0,NA,1,0,0,1,0,0,0,0,0,0,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,cluster-based,HCA,2,2011 - 2015 cohort,Both,18,NA,3,1,1,1,0,0,1,1,NA,0,0,1,0,1,1,1,0,0,0,NA,1,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,cluster-based,HCA,2,2011 - 2015 cohort,Both,18,NA,4,0,0,0,0,1,0,0,NA,0,0,0,0,0,0,0,1,1,1,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,cluster-based,HCA,3,2016 - 2020 cohort,Both,18,NA,1,0,0,0,0,0,0,0,NA,0,1,0,0,0,0,0,0,0,0,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,cluster-based,HCA,3,2016 - 2020 cohort,Both,18,NA,2,0,0,0,0,0,0,1,NA,0,0,0,0,0,0,0,0,0,0,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,cluster-based,HCA,3,2016 - 2020 cohort,Both,18,NA,3,0,0,1,1,0,0,0,NA,1,0,0,1,0,0,0,0,0,0,NA,1,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,cluster-based,HCA,3,2016 - 2020 cohort,Both,18,NA,4,1,1,0,0,0,1,0,NA,0,0,1,0,1,1,1,0,0,0,NA,0,Some Concerns,16+,"Adults
+(16+)"
+7,Bisquera,2021,cluster-based,HCA,3,2016 - 2020 cohort,Both,18,NA,5,0,0,0,0,1,0,0,NA,0,0,0,0,0,0,0,1,1,1,NA,0,Some Concerns,16+,"Adults
+(16+)"
+8,Hajat,2021,cluster-based,k-means,1,all,Both,18,NA,1,NA,NA,NA,0,NA,0,NA,NA,NA,NA,1,0,0,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+8,Hajat,2021,cluster-based,k-means,1,all,Both,18,NA,3,NA,NA,NA,0,NA,1,NA,NA,NA,NA,1,0,0,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+8,Hajat,2021,cluster-based,k-means,1,all,Both,18,NA,4,NA,NA,NA,0,NA,0,NA,NA,NA,NA,0,0,1,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+8,Hajat,2021,cluster-based,k-means,1,all,Both,18,NA,5,NA,NA,NA,0,NA,1,NA,NA,NA,NA,1,0,0,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+8,Hajat,2021,cluster-based,k-means,1,all,Both,18,NA,6,NA,NA,NA,0,NA,0,NA,NA,NA,NA,1,0,0,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+8,Hajat,2021,cluster-based,k-means,1,all,Both,18,NA,7,NA,NA,NA,0,NA,0,NA,NA,NA,NA,1,0,0,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+8,Hajat,2021,cluster-based,k-means,1,all,Both,18,NA,8,NA,NA,NA,0,NA,1,NA,NA,NA,NA,1,1,0,NA,0,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+8,Hajat,2021,cluster-based,k-means,1,all,Both,18,NA,10,NA,NA,NA,1,NA,1,NA,NA,NA,NA,1,0,1,NA,1,NA,NA,NA,NA,NA,High Risk of Bias,16+,"Adults
+(16+)"
+9,Van Cleave,2016,factor-based,LCA,1,all,Both,60,NA,All Other,NA,0,0,NA,1,0,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,Some Concerns,60+,60+
+9,Van Cleave,2016,factor-based,LCA,1,all,Both,60,NA,Cardiopulmonary,NA,0,1,NA,1,0,NA,NA,1,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,Some Concerns,60+,60+
+9,Van Cleave,2016,factor-based,LCA,1,all,Both,60,NA,Cerebrovascular,NA,1,0,NA,0,1,NA,NA,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,1,Some Concerns,60+,60+
+10,Zhu,2020,factor-based,LCA,1,18-44,Both,18,44,d1,1,0,0,0,0,0,NA,NA,0,NA,0,0,1,0,NA,NA,0,0,0,0,Low Risk of Bias,0-39,0-39
+10,Zhu,2020,factor-based,LCA,1,18-44,Both,18,44,d2,0,0,0,0,0,0,NA,NA,0,NA,0,0,1,0,NA,NA,0,0,0,0,Low Risk of Bias,0-39,0-39
+10,Zhu,2020,factor-based,LCA,1,18-44,Both,18,44,d3,0,0,0,0,0,0,NA,NA,0,NA,1,0,1,0,NA,NA,0,0,0,0,Low Risk of Bias,0-39,0-39
+10,Zhu,2020,factor-based,LCA,2,45-64,Both,45,64,d1,1,0,0,0,0,0,NA,NA,0,NA,1,0,1,0,NA,NA,0,0,0,0,Low Risk of Bias,40-59,40-59
+10,Zhu,2020,factor-based,LCA,2,45-64,Both,45,64,d2,0,0,0,1,0,1,NA,NA,0,NA,0,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,40-59,40-59
+10,Zhu,2020,factor-based,LCA,2,45-64,Both,45,64,d3,0,0,0,0,0,0,NA,NA,0,NA,0,0,1,0,NA,NA,0,0,0,0,Low Risk of Bias,40-59,40-59
+10,Zhu,2020,factor-based,LCA,3,65-84,Both,65,84,d1,0,0,0,1,0,0,NA,NA,0,NA,1,1,1,0,NA,NA,0,0,0,0,Low Risk of Bias,60+,60+
+10,Zhu,2020,factor-based,LCA,3,65-84,Both,65,84,d2,1,0,0,0,0,1,NA,NA,0,NA,0,1,0,0,NA,NA,0,0,0,0,Low Risk of Bias,60+,60+
+10,Zhu,2020,factor-based,LCA,3,65-84,Both,65,84,d3,0,0,1,0,0,1,NA,NA,0,NA,0,0,1,0,NA,NA,0,0,0,0,Low Risk of Bias,60+,60+
+10,Zhu,2020,factor-based,LCA,4,85+,Both,85,NA,d1,1,0,0,0,0,0,NA,NA,1,NA,1,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,80+,60+
+10,Zhu,2020,factor-based,LCA,4,85+,Both,86,NA,d2,0,0,0,1,0,0,NA,NA,0,NA,0,1,1,0,NA,NA,0,0,0,0,Low Risk of Bias,80+,60+
+10,Zhu,2020,factor-based,LCA,4,85+,Both,87,NA,d3,0,0,0,0,0,1,NA,NA,0,NA,0,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,80+,60+
+11,Schafer,2010,factor-based,EFA,1,F,F,65,NA,ADS/P,NA,0,NA,NA,0,0,NA,NA,NA,NA,0,0,1,NA,NA,1,0,1,NA,0,Low Risk of Bias,60+,60+
+11,Schafer,2010,factor-based,EFA,1,F,F,65,NA,CMD,NA,0,NA,NA,0,1,NA,NA,NA,NA,1,1,0,NA,NA,0,0,0,NA,0,Low Risk of Bias,60+,60+
+11,Schafer,2010,factor-based,EFA,1,F,F,65,NA,NPS,NA,0,NA,NA,1,0,NA,NA,NA,NA,0,1,1,NA,NA,0,1,0,NA,1,Low Risk of Bias,60+,60+
+11,Schafer,2010,factor-based,EFA,2,M,M,65,NA,ADS/P,NA,0,NA,NA,0,0,NA,NA,NA,NA,0,0,1,NA,NA,1,0,0,NA,0,Low Risk of Bias,60+,60+
+11,Schafer,2010,factor-based,EFA,2,M,M,65,NA,CMD,NA,0,NA,NA,0,1,NA,NA,NA,NA,1,1,0,NA,NA,0,0,0,NA,1,Low Risk of Bias,60+,60+
+11,Schafer,2010,factor-based,EFA,2,M,M,65,NA,NPS,NA,0,NA,NA,1,0,NA,NA,NA,NA,0,0,1,NA,NA,0,1,0,NA,1,Low Risk of Bias,60+,60+
+12,Roso-Llorach,2018,factor-based,EFA,1,F EFA,F,45,64,1,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,0,NA,1,NA,NA,NA,0,0,Low Risk of Bias,40-59,40-59
+12,Roso-Llorach,2018,factor-based,EFA,1,F EFA,F,45,64,2,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,40-59,40-59
+12,Roso-Llorach,2018,factor-based,EFA,1,F EFA,F,45,64,3,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,1,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,40-59,40-59
+12,Roso-Llorach,2018,factor-based,EFA,2,M EFA,M,45,64,1,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,40-59,40-59
+12,Roso-Llorach,2018,factor-based,EFA,2,M EFA,M,45,64,2,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,1,0,NA,0,NA,NA,NA,0,1,Low Risk of Bias,40-59,40-59
+12,Roso-Llorach,2018,factor-based,EFA,2,M EFA,M,45,64,3,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,0,NA,0,NA,NA,NA,1,0,Low Risk of Bias,40-59,40-59
+12,Roso-Llorach,2018,factor-based,EFA,2,M EFA,M,45,64,4,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,0,NA,1,NA,NA,NA,0,0,Low Risk of Bias,40-59,40-59
+12,Roso-Llorach,2018,factor-based,EFA,2,M EFA,M,45,64,5,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,0,0,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,40-59,40-59
+12,Roso-Llorach,2018,cluster-based,HCA,1,F HCA,F,45,64,1,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,0,NA,1,NA,NA,NA,0,0,Low Risk of Bias,40-59,40-59
+12,Roso-Llorach,2018,cluster-based,HCA,1,F HCA,F,45,64,2,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,40-59,40-59
+12,Roso-Llorach,2018,cluster-based,HCA,1,F HCA,F,45,64,3,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,1,NA,0,NA,NA,NA,0,0,Low Risk of Bias,40-59,40-59
+12,Roso-Llorach,2018,cluster-based,HCA,2,M HCA,M,45,64,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,40-59,40-59
+12,Roso-Llorach,2018,cluster-based,HCA,2,M HCA,M,45,64,2,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,0,NA,0,NA,NA,NA,1,0,Low Risk of Bias,40-59,40-59
+12,Roso-Llorach,2018,cluster-based,HCA,2,M HCA,M,45,64,3,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,0,NA,1,NA,NA,NA,0,0,Low Risk of Bias,40-59,40-59
+12,Roso-Llorach,2018,cluster-based,HCA,2,M HCA,M,45,64,4,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,1,NA,0,NA,NA,NA,0,0,Low Risk of Bias,40-59,40-59
+12,Roso-Llorach,2018,cluster-based,HCA,2,M HCA,M,45,64,5,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,1,0,NA,0,NA,NA,NA,0,1,Low Risk of Bias,40-59,40-59
+13,Moran,2017,cluster-based,HCA,1,all,Both,18,NA,1,0,0,0,0,0,0,NA,NA,0,0,1,0,0,NA,NA,NA,NA,0,NA,0,High Risk of Bias,16+,"Adults
+(16+)"
+13,Moran,2017,cluster-based,HCA,1,all,Both,18,NA,2,0,1,0,1,0,1,NA,NA,0,0,1,0,1,NA,NA,NA,NA,0,NA,1,High Risk of Bias,16+,"Adults
+(16+)"
+13,Moran,2017,cluster-based,HCA,1,all,Both,18,NA,3,1,0,0,1,0,1,NA,NA,0,0,1,0,1,NA,NA,NA,NA,0,NA,0,High Risk of Bias,16+,"Adults
+(16+)"
+13,Moran,2017,cluster-based,HCA,1,all,Both,18,NA,4,0,0,1,1,0,1,NA,NA,1,0,1,1,1,NA,NA,NA,NA,0,NA,1,High Risk of Bias,16+,"Adults
+(16+)"
+14,Nicolet,2022,cluster-based,HDBSCAN,1,all,Both,50,NA,2,NA,0,NA,NA,NA,0,0,NA,NA,0,0,0,NA,NA,NA,NA,1,NA,NA,NA,Very High Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+14,Nicolet,2022,cluster-based,HDBSCAN,1,all,Both,50,NA,3,NA,1,NA,NA,NA,0,0,NA,NA,0,0,0,NA,NA,NA,NA,0,NA,NA,NA,Very High Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+16,Caballero,2023,factor-based,EFA,1,all,Both,65,NA,F1,1,0,0,0,NA,0,NA,NA,NA,NA,0,0,1,NA,1,1,NA,NA,NA,0,Low Risk of Bias,60+,60+
+16,Caballero,2023,factor-based,EFA,1,all,Both,65,NA,F2,0,0,1,0,NA,1,NA,NA,NA,NA,1,1,0,NA,0,1,NA,NA,NA,0,Low Risk of Bias,60+,60+
+16,Caballero,2023,factor-based,EFA,1,all,Both,65,NA,F3,0,0,1,1,NA,0,NA,NA,NA,NA,0,1,0,NA,0,0,NA,NA,NA,1,Low Risk of Bias,60+,60+
+17,Corsonello,2022,cluster-based,K-medians,1,all,Both,65,NA,1,NA,1,0,0,0,1,0,NA,0,NA,0,0,NA,NA,NA,0,0,NA,NA,1,Some Concerns,60+,60+
+17,Corsonello,2022,cluster-based,K-medians,1,all,Both,65,NA,2,NA,0,0,1,0,0,0,NA,1,NA,0,0,NA,NA,NA,0,0,NA,NA,0,Some Concerns,60+,60+
+17,Corsonello,2022,cluster-based,K-medians,1,all,Both,65,NA,3,NA,0,1,0,0,0,0,NA,0,NA,1,0,NA,NA,NA,0,0,NA,NA,0,Some Concerns,60+,60+
+18,Dong,2013,cluster-based,HCA,1,M,M,85,90,1,NA,0,NA,NA,0,1,NA,NA,0,NA,1,0,NA,NA,0,0,NA,NA,NA,1,Some Concerns,80+,60+
+18,Dong,2013,cluster-based,HCA,1,F,F,85,90,1,NA,0,NA,NA,0,1,NA,NA,0,NA,1,0,NA,NA,0,0,NA,NA,NA,1,Some Concerns,80+,60+
+18,Dong,2013,cluster-based,HCA,1,M,M,85,90,2,NA,0,NA,NA,0,0,NA,NA,1,NA,0,0,NA,NA,0,0,NA,NA,NA,0,Some Concerns,80+,60+
+18,Dong,2013,cluster-based,HCA,1,F,F,85,90,2,NA,0,NA,NA,0,0,NA,NA,0,NA,0,0,NA,NA,1,0,NA,NA,NA,0,Some Concerns,80+,60+
+18,Dong,2013,cluster-based,HCA,1,F,F,85,90,3,NA,0,NA,NA,0,0,NA,NA,1,NA,0,1,NA,NA,0,1,NA,NA,NA,0,Some Concerns,80+,60+
+18,Dong,2013,cluster-based,HCA,1,M,M,85,90,4,NA,0,NA,NA,0,0,NA,NA,0,NA,0,1,NA,NA,0,0,NA,NA,NA,0,Some Concerns,80+,60+
+18,Dong,2013,cluster-based,HCA,1,F,F,85,90,4,NA,1,NA,NA,0,0,NA,NA,0,NA,0,0,NA,NA,0,0,NA,NA,NA,0,Some Concerns,80+,60+
+18,Dong,2013,cluster-based,HCA,1,M,M,85,90,5,NA,1,NA,NA,0,0,NA,NA,0,NA,0,0,NA,NA,1,0,NA,NA,NA,0,Some Concerns,80+,60+
+18,Dong,2013,cluster-based,HCA,1,F,F,85,90,5,NA,0,NA,NA,1,0,NA,NA,0,NA,0,0,NA,NA,0,0,NA,NA,NA,0,Some Concerns,80+,60+
+19,Franti,2022,cluster-based,M-algorithm,1,all,Both,18,NA,1,NA,1,NA,NA,NA,0,NA,NA,NA,1,0,0,0,NA,0,NA,NA,NA,0,0,Some Concerns,16+,"Adults
+(16+)"
+19,Franti,2022,cluster-based,M-algorithm,1,all,Both,18,NA,2,NA,1,NA,NA,NA,1,NA,NA,NA,0,1,1,0,NA,0,NA,NA,NA,0,1,Some Concerns,16+,"Adults
+(16+)"
+19,Franti,2022,cluster-based,M-algorithm,1,all,Both,18,NA,3,NA,1,NA,NA,NA,0,NA,NA,NA,0,0,0,0,NA,0,NA,NA,NA,0,0,Some Concerns,16+,"Adults
+(16+)"
+19,Franti,2022,cluster-based,M-algorithm,1,all,Both,18,NA,4,NA,1,NA,NA,NA,0,NA,NA,NA,0,0,0,0,NA,0,NA,NA,NA,0,0,Some Concerns,16+,"Adults
+(16+)"
+19,Franti,2022,cluster-based,M-algorithm,1,all,Both,18,NA,5,NA,1,NA,NA,NA,0,NA,NA,NA,0,0,0,0,NA,0,NA,NA,NA,0,0,Some Concerns,16+,"Adults
+(16+)"
+19,Franti,2022,cluster-based,M-algorithm,1,all,Both,18,NA,6,NA,0,NA,NA,NA,0,NA,NA,NA,0,0,0,1,NA,0,NA,NA,NA,1,0,Some Concerns,16+,"Adults
+(16+)"
+19,Franti,2022,cluster-based,M-algorithm,1,all,Both,18,NA,7,NA,0,NA,NA,NA,0,NA,NA,NA,0,0,0,0,NA,1,NA,NA,NA,0,0,Some Concerns,16+,"Adults
+(16+)"
+20,Hassaine,2020,factor-based,Non-negative matrix factorization,1,F,F,16,NA,DC f 1,NA,0,NA,NA,NA,0,NA,NA,NA,0,0,1,0,NA,0,NA,NA,NA,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+20,Hassaine,2020,factor-based,Non-negative matrix factorization,1,F,F,16,NA,DC f 18,NA,0,NA,NA,NA,0,NA,NA,NA,0,1,0,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+20,Hassaine,2020,factor-based,Non-negative matrix factorization,1,F,F,16,NA,DC f 28,NA,0,NA,NA,NA,0,NA,NA,NA,0,1,0,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+20,Hassaine,2020,factor-based,Non-negative matrix factorization,1,F,F,16,NA,DC f 32,NA,1,NA,NA,NA,0,NA,NA,NA,0,0,0,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+20,Hassaine,2020,factor-based,Non-negative matrix factorization,1,F,F,16,NA,DC f13,NA,0,NA,NA,NA,0,NA,NA,NA,0,0,0,1,NA,0,NA,NA,NA,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+20,Hassaine,2020,factor-based,Non-negative matrix factorization,1,F,F,16,NA,DC f14,NA,0,NA,NA,NA,0,NA,NA,NA,0,1,0,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+20,Hassaine,2020,factor-based,Non-negative matrix factorization,1,F,F,16,NA,DC f5,NA,1,NA,NA,NA,0,NA,NA,NA,0,0,0,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+20,Hassaine,2020,factor-based,Non-negative matrix factorization,2,M,M,16,NA,DC m 18,NA,0,NA,NA,NA,0,NA,NA,NA,0,0,0,0,NA,0,NA,NA,NA,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+20,Hassaine,2020,factor-based,Non-negative matrix factorization,2,M,M,16,NA,DC m 24,NA,0,NA,NA,NA,0,NA,NA,NA,0,1,0,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+20,Hassaine,2020,factor-based,Non-negative matrix factorization,2,M,M,16,NA,DC m 26,NA,0,NA,NA,NA,0,NA,NA,NA,0,1,0,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+20,Hassaine,2020,factor-based,Non-negative matrix factorization,2,M,M,16,NA,DC m 5,NA,1,NA,NA,NA,0,NA,NA,NA,0,0,0,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+20,Hassaine,2020,factor-based,Non-negative matrix factorization,2,M,M,16,NA,DC m11,NA,0,NA,NA,NA,0,NA,NA,NA,0,0,0,1,NA,0,NA,NA,NA,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+20,Hassaine,2020,factor-based,Non-negative matrix factorization,2,M,M,16,NA,DC m12,NA,0,NA,NA,NA,0,NA,NA,NA,0,0,1,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+21,Ioakeim-Skoufa,2020,factor-based,EFA,1,F 30-44,F,30,44,3,0,0,0,0,0,1,NA,0,0,NA,1,0,0,NA,NA,0,0,NA,0,0,Some Concerns,0-39,0-39
+21,Ioakeim-Skoufa,2020,factor-based,EFA,2,F 45-59,F,45,59,1,0,0,0,0,0,0,NA,0,0,NA,0,0,0,NA,NA,1,0,NA,0,0,Some Concerns,40-59,40-59
+21,Ioakeim-Skoufa,2020,factor-based,EFA,2,F 45-59,F,45,59,2,0,0,0,0,0,1,NA,0,0,NA,1,0,0,NA,NA,0,0,NA,0,0,Some Concerns,40-59,40-59
+21,Ioakeim-Skoufa,2020,factor-based,EFA,3,F 60-74,F,60,74,1,0,0,0,1,0,0,NA,0,1,NA,0,1,0,NA,NA,0,0,NA,0,0,Some Concerns,60-79,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,3,F 60-74,F,60,74,2,0,0,0,0,0,0,NA,0,0,NA,0,0,0,NA,NA,1,0,NA,0,0,Some Concerns,60-79,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,3,F 60-74,F,60,74,3,0,0,0,0,0,1,NA,0,0,NA,1,0,0,NA,NA,0,0,NA,0,0,Some Concerns,60-79,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,4,F 75-89,F,75,89,1,0,0,1,1,0,0,NA,0,1,NA,0,1,0,NA,NA,0,0,NA,0,0,Some Concerns,60+,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,4,F 75-89,F,75,89,2,0,0,0,0,0,0,NA,0,0,NA,0,0,0,NA,NA,1,0,NA,0,0,Some Concerns,60+,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,4,F 75-89,F,75,89,3,0,0,0,0,0,1,NA,0,0,NA,1,0,0,NA,NA,0,0,NA,0,0,Some Concerns,60+,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,4,F 75-89,F,75,89,4,0,0,0,0,1,0,NA,0,0,NA,0,0,0,NA,NA,0,1,NA,0,1,Some Concerns,60+,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,5,F 90+,F,90,NA,1,1,0,0,1,0,0,NA,0,1,NA,0,1,0,NA,NA,0,0,NA,0,0,Some Concerns,80+,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,5,F 90+,F,90,NA,2,0,0,0,0,0,0,NA,0,0,NA,0,0,0,NA,NA,1,0,NA,0,0,Some Concerns,80+,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,5,F 90+,F,90,NA,3,0,0,0,0,0,1,NA,0,0,NA,1,0,0,NA,NA,0,0,NA,0,0,Some Concerns,80+,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,5,F 90+,F,90,NA,4,0,0,0,0,1,0,NA,0,0,NA,0,0,0,NA,NA,0,0,NA,0,1,Some Concerns,80+,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,6,M 15-29,M,15,29,1,1,0,0,0,0,0,NA,0,0,NA,0,0,0,NA,NA,0,0,NA,0,0,Some Concerns,0-39,0-39
+21,Ioakeim-Skoufa,2020,factor-based,EFA,7,M 30-44,M,30,44,1,0,0,0,0,0,1,NA,0,0,NA,1,0,0,NA,NA,0,0,NA,0,0,Some Concerns,0-39,0-39
+21,Ioakeim-Skoufa,2020,factor-based,EFA,7,M 30-44,M,30,44,3,1,0,0,0,0,0,NA,0,0,NA,0,0,0,NA,NA,0,0,NA,0,0,Some Concerns,0-39,0-39
+21,Ioakeim-Skoufa,2020,factor-based,EFA,8,M 45-59,M,45,59,1,0,0,0,0,0,1,NA,1,0,NA,1,0,0,NA,NA,0,0,NA,0,0,Some Concerns,40-59,40-59
+21,Ioakeim-Skoufa,2020,factor-based,EFA,8,M 45-59,M,45,59,3,0,0,0,0,0,0,NA,0,0,NA,0,1,0,NA,NA,0,0,NA,0,0,Some Concerns,40-59,40-59
+21,Ioakeim-Skoufa,2020,factor-based,EFA,8,M 45-59,M,45,59,4,0,0,0,0,0,0,NA,0,0,NA,0,0,0,NA,NA,0,0,NA,1,0,Some Concerns,40-59,40-59
+21,Ioakeim-Skoufa,2020,factor-based,EFA,9,M 60-74,M,60,74,1,0,0,0,1,0,0,NA,0,1,NA,0,1,0,NA,NA,0,0,NA,0,0,Some Concerns,60-79,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,9,M 60-74,M,60,74,2,0,0,0,0,0,0,NA,0,0,NA,0,0,0,NA,NA,1,0,NA,0,0,Some Concerns,60-79,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,9,M 60-74,M,60,74,3,0,0,0,0,0,1,NA,0,0,NA,1,0,0,NA,NA,0,0,NA,0,0,Some Concerns,60-79,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,10,M 75-89,M,75,89,1,0,0,1,1,0,0,NA,0,1,NA,0,1,0,NA,NA,0,0,NA,0,0,Some Concerns,60+,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,10,M 75-89,M,75,89,3,0,0,0,0,1,0,NA,0,0,NA,0,0,0,NA,NA,0,1,NA,0,1,Some Concerns,60+,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,10,M 75-89,M,75,89,4,0,0,0,0,0,1,NA,0,0,NA,1,0,0,NA,NA,0,0,NA,0,0,Some Concerns,60+,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,11,M 90+,M,90,NA,1,0,0,1,1,0,0,NA,0,1,NA,0,1,0,NA,NA,0,0,NA,0,0,Some Concerns,80+,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,11,M 90+,M,90,NA,2,0,1,0,0,0,0,NA,0,0,NA,1,0,0,NA,NA,0,0,NA,0,0,Some Concerns,80+,60+
+21,Ioakeim-Skoufa,2020,factor-based,EFA,11,M 90+,M,90,NA,3,0,0,0,0,1,0,NA,0,0,NA,0,0,0,NA,NA,0,0,NA,0,1,Some Concerns,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,1,M 80-89,M,80,89,1,NA,0,1,0,0,1,NA,NA,1,NA,1,0,NA,NA,0,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,1,M 80-89,M,80,89,2,NA,0,0,0,1,0,NA,NA,0,NA,0,0,NA,NA,0,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,1,M 80-89,M,80,89,3,NA,1,0,1,0,0,NA,NA,0,NA,0,0,NA,NA,0,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,2,M 90-99,M,90,99,1,NA,0,0,0,0,1,NA,NA,0,NA,1,0,NA,NA,0,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,2,M 90-99,M,90,99,2,NA,0,1,0,0,0,NA,NA,1,NA,0,0,NA,NA,0,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,2,M 90-99,M,90,99,3,NA,0,0,0,1,0,NA,NA,0,NA,0,0,NA,NA,0,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,2,M 90-99,M,90,99,4,NA,1,0,1,0,0,NA,NA,0,NA,0,0,NA,NA,0,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,3,M100+,M,100,NA,2,NA,0,0,0,0,0,NA,NA,0,NA,1,0,NA,NA,1,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,3,M100+,M,100,NA,3,NA,0,0,1,1,0,NA,NA,1,NA,0,1,NA,NA,0,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,4,F 80-89,F,80,89,1,NA,0,0,0,1,0,NA,NA,0,NA,0,0,NA,NA,0,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,4,F 80-89,F,80,89,2,NA,0,0,0,0,0,NA,NA,1,NA,0,0,NA,NA,0,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,4,F 80-89,F,80,89,3,NA,0,0,0,0,0,NA,NA,0,NA,0,0,NA,NA,1,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,4,F 80-89,F,80,89,4,NA,0,0,0,1,0,NA,NA,0,NA,0,0,NA,NA,0,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,5,F 90-99,F,90,99,1,NA,0,0,0,1,0,NA,NA,0,NA,0,0,NA,NA,0,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,5,F 90-99,F,90,99,2,NA,0,0,0,0,0,NA,NA,0,NA,1,0,NA,NA,0,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,5,F 90-99,F,90,99,5,NA,0,0,0,0,0,NA,NA,1,NA,0,0,NA,NA,0,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,6,F100+,F,100,NA,1,NA,0,0,0,0,0,NA,NA,0,NA,1,0,NA,NA,1,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,6,F100+,F,100,NA,4,NA,0,0,0,1,0,NA,NA,0,NA,0,0,NA,NA,0,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+22,Ioakeim-Skoufa,2022,cluster-based,K-means,6,F100+,F,100,NA,5,NA,0,0,0,0,0,NA,NA,1,NA,0,0,NA,NA,0,NA,NA,NA,NA,NA,Low Risk of Bias,80+,60+
+23,Lind,2020,factor-based,LCA,1,all,Both,65,NA,cluster 1,NA,0,NA,NA,0,0,NA,NA,NA,NA,0,0,0,NA,1,0,NA,NA,NA,0,Some Concerns,60+,60+
+23,Lind,2020,factor-based,LCA,1,all,Both,65,NA,cluster 2,NA,0,NA,NA,0,0,NA,NA,NA,NA,0,0,1,NA,0,0,NA,NA,NA,0,Some Concerns,60+,60+
+23,Lind,2020,factor-based,LCA,1,all,Both,65,NA,cluster 3,NA,0,NA,NA,0,0,NA,NA,NA,NA,1,0,0,NA,0,0,NA,NA,NA,0,Some Concerns,60+,60+
+23,Lind,2020,factor-based,LCA,1,all,Both,65,NA,cluster 4,NA,0,NA,NA,1,0,NA,NA,NA,NA,0,0,0,NA,1,0,NA,NA,NA,0,Some Concerns,60+,60+
+23,Lind,2020,factor-based,LCA,1,all,Both,65,NA,cluster 5,NA,0,NA,NA,0,0,NA,NA,NA,NA,1,0,0,NA,1,0,NA,NA,NA,0,Some Concerns,60+,60+
+23,Lind,2020,factor-based,LCA,1,all,Both,65,NA,cluster 6,NA,0,NA,NA,1,0,NA,NA,NA,NA,0,0,0,NA,0,0,NA,NA,NA,0,Some Concerns,60+,60+
+23,Lind,2020,factor-based,LCA,1,all,Both,65,NA,cluster 7,NA,0,NA,NA,0,0,NA,NA,NA,NA,0,0,1,NA,0,0,NA,NA,NA,0,Some Concerns,60+,60+
+24,M﻿øller,2020,factor-based,LCA,1,16-44,Both,16,44,"Asthma, allergy",1,0,0,0,0,0,0,NA,NA,0,0,NA,0,0,0,0,0,NA,0,0,Low Risk of Bias,0-39,0-39
+24,M﻿øller,2020,factor-based,LCA,1,16-44,Both,16,44,"Bone, joint diseases",0,0,0,0,0,0,0,NA,NA,0,1,NA,0,0,0,0,0,NA,0,0,Low Risk of Bias,0-39,0-39
+24,M﻿øller,2020,factor-based,LCA,1,16-44,Both,16,44,"Diabetes, heart diseases",0,0,0,0,0,1,0,NA,NA,0,1,NA,0,0,0,0,0,NA,0,0,Low Risk of Bias,0-39,0-39
+24,M﻿øller,2020,factor-based,LCA,1,16-44,Both,16,44,"Mental illness, epilepsy",0,0,0,0,0,0,0,NA,NA,0,0,NA,1,0,0,0,0,NA,1,0,Low Risk of Bias,0-39,0-39
+24,M﻿øller,2020,factor-based,LCA,1,16-44,Both,16,44,No or few diseases,1,0,0,0,0,0,0,NA,NA,0,0,NA,1,0,0,0,0,NA,0,0,Low Risk of Bias,0-39,0-39
+24,M﻿øller,2020,factor-based,LCA,2,45-64,Both,45,64,"Asthma, allergy",1,0,0,0,0,0,0,NA,NA,0,1,NA,0,0,0,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+24,M﻿øller,2020,factor-based,LCA,2,45-64,Both,45,64,"Bone, joint diseases",0,0,0,0,0,0,0,NA,NA,0,1,NA,0,0,1,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+24,M﻿øller,2020,factor-based,LCA,2,45-64,Both,45,64,"Diabetes, cholesterol",0,0,0,0,0,1,0,NA,NA,0,1,NA,0,0,0,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+24,M﻿øller,2020,factor-based,LCA,2,45-64,Both,45,64,Heart diseases,0,0,0,0,0,0,0,NA,NA,0,1,NA,0,0,0,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+24,M﻿øller,2020,factor-based,LCA,2,45-64,Both,45,64,Many diseases,0,0,0,0,0,0,0,NA,NA,0,1,NA,1,0,0,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+24,M﻿øller,2020,factor-based,LCA,2,45-64,Both,45,64,"Mental illness, epilepsy",0,0,0,0,0,0,1,NA,NA,0,0,NA,1,0,0,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+24,M﻿øller,2020,factor-based,LCA,2,45-64,Both,45,64,No or few diseases,0,0,0,0,0,0,0,NA,NA,0,1,NA,0,0,1,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+24,M﻿øller,2020,factor-based,LCA,3,65+,Both,65,NA,"Back disease, asthma allergy",0,0,0,0,0,0,0,NA,NA,0,1,NA,0,0,1,0,0,NA,0,0,Low Risk of Bias,60+,60+
+24,M﻿øller,2020,factor-based,LCA,3,65+,Both,65,NA,"COPD, cancer, liver disease",0,0,0,1,0,0,0,NA,NA,0,1,NA,0,0,0,1,0,NA,0,0,Low Risk of Bias,60+,60+
+24,M﻿øller,2020,factor-based,LCA,3,65+,Both,65,NA,"Diabetes, cholesterol",0,0,0,0,0,1,0,NA,NA,0,1,NA,0,0,0,0,0,NA,0,0,Low Risk of Bias,60+,60+
+24,M﻿øller,2020,factor-based,LCA,3,65+,Both,65,NA,Heart diseases,0,0,0,0,0,0,0,NA,NA,0,1,NA,0,0,0,0,0,NA,0,0,Low Risk of Bias,60+,60+
+24,M﻿øller,2020,factor-based,LCA,3,65+,Both,65,NA,Many diseases,0,0,0,0,0,0,0,NA,NA,0,1,NA,0,0,0,0,0,NA,0,0,Low Risk of Bias,60+,60+
+24,M﻿øller,2020,factor-based,LCA,3,65+,Both,65,NA,"Mental illness, epilepsy",0,0,0,0,0,0,0,NA,NA,0,1,NA,1,0,0,0,0,NA,0,0,Low Risk of Bias,60+,60+
+24,M﻿øller,2020,factor-based,LCA,3,65+,Both,65,NA,No or few diseases,0,0,0,0,0,0,0,NA,NA,0,1,NA,0,0,1,1,0,NA,0,0,Low Risk of Bias,60+,60+
+25,Nichols,2022,cluster-based,K-means,1,all,M,65,84,1,0,0,1,0,0,0,0,1,0,NA,1,0,0,NA,0,0,0,NA,NA,0,High Risk of Bias,60+,60+
+25,Nichols,2022,cluster-based,K-means,1,all,M,65,84,2,0,0,0,0,0,1,0,0,0,NA,1,0,0,NA,0,0,0,NA,NA,0,High Risk of Bias,60+,60+
+25,Nichols,2022,cluster-based,K-means,1,all,M,65,84,3,0,0,0,0,0,0,0,0,0,NA,0,0,0,NA,1,0,0,NA,NA,0,High Risk of Bias,60+,60+
+25,Nichols,2022,cluster-based,K-means,1,all,M,65,84,4,0,1,0,1,0,0,0,0,0,NA,0,0,1,NA,0,0,0,NA,NA,0,High Risk of Bias,60+,60+
+25,Nichols,2022,cluster-based,K-means-HCA,1,all,M,65,84,1,0,0,0,0,0,0,0,1,0,NA,1,1,0,NA,0,0,0,NA,NA,0,High Risk of Bias,60+,60+
+25,Nichols,2022,cluster-based,K-means-HCA,1,all,M,65,84,2,0,1,0,0,0,0,0,0,0,NA,0,0,1,NA,0,0,0,NA,NA,0,High Risk of Bias,60+,60+
+25,Nichols,2022,cluster-based,K-means-HCA,1,all,M,65,84,3,0,0,0,0,0,1,0,0,0,NA,0,1,0,NA,0,0,0,NA,NA,0,High Risk of Bias,60+,60+
+25,Nichols,2022,cluster-based,K-means-HCA,1,all,M,65,84,4,1,0,0,1,0,0,0,0,0,NA,0,0,0,NA,0,0,0,NA,NA,0,High Risk of Bias,60+,60+
+25,Nichols,2022,factor-based,LCA,1,all,M,65,84,1,0,0,0,0,0,1,0,0,0,NA,1,0,0,NA,0,0,0,NA,NA,0,High Risk of Bias,60+,60+
+25,Nichols,2022,factor-based,LCA,1,all,M,65,84,2,0,1,0,0,0,0,0,0,0,NA,0,0,0,NA,0,0,0,NA,NA,0,High Risk of Bias,60+,60+
+25,Nichols,2022,factor-based,LCA,1,all,M,65,84,3,0,0,0,0,0,0,0,0,1,NA,0,1,0,NA,0,0,0,NA,NA,0,High Risk of Bias,60+,60+
+25,Nichols,2022,factor-based,LCA,1,all,M,65,84,4,0,0,0,0,0,0,0,0,0,NA,0,1,0,NA,0,0,0,NA,NA,0,High Risk of Bias,60+,60+
+25,Nichols,2022,factor-based,MCA-kmeans,1,all,M,65,84,2,0,0,0,0,0,1,0,0,0,NA,1,0,0,NA,0,0,0,NA,NA,0,High Risk of Bias,60+,60+
+25,Nichols,2022,factor-based,MCA-kmeans,1,all,M,65,84,3,0,0,0,1,0,0,0,0,0,NA,0,1,0,NA,0,0,0,NA,NA,0,High Risk of Bias,60+,60+
+25,Nichols,2022,factor-based,MCA-kmeans,1,all,M,65,84,4,0,0,0,0,0,0,0,0,1,NA,0,1,0,NA,0,0,0,NA,NA,0,High Risk of Bias,60+,60+
+26,Planell-Morell,2020,cluster-based,Markov cluster algorithm,1,all,Both,45,NA,1,NA,1,1,1,1,1,NA,NA,1,NA,NA,1,1,0,1,1,0,0,NA,1,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+26,Planell-Morell,2020,cluster-based,Markov cluster algorithm,1,all,Both,45,NA,2,NA,0,0,0,0,0,NA,NA,0,NA,NA,0,1,0,0,0,1,0,NA,0,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+27,Poblador-Plou,2014,factor-based,EFA,1,M 15-44,M,15,44,1,0,0,NA,NA,0,1,0,0,0,NA,1,0,0,NA,NA,0,0,NA,NA,0,Low Risk of Bias,0-39,0-39
+27,Poblador-Plou,2014,factor-based,EFA,1,M 15-44,M,15,44,2,0,0,NA,NA,0,0,1,0,0,NA,0,0,1,NA,NA,0,0,NA,NA,0,Low Risk of Bias,0-39,0-39
+27,Poblador-Plou,2014,factor-based,EFA,1,M 15-44,M,15,44,3,0,0,NA,NA,0,0,0,0,0,NA,1,0,1,NA,NA,0,0,NA,NA,0,Low Risk of Bias,0-39,0-39
+27,Poblador-Plou,2014,factor-based,EFA,2,M 45 - 64,M,45,64,1,0,0,NA,NA,0,1,0,1,0,NA,1,1,0,NA,NA,0,0,NA,NA,1,Low Risk of Bias,40-59,40-59
+27,Poblador-Plou,2014,factor-based,EFA,2,M 45 - 64,M,45,64,2,0,0,NA,NA,0,0,0,0,0,NA,0,0,1,NA,NA,0,0,NA,NA,0,Low Risk of Bias,40-59,40-59
+27,Poblador-Plou,2014,factor-based,EFA,3,M 65+,M,65,NA,1,0,0,NA,NA,0,1,0,1,1,NA,1,1,0,NA,NA,0,0,NA,NA,1,Low Risk of Bias,60+,60+
+27,Poblador-Plou,2014,factor-based,EFA,3,M 65+,M,65,NA,2,0,1,NA,NA,0,0,0,0,0,NA,0,0,0,NA,NA,0,0,NA,NA,0,Low Risk of Bias,60+,60+
+27,Poblador-Plou,2014,factor-based,EFA,3,M 65+,M,65,NA,3,0,0,NA,NA,0,0,0,0,0,NA,0,0,0,NA,NA,0,0,NA,NA,0,Low Risk of Bias,60+,60+
+27,Poblador-Plou,2014,factor-based,EFA,4,F 15-44,F,15,44,1,1,0,NA,NA,0,0,0,0,0,NA,1,0,0,NA,NA,0,0,NA,NA,0,Low Risk of Bias,0-39,0-39
+27,Poblador-Plou,2014,factor-based,EFA,4,F 15-44,F,15,44,2,0,0,NA,NA,0,0,0,0,0,NA,0,0,1,NA,NA,0,0,NA,NA,0,Low Risk of Bias,0-39,0-39
+27,Poblador-Plou,2014,factor-based,EFA,4,F 15-44,F,15,44,3,0,0,NA,NA,0,0,1,0,0,NA,0,0,0,NA,NA,0,0,NA,NA,0,Low Risk of Bias,0-39,0-39
+27,Poblador-Plou,2014,factor-based,EFA,5,F 45-64,F,45,64,1,0,0,NA,NA,0,1,0,0,0,NA,1,1,0,NA,NA,0,0,NA,NA,1,Low Risk of Bias,40-59,40-59
+27,Poblador-Plou,2014,factor-based,EFA,5,F 45-64,F,45,64,2,0,0,NA,NA,0,0,1,0,0,NA,0,0,1,NA,NA,0,0,NA,NA,0,Low Risk of Bias,40-59,40-59
+27,Poblador-Plou,2014,factor-based,EFA,5,F 45-64,F,45,64,3,0,0,NA,NA,0,0,0,0,0,NA,0,0,0,NA,NA,0,0,NA,NA,0,Low Risk of Bias,40-59,40-59
+27,Poblador-Plou,2014,factor-based,EFA,6,F 65+,F,65,NA,1,0,0,NA,NA,1,1,0,1,1,NA,1,1,0,NA,NA,0,0,NA,NA,1,Low Risk of Bias,60+,60+
+27,Poblador-Plou,2014,factor-based,EFA,6,F 65+,F,65,NA,2,0,1,NA,NA,0,0,0,0,0,NA,0,0,1,NA,NA,0,0,NA,NA,0,Low Risk of Bias,60+,60+
+27,Poblador-Plou,2014,factor-based,EFA,6,F 65+,F,65,NA,3,1,0,NA,NA,0,0,0,0,0,NA,0,0,1,NA,NA,1,0,NA,NA,0,Low Risk of Bias,60+,60+
+28,Robertson,2022,cluster-based,k-medioids,1,all,Both,18,NA,1,0,1,0,NA,0,0,0,NA,1,NA,1,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+28,Robertson,2022,cluster-based,k-medioids,1,all,Both,18,NA,2,1,0,0,NA,0,0,0,NA,0,NA,1,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+28,Robertson,2022,cluster-based,k-medioids,1,all,Both,18,NA,3,1,0,0,NA,0,1,1,NA,0,NA,0,0,1,0,NA,NA,0,0,1,0,Low Risk of Bias,16+,"Adults
+(16+)"
+28,Robertson,2022,cluster-based,k-medioids,1,all,Both,18,NA,4,0,0,1,NA,0,1,0,NA,1,NA,1,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+28,Robertson,2022,cluster-based,k-medioids,1,all,Both,18,NA,5,0,0,1,NA,0,0,0,NA,0,NA,1,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+28,Robertson,2022,cluster-based,k-medioids,1,all,Both,18,NA,6,1,0,0,NA,0,0,0,NA,0,NA,1,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+28,Robertson,2022,cluster-based,k-medioids,1,all,Both,18,NA,7,0,1,0,NA,0,0,0,NA,0,NA,0,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+28,Robertson,2022,cluster-based,k-medioids,1,all,Both,18,NA,8,0,0,1,NA,0,0,0,NA,1,NA,0,1,0,0,NA,NA,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+28,Robertson,2022,cluster-based,k-medioids,1,all,Both,18,NA,9,0,0,0,NA,0,1,0,NA,0,NA,1,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+28,Robertson,2022,cluster-based,k-medioids,1,all,Both,18,NA,10,0,0,0,NA,0,0,0,NA,0,NA,1,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: directed network,1,Adult,Both,19,45,cluster 1,1,0,0,0,0,0,NA,NA,0,0,0,0,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,0-39,0-39
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: directed network,1,Adult,Both,19,45,cluster 3,0,0,1,0,0,1,NA,NA,0,0,1,0,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,0-39,0-39
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: directed network,1,Adult,Both,19,45,cluster 4,0,0,0,0,0,0,NA,NA,1,0,0,0,NA,0,NA,NA,0,NA,NA,1,Low Risk of Bias,0-39,0-39
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: directed network,2,Middle-Aged,Both,45,65,cluster 1,0,0,0,0,0,0,NA,NA,0,0,0,0,NA,0,NA,NA,0,NA,NA,1,Low Risk of Bias,40-59,40-59
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: directed network,2,Middle-Aged,Both,45,65,cluster 2,0,0,0,0,0,0,NA,NA,1,0,0,1,NA,0,NA,NA,0,NA,NA,1,Low Risk of Bias,40-59,40-59
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: directed network,2,Middle-Aged,Both,45,65,cluster 3,1,1,1,1,0,1,NA,NA,0,0,1,0,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,40-59,40-59
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: directed network,3,Aged,Both,65,80,cluster 1,0,0,0,0,0,0,NA,NA,0,0,0,1,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,60+,60+
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: directed network,3,Aged,Both,65,80,cluster 2,0,0,0,0,0,0,NA,NA,1,0,0,0,NA,0,NA,NA,0,NA,NA,1,Low Risk of Bias,60+,60+
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: directed network,3,Aged,Both,65,80,cluster 3,1,1,0,1,0,1,NA,NA,0,0,1,0,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,60+,60+
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: directed network,4,Elderly,Both,80,NA,cluster 1,0,0,0,0,0,0,NA,NA,0,0,0,1,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,80+,60+
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: directed network,4,Elderly,Both,80,NA,cluster 2,1,0,0,1,0,1,NA,NA,0,0,1,0,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,80+,60+
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: directed network,4,Elderly,Both,80,NA,cluster 3,0,0,0,0,1,0,NA,NA,1,0,0,0,NA,0,NA,NA,0,NA,NA,1,Low Risk of Bias,80+,60+
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: undirected network,1,Adult,Both,19,45,cluster 1,1,0,0,1,0,0,NA,NA,0,0,0,0,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,0-39,0-39
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: undirected network,1,Adult,Both,19,45,cluster 2,0,0,1,0,0,0,NA,NA,0,0,0,0,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,0-39,0-39
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: undirected network,1,Adult,Both,19,45,cluster 3,0,0,0,0,0,1,NA,NA,0,0,1,0,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,0-39,0-39
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: undirected network,2,Middle-Aged,Both,45,65,cluster 1,1,0,0,1,0,0,NA,NA,0,0,0,1,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,40-59,40-59
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: undirected network,2,Middle-Aged,Both,45,65,cluster 2,0,0,1,0,0,1,NA,NA,1,0,1,0,NA,0,NA,NA,0,NA,NA,1,Low Risk of Bias,40-59,40-59
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: undirected network,3,Aged,Both,65,80,cluster 2,0,0,0,0,0,1,NA,NA,1,0,0,0,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,60+,60+
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: undirected network,3,Aged,Both,65,80,cluster 3,1,0,0,1,0,0,NA,NA,0,0,0,0,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,60+,60+
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: undirected network,3,Aged,Both,65,80,cluster 4,0,0,0,0,0,0,NA,NA,0,0,0,1,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,60+,60+
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: undirected network,4,Elderly,Both,80,NA,cluster 1,1,0,0,1,0,0,NA,NA,0,0,0,0,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,80+,60+
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: undirected network,4,Elderly,Both,80,NA,cluster 2,0,0,0,0,0,0,NA,NA,0,0,0,1,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,80+,60+
+29,Siah,2022,cluster-based,Girvan-Newman algorithm: undirected network,4,Elderly,Both,80,NA,cluster 3,0,0,0,0,0,0,NA,NA,1,0,0,0,NA,0,NA,NA,0,NA,NA,0,Low Risk of Bias,80+,60+
+32,Violan,2019,cluster-based,fuzzy c-means,1,all,Both,65,99,1- Nervous and digestive,0,0,0,0,1,0,0,NA,0,NA,0,0,0,0,0,0,1,NA,0,0,Low Risk of Bias,60+,60+
+32,Violan,2019,cluster-based,fuzzy c-means,1,all,Both,65,99,"2- Respiratory, circulatory and nervous",1,0,0,1,0,0,1,NA,0,NA,0,0,0,0,0,0,1,NA,0,0,Low Risk of Bias,60+,60+
+32,Violan,2019,cluster-based,fuzzy c-means,1,all,Both,65,99,3- Circulatory and digestive,0,0,1,1,0,0,1,NA,0,NA,0,0,0,0,0,0,0,NA,0,1,Low Risk of Bias,60+,60+
+32,Violan,2019,cluster-based,fuzzy c-means,1,all,Both,65,99,"4- Mental, nervous and digestive, female dominant",0,0,0,0,0,0,0,NA,0,NA,0,0,1,0,0,0,0,NA,0,0,Low Risk of Bias,60+,60+
+32,Violan,2019,cluster-based,fuzzy c-means,1,all,Both,65,99,"5- Mental, digestive and blood, female oldest-old dominant",0,0,1,0,1,0,0,NA,0,NA,0,0,0,0,0,0,0,NA,0,0,Low Risk of Bias,60+,60+
+32,Violan,2019,cluster-based,fuzzy c-means,1,all,Both,65,99,"6- Nervous, musculoskeletal and circulatory, female dominant",0,0,0,0,0,0,0,NA,0,NA,0,0,0,0,1,0,0,NA,0,0,Low Risk of Bias,60+,60+
+32,Violan,2019,cluster-based,fuzzy c-means,1,all,Both,65,99,"7- Genitourinary, mental and musculoskeletal, male dominant",0,1,0,1,0,0,0,NA,0,NA,0,0,0,0,0,0,0,NA,0,0,Low Risk of Bias,60+,60+
+32,Violan,2019,cluster-based,fuzzy c-means,1,all,Both,65,99,"8- Non-specified, youngest-old dominant",0,0,0,0,0,0,0,NA,0,NA,0,0,0,0,0,0,0,NA,0,0,Low Risk of Bias,60+,60+
+33,Violan,2020,factor-based,HMM,1,all,Both,65,NA,10: multisystem pattern,1,0,0,0,1,0,0,NA,0,NA,0,0,1,0,0,1,0,NA,0,0,Low Risk of Bias,60+,60+
+33,Violan,2020,factor-based,HMM,1,all,Both,65,NA,4: cardio-circulatory and renal pattern,0,0,1,0,0,0,0,NA,1,NA,0,1,0,0,0,0,0,NA,0,1,Low Risk of Bias,60+,60+
+33,Violan,2020,factor-based,HMM,1,all,Both,65,NA,"5: cardio-circulatory, mental, respiratory, and genitourinary pattern",0,0,0,1,0,0,0,NA,1,NA,0,1,0,0,0,0,0,NA,0,1,Low Risk of Bias,60+,60+
+33,Violan,2020,factor-based,HMM,1,all,Both,65,NA,"6: nervous, digestive, and circulatory pattern",0,0,0,0,1,0,0,NA,0,NA,0,0,0,0,0,0,1,NA,0,1,Low Risk of Bias,60+,60+
+33,Violan,2020,factor-based,HMM,1,all,Both,65,NA,7: respiratory and ear pattern,1,0,0,1,0,0,0,NA,0,NA,0,0,0,0,0,0,0,NA,0,0,Low Risk of Bias,60+,60+
+33,Violan,2020,factor-based,HMM,1,all,Both,65,NA,"9: nervous, muskuloskeletal, and minor disease pattern",0,0,0,0,0,0,0,NA,0,NA,0,0,1,0,1,1,0,NA,0,0,Low Risk of Bias,60+,60+
+34,Webster,2021,cluster-based,HCA,1,all,Both,40,NA,1,0,1,0,0,NA,0,NA,NA,0,NA,0,0,NA,NA,0,0,0,NA,NA,0,High Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+34,Webster,2021,cluster-based,HCA,1,all,Both,40,NA,2,0,0,0,1,NA,0,NA,NA,0,NA,0,0,NA,NA,0,0,0,NA,NA,0,High Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+34,Webster,2021,cluster-based,HCA,1,all,Both,40,NA,3,0,0,0,0,NA,1,NA,NA,0,NA,0,0,NA,NA,0,0,0,NA,NA,0,High Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+34,Webster,2021,cluster-based,HCA,1,all,Both,40,NA,6,0,0,0,0,NA,0,NA,NA,1,NA,0,0,NA,NA,0,0,0,NA,NA,1,High Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+34,Webster,2021,cluster-based,HCA,1,all,Both,40,NA,7,0,0,0,0,NA,0,NA,NA,0,NA,1,0,NA,NA,0,0,0,NA,NA,0,High Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+34,Webster,2021,cluster-based,HCA,1,all,Both,40,NA,8,0,0,1,0,NA,0,NA,NA,0,NA,0,0,NA,NA,0,0,0,NA,NA,0,High Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+34,Webster,2021,cluster-based,HCA,1,all,Both,40,NA,9,1,0,0,0,NA,0,NA,NA,0,NA,0,0,NA,NA,0,0,0,NA,NA,0,High Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+34,Webster,2021,cluster-based,HCA,1,all,Both,40,NA,11,0,1,0,0,NA,0,NA,NA,0,NA,0,0,NA,NA,0,0,0,NA,NA,0,High Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+34,Webster,2021,cluster-based,HCA,1,all,Both,40,NA,13,0,0,0,0,NA,0,NA,NA,0,NA,0,0,NA,NA,0,0,1,NA,NA,0,High Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+34,Webster,2021,cluster-based,HCA,1,all,Both,40,NA,14,0,0,0,0,NA,0,NA,NA,0,NA,0,0,NA,NA,0,1,0,NA,NA,0,High Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+34,Webster,2021,cluster-based,HCA,1,all,Both,40,NA,19,0,1,0,0,NA,0,NA,NA,0,NA,0,0,NA,NA,0,0,0,NA,NA,0,High Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+34,Webster,2021,cluster-based,HCA,1,all,Both,40,NA,20,0,0,0,0,NA,0,NA,NA,0,NA,0,0,NA,NA,0,0,0,NA,NA,1,High Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+34,Webster,2021,cluster-based,HCA,1,all,Both,40,NA,21,0,0,0,0,NA,0,NA,NA,0,NA,0,1,NA,NA,0,0,0,NA,NA,1,High Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+35,Tan,2020,factor-based,LCA,1,all,Both,0,NA,class1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,1,0,NA,0,NA,NA,NA,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+35,Tan,2020,factor-based,LCA,1,all,Both,0,NA,class2,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,1,0,NA,0,NA,NA,NA,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+35,Tan,2020,factor-based,LCA,1,all,Both,0,NA,class3,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,NA,0,NA,NA,NA,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+35,Tan,2020,factor-based,LCA,1,all,Both,0,NA,class4,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,NA,1,NA,NA,NA,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+35,Tan,2020,factor-based,LCA,1,all,Both,0,NA,class5,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,1,NA,NA,NA,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+35,Tan,2020,factor-based,LCA,1,all,Both,0,NA,class6,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,1,0,NA,0,NA,NA,NA,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+35,Tan,2020,factor-based,LCA,1,all,Both,0,NA,class7,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,NA,1,NA,NA,NA,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+35,Tan,2020,factor-based,LCA,1,all,Both,0,NA,class8,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,NA,1,NA,NA,NA,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+37,Machon,2020,cluster-based,k-means,1,frail,Both,70,NA,FC1,0,0,0,0,0,0,0,NA,0,NA,1,0,0,0,0,0,0,NA,0,0,Low Risk of Bias,60+,60+
+37,Machon,2020,cluster-based,k-means,1,frail,Both,70,NA,FC2,0,0,0,0,0,0,0,NA,0,NA,1,0,0,0,1,0,0,NA,0,0,Low Risk of Bias,60+,60+
+37,Machon,2020,cluster-based,k-means,1,frail,Both,70,NA,FC3,0,0,0,0,0,0,0,NA,0,NA,1,0,0,0,0,0,0,NA,0,0,Low Risk of Bias,60+,60+
+37,Machon,2020,cluster-based,k-means,1,frail,Both,70,NA,FC4,0,0,0,0,0,0,0,NA,0,NA,1,0,1,0,0,0,0,NA,0,0,Low Risk of Bias,60+,60+
+37,Machon,2020,cluster-based,k-means,1,robust,Both,70,NA,RC1,0,0,0,0,0,0,0,NA,0,NA,1,0,0,0,0,0,0,NA,0,0,Low Risk of Bias,60+,60+
+37,Machon,2020,cluster-based,k-means,1,robust,Both,70,NA,RC2,0,0,0,0,0,0,0,NA,0,NA,1,0,0,0,0,0,0,NA,0,0,Low Risk of Bias,60+,60+
+37,Machon,2020,cluster-based,k-means,1,robust,Both,70,NA,RC3,0,0,0,0,0,1,0,NA,0,NA,1,0,0,0,0,0,0,NA,0,0,Low Risk of Bias,60+,60+
+38,Profili,2020,factor-based,EFA,1,all,Both,15,NA,1,NA,NA,1,0,0,1,0,NA,1,NA,1,1,NA,0,NA,NA,0,NA,NA,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+38,Profili,2020,factor-based,EFA,1,all,Both,15,NA,2,NA,NA,0,0,1,0,1,NA,0,NA,0,0,NA,0,NA,NA,1,NA,NA,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,2,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,3,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,4,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,5,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,0,1,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,15,1,0,0,0,0,0,1,0,0,NA,0,0,0,0,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,16,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,18,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,21,0,1,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,37,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,1,1,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,42,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,44,0,1,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,0,0,1,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,47,1,1,1,1,1,1,1,1,1,NA,1,1,1,0,1,1,1,1,0,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,51,0,0,0,0,0,0,0,0,0,NA,1,0,0,0,1,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,55,0,1,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,66,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,1,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,69,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,70,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,71,0,0,1,0,0,1,0,0,0,NA,1,1,0,0,1,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,72,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,1,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,74,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,80,0,1,1,0,0,0,0,0,0,NA,0,1,0,0,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,85,0,0,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,106,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,1,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,117,0,0,0,0,0,0,0,1,0,NA,0,0,0,0,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,118,0,1,0,0,0,0,0,0,0,NA,0,1,0,0,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,119,0,1,0,1,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+39,Srinivasan,2018,cluster-based,Louvain,1,all,Both,0,NA,120,0,0,0,1,0,0,1,0,0,NA,0,1,0,0,0,0,0,0,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+41,Jiang,2018,cluster-based,network link HCA (dissimilarity topological overlap matrix (TOM),1,all,Both,0,NA,black,NA,0,0,1,1,0,NA,0,0,NA,0,0,0,NA,0,NA,0,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+41,Jiang,2018,cluster-based,network link HCA (dissimilarity topological overlap matrix (TOM),1,all,Both,0,NA,blue,NA,1,0,0,0,0,NA,0,0,NA,0,0,0,NA,0,NA,0,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+41,Jiang,2018,cluster-based,network link HCA (dissimilarity topological overlap matrix (TOM),1,all,Both,0,NA,brown,NA,0,1,0,0,1,NA,0,1,NA,1,1,0,NA,0,NA,0,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+41,Jiang,2018,cluster-based,network link HCA (dissimilarity topological overlap matrix (TOM),1,all,Both,0,NA,green,NA,0,0,0,0,0,NA,0,0,NA,0,0,0,NA,1,NA,0,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+41,Jiang,2018,cluster-based,network link HCA (dissimilarity topological overlap matrix (TOM),1,all,Both,0,NA,red,NA,0,0,0,0,0,NA,0,0,NA,0,0,1,NA,0,NA,0,NA,1,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+41,Jiang,2018,cluster-based,network link HCA (dissimilarity topological overlap matrix (TOM),1,all,Both,0,NA,yellow,NA,0,0,0,0,1,NA,1,0,NA,1,1,0,NA,0,NA,1,NA,0,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+42,Jensen,2014,cluster-based,Markov cluster algorithm,1,all,Both,0,NA,Cardiovascular,0,0,1,0,0,0,0,1,1,NA,1,1,0,NA,0,0,0,1,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+42,Jensen,2014,cluster-based,Markov cluster algorithm,1,all,Both,0,NA,Cerebrovascular,0,0,0,0,0,0,1,0,0,NA,0,0,0,NA,0,0,0,0,NA,1,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+42,Jensen,2014,cluster-based,Markov cluster algorithm,1,all,Both,0,NA,COPD,0,0,1,1,1,1,0,0,0,NA,0,1,0,NA,0,1,0,0,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+42,Jensen,2014,cluster-based,Markov cluster algorithm,1,all,Both,0,NA,Diabetes,1,0,1,0,0,1,0,0,0,NA,1,0,0,NA,0,0,0,0,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+42,Jensen,2014,cluster-based,Markov cluster algorithm,1,all,Both,0,NA,None,1,1,1,1,1,1,1,1,1,NA,1,1,1,NA,1,1,1,0,NA,1,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+42,Jensen,2014,cluster-based,Markov cluster algorithm,1,all,Both,0,NA,Prostate,0,1,1,0,0,0,0,0,0,NA,0,0,0,NA,0,0,0,0,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,1,F,F,0,NA,130F,NA,0,NA,1,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,1,F,F,0,NA,135F,NA,0,NA,1,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,1,F,F,0,NA,160F,NA,0,NA,0,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,1,F,F,0,NA,220F,NA,0,NA,1,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,1,F,F,0,NA,301F,NA,0,NA,0,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,1,F,F,0,NA,42F,NA,0,NA,0,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,1,F,F,0,NA,62F,NA,0,NA,0,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,1,F,F,0,NA,63F,NA,0,NA,1,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,1,F,F,0,NA,74F,NA,0,NA,0,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,1,F,F,0,NA,93F,NA,0,NA,1,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,1,F,F,0,NA,97F,NA,0,NA,0,NA,NA,NA,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,2,M,M,0,NA,120M,NA,0,NA,0,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,2,M,M,0,NA,142M,NA,0,NA,1,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,2,M,M,0,NA,155M,NA,0,NA,1,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,2,M,M,0,NA,162M,NA,0,NA,0,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,2,M,M,0,NA,192M,NA,0,NA,0,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,2,M,M,0,NA,221M,NA,0,NA,0,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,2,M,M,0,NA,223M,NA,0,NA,0,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,2,M,M,0,NA,233M,NA,0,NA,1,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,2,M,M,0,NA,238M,NA,0,NA,1,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,2,M,M,0,NA,23M,NA,1,NA,0,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,2,M,M,0,NA,304M,NA,0,NA,1,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,2,M,M,0,NA,37M,NA,0,NA,1,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,2,M,M,0,NA,56M,NA,0,NA,1,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,2,M,M,0,NA,61M,NA,0,NA,1,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,cluster-based,DTW,2,M,M,0,NA,63M,NA,1,NA,0,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+44,Wartelle,2021,cluster-based,HCA,1,all,Both,0,NA,2: General symptoms and mental disorders,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,0,1,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+44,Wartelle,2021,cluster-based,HCA,1,all,Both,0,NA,4: General symptoms of chronic conditions,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+44,Wartelle,2021,cluster-based,HCA,1,all,Both,0,NA,5: Mental disorders and at-risk behaviours,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,NA,NA,NA,NA,NA,1,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+45,Violan,2016,cluster-based,HCA,1,W 25-44,F,25,44,4,NA,0,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,0-39,0-39
+45,Violan,2016,cluster-based,HCA,2,M 25-44,M,25,44,2,NA,0,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,0,NA,NA,NA,0,0,Low Risk of Bias,0-39,0-39
+46,Buja,2018,cluster-based,HCA,1,all,Both,65,NA,1,0,0,0,0,1,0,NA,NA,0,NA,0,0,1,NA,NA,0,NA,NA,NA,1,High Risk of Bias,60+,60+
+46,Buja,2018,cluster-based,HCA,1,all,Both,65,NA,2,1,0,0,1,0,0,NA,NA,0,NA,0,0,0,NA,NA,0,NA,NA,NA,0,High Risk of Bias,60+,60+
+46,Buja,2018,cluster-based,HCA,1,all,Both,65,NA,3,0,0,1,0,0,0,NA,NA,0,NA,0,0,0,NA,NA,1,NA,NA,NA,0,High Risk of Bias,60+,60+
+46,Buja,2018,cluster-based,HCA,1,all,Both,65,NA,4,0,0,0,0,0,0,NA,NA,0,NA,0,0,0,NA,NA,0,NA,NA,NA,0,High Risk of Bias,60+,60+
+46,Buja,2018,cluster-based,HCA,1,all,Both,65,NA,5,0,1,0,0,0,1,NA,NA,1,NA,1,1,0,NA,NA,0,NA,NA,NA,0,High Risk of Bias,60+,60+
+46,Buja,2018,factor-based,LCA,2,all,Both,65,NA,1,0,0,0,0,0,1,NA,NA,1,NA,1,1,0,NA,NA,0,NA,NA,NA,0,High Risk of Bias,60+,60+
+46,Buja,2018,factor-based,LCA,2,all,Both,65,NA,2,0,0,0,0,1,0,NA,NA,0,NA,0,0,1,NA,NA,0,NA,NA,NA,1,High Risk of Bias,60+,60+
+46,Buja,2018,factor-based,LCA,2,all,Both,65,NA,3,0,1,0,0,0,0,NA,NA,1,NA,1,0,0,NA,NA,0,NA,NA,NA,0,High Risk of Bias,60+,60+
+46,Buja,2018,factor-based,LCA,2,all,Both,65,NA,4,1,0,0,1,0,0,NA,NA,1,NA,0,0,0,NA,NA,0,NA,NA,NA,0,High Risk of Bias,60+,60+
+46,Buja,2018,factor-based,LCA,2,all,Both,65,NA,5,0,1,0,0,0,0,NA,NA,0,NA,0,0,0,NA,NA,0,NA,NA,NA,0,High Risk of Bias,60+,60+
+47,Collerton,2016,cluster-based,HCA,1,all,Both,85,NA,cluster_a,1,1,1,0,NA,1,NA,NA,1,NA,1,0,NA,NA,0,0,NA,NA,NA,1,Low Risk of Bias,80+,60+
+47,Collerton,2016,cluster-based,HCA,1,all,Both,85,NA,cluster_b,0,0,0,0,NA,1,NA,NA,0,NA,0,0,NA,NA,0,0,NA,NA,NA,1,Low Risk of Bias,80+,60+
+47,Collerton,2016,cluster-based,HCA,1,all,Both,85,NA,cluster_c,0,0,0,0,NA,0,NA,NA,0,NA,0,1,NA,NA,0,1,NA,NA,NA,0,Low Risk of Bias,80+,60+
+47,Collerton,2016,cluster-based,HCA,1,all,Both,85,NA,cluster_d,1,0,0,1,NA,0,NA,NA,0,NA,0,0,NA,NA,1,0,NA,NA,NA,0,Low Risk of Bias,80+,60+
+47,Collerton,2016,cluster-based,HCA,1,all,Both,85,NA,cluster_e,0,0,0,1,NA,0,NA,NA,0,NA,0,0,NA,NA,0,0,NA,NA,NA,0,Low Risk of Bias,80+,60+
+48,Diaz,2015,factor-based,EFA,1a,Norwegian M 15-44,M,15,44,1,0,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,0-39,0-39
+48,Diaz,2015,factor-based,EFA,1a,Norwegian M 15-44,M,15,44,2,1,0,NA,0,0,0,NA,0,0,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,0-39,0-39
+48,Diaz,2015,factor-based,EFA,1b,Norwegian M 45-64,M,45,64,1,0,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,1b,Norwegian M 45-64,M,45,64,2,0,0,NA,0,0,0,NA,0,0,NA,0,1,0,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,1b,Norwegian M 45-64,M,45,64,3,0,0,NA,0,0,1,NA,0,0,NA,1,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,1b,Norwegian M 45-64,M,45,64,4,1,0,NA,1,0,0,NA,0,0,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,1c,Norwegian M 65+,M,65,NA,1,0,0,NA,0,1,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,1c,Norwegian M 65+,M,65,NA,2,0,0,NA,0,0,0,NA,1,1,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,1c,Norwegian M 65+,M,65,NA,3,0,0,NA,0,0,1,NA,0,0,NA,1,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,1c,Norwegian M 65+,M,65,NA,4,1,0,NA,1,0,0,NA,0,0,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,1c,Norwegian M 65+,M,65,NA,5,0,1,NA,0,0,0,NA,0,0,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,1d,Norwegian F 15-44,F,15,44,1,0,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,0-39,0-39
+48,Diaz,2015,factor-based,EFA,1d,Norwegian F 15-44,F,15,44,2,0,0,NA,0,0,0,NA,0,0,NA,1,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,0-39,0-39
+48,Diaz,2015,factor-based,EFA,1e,Norwegian F 45-64,F,45,64,1,0,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,1e,Norwegian F 45-64,F,45,64,2,0,0,NA,0,0,1,NA,0,0,NA,1,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,1e,Norwegian F 45-64,F,45,64,3,1,0,NA,1,0,0,NA,0,0,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,1f,Norwegian F 65+,F,65,NA,1,0,0,NA,0,1,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,1f,Norwegian F 65+,F,65,NA,2,0,0,NA,0,0,1,NA,0,1,NA,0,1,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,1f,Norwegian F 65+,F,65,NA,3,0,0,NA,0,0,0,NA,0,0,NA,1,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,1f,Norwegian F 65+,F,65,NA,4,1,0,NA,1,0,0,NA,0,0,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,1f,Norwegian F 65+,F,65,NA,5,0,0,NA,0,0,0,NA,0,0,NA,0,0,0,NA,NA,1,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,2a,Western Countries M 15-44,M,15,44,1,0,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,0-39,0-39
+48,Diaz,2015,factor-based,EFA,2b,Western Countries M 45-64,M,45,64,1,0,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,2b,Western Countries M 45-64,M,45,64,2,0,0,NA,0,0,1,NA,0,0,NA,1,1,0,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,2b,Western Countries M 45-64,M,45,64,3,1,0,NA,1,0,0,NA,0,0,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,2c,Western Countries M 65+,M,65,NA,1,0,0,NA,0,0,0,NA,0,0,NA,1,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,2c,Western Countries M 65+,M,65,NA,2,0,0,NA,0,1,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,2c,Western Countries M 65+,M,65,NA,3,1,0,NA,0,0,0,NA,0,0,NA,0,1,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,2c,Western Countries M 65+,M,65,NA,4,0,0,NA,0,0,1,NA,0,1,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,2d,Western Countries F 15-44,F,15,44,1,0,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,0-39,0-39
+48,Diaz,2015,factor-based,EFA,2d,Western Countries F 15-44,F,15,44,2,1,0,NA,0,0,0,NA,0,0,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,0-39,0-39
+48,Diaz,2015,factor-based,EFA,2e,Western Countries F 45-64,F,45,64,1,0,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,2e,Western Countries F 45-64,F,45,64,2,0,0,NA,0,0,1,NA,0,0,NA,1,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,2f,Western Countries F 65+,F,65,NA,1,0,0,NA,0,1,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,2f,Western Countries F 65+,F,65,NA,2,0,0,NA,0,0,0,NA,0,1,NA,0,1,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,2f,Western Countries F 65+,F,65,NA,3,0,0,NA,0,0,1,NA,0,0,NA,1,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,2f,Western Countries F 65+,F,65,NA,4,1,0,NA,1,0,0,NA,0,0,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,2f,Western Countries F 65+,F,65,NA,5,0,1,NA,0,0,0,NA,0,0,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,3a,Eastern Europe M 15-44,M,15,44,1,0,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,0-39,0-39
+48,Diaz,2015,factor-based,EFA,3b,Eastern Europe M 45-64,M,45,64,1,0,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,3b,Eastern Europe M 45-64,M,45,64,2,0,0,NA,0,0,1,NA,0,0,NA,1,1,0,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,3c,Eastern Europe M 65+,M,65,NA,1,1,0,NA,1,1,0,NA,0,1,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,3c,Eastern Europe M 65+,M,65,NA,2,0,0,NA,0,0,0,NA,0,0,NA,1,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,3c,Eastern Europe M 65+,M,65,NA,3,0,1,NA,0,0,0,NA,0,0,NA,0,1,1,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,3c,Eastern Europe M 65+,M,65,NA,4,0,0,NA,0,0,1,NA,0,0,NA,0,1,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,3c,Eastern Europe M 65+,M,65,NA,5,0,0,NA,0,0,1,NA,0,0,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,3d,Eastern Europe F 15-44,F,15,44,1,0,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,0-39,0-39
+48,Diaz,2015,factor-based,EFA,3e,Eastern Europe F 45-64,F,45,64,1,0,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,1,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,3e,Eastern Europe F 45-64,F,45,64,2,0,0,NA,0,0,1,NA,0,0,NA,1,1,0,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,3f,Eastern Europe F 65+,F,65,NA,1,0,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,3f,Eastern Europe F 65+,F,65,NA,2,0,0,NA,0,0,1,NA,0,1,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,3f,Eastern Europe F 65+,F,65,NA,3,0,0,NA,1,0,0,NA,0,0,NA,0,0,0,NA,NA,1,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,4a,Other non-western M 15-44,M,15,44,1,0,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,0-39,0-39
+48,Diaz,2015,factor-based,EFA,4a,Other non-western M 15-44,M,15,44,2,1,0,NA,0,0,0,NA,0,0,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,0-39,0-39
+48,Diaz,2015,factor-based,EFA,4b,Other non-western M 45-64,M,45,64,1,1,0,NA,1,0,0,NA,0,0,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,4b,Other non-western M 45-64,M,45,64,2,0,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,1,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,4b,Other non-western M 45-64,M,45,64,3,0,0,NA,0,0,1,NA,0,0,NA,0,1,0,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,4b,Other non-western M 45-64,M,45,64,4,0,0,NA,0,0,0,NA,1,0,NA,1,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,4c,Other non-western M 65+,M,65,NA,1,0,0,NA,0,0,0,NA,1,1,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,4c,Other non-western M 65+,M,65,NA,2,0,0,NA,0,0,1,NA,0,1,NA,0,1,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,4c,Other non-western M 65+,M,65,NA,3,0,1,NA,0,0,0,NA,0,0,NA,1,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,4c,Other non-western M 65+,M,65,NA,4,1,0,NA,1,0,0,NA,0,0,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+48,Diaz,2015,factor-based,EFA,4d,Other non-western F 15-44,F,15,44,1,1,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,0-39,0-39
+48,Diaz,2015,factor-based,EFA,4e,Other non-western F 45-64,F,45,64,1,0,0,NA,0,0,0,NA,0,0,NA,0,0,1,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,4e,Other non-western F 45-64,F,45,64,2,0,0,NA,0,0,1,NA,0,0,NA,1,1,0,NA,NA,0,NA,NA,0,NA,Some Concerns,40-59,40-59
+48,Diaz,2015,factor-based,EFA,4f,Other non-western F 65+,F,65,NA,1,1,0,NA,1,0,0,NA,0,0,NA,1,0,0,NA,NA,0,NA,NA,0,NA,Some Concerns,60+,60+
+49,Diaz,2016,factor-based,EFA,4f,Other non-western F 65+,F,66,NA,2,0,0,NA,0,1,0,NA,0,0,NA,0,0,0,NA,NA,0,NA,NA,0,NA,Low Risk of Bias,60+,60+
+49,Foguet-Boreu,2015,cluster-based,HCA,1,W 65-79,F,65,79,1,NA,0,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,NA,1,NA,NA,NA,NA,0,Low Risk of Bias,60-79,60+
+49,Foguet-Boreu,2015,cluster-based,HCA,1,W 65-79,F,65,79,3,NA,0,NA,NA,NA,0,NA,NA,NA,NA,0,0,1,NA,0,NA,NA,NA,NA,0,Low Risk of Bias,60-79,60+
+49,Foguet-Boreu,2015,cluster-based,HCA,1,W 65-79,F,65,79,7,NA,0,NA,NA,NA,0,NA,NA,NA,NA,0,1,0,NA,0,NA,NA,NA,NA,1,Low Risk of Bias,60-79,60+
+49,Foguet-Boreu,2015,cluster-based,HCA,1,W 65-79,F,65,79,17,NA,1,NA,NA,NA,0,NA,NA,NA,NA,0,0,0,NA,0,NA,NA,NA,NA,0,Low Risk of Bias,60-79,60+
+49,Foguet-Boreu,2015,cluster-based,HCA,2,M 65-79,M,65,79,1,NA,0,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,NA,0,NA,NA,NA,NA,0,Low Risk of Bias,60-79,60+
+49,Foguet-Boreu,2015,cluster-based,HCA,2,M 65-79,M,65,79,2,NA,0,NA,NA,NA,0,NA,NA,NA,NA,0,0,0,NA,1,NA,NA,NA,NA,0,Low Risk of Bias,60-79,60+
+49,Foguet-Boreu,2015,cluster-based,HCA,2,M 65-79,M,65,79,4,NA,0,NA,NA,NA,0,NA,NA,NA,NA,0,1,0,NA,0,NA,NA,NA,NA,0,Low Risk of Bias,60-79,60+
+49,Foguet-Boreu,2015,cluster-based,HCA,2,M 65-79,M,65,79,7,NA,0,NA,NA,NA,0,NA,NA,NA,NA,0,0,1,NA,0,NA,NA,NA,NA,0,Low Risk of Bias,60-79,60+
+49,Foguet-Boreu,2015,cluster-based,HCA,2,M 65-79,M,65,79,8,NA,0,NA,NA,NA,0,NA,NA,NA,NA,0,0,0,NA,0,NA,NA,NA,NA,1,Low Risk of Bias,60-79,60+
+49,Foguet-Boreu,2015,cluster-based,HCA,3,W 80+,F,80,NA,1,NA,0,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,1,NA,NA,NA,NA,0,Low Risk of Bias,80+,60+
+49,Foguet-Boreu,2015,cluster-based,HCA,3,W 80+,F,80,NA,3,NA,0,NA,NA,NA,1,NA,NA,NA,NA,0,0,0,NA,0,NA,NA,NA,NA,0,Low Risk of Bias,80+,60+
+49,Foguet-Boreu,2015,cluster-based,HCA,4,M 80+,M,80,NA,1,NA,0,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,NA,1,NA,NA,NA,NA,0,Low Risk of Bias,80+,60+
+49,Foguet-Boreu,2015,cluster-based,HCA,4,M 80+,M,80,NA,3,NA,0,NA,NA,NA,0,NA,NA,NA,NA,0,1,0,NA,0,NA,NA,NA,NA,0,Low Risk of Bias,80+,60+
+49,Foguet-Boreu,2015,cluster-based,HCA,4,M 80+,M,80,NA,7,NA,0,NA,NA,NA,0,NA,NA,NA,NA,0,0,0,NA,0,NA,NA,NA,NA,1,Low Risk of Bias,80+,60+
+49,Foguet-Boreu,2015,cluster-based,HCA,4,M 80+,M,80,NA,11,NA,0,NA,NA,NA,0,NA,NA,NA,NA,0,0,1,NA,0,NA,NA,NA,NA,0,Low Risk of Bias,80+,60+
+50,Diaz,2017,factor-based,EFA,4f,Other non-western F 65+,F,67,NA,3,0,0,NA,0,0,0,NA,0,0,NA,0,1,1,NA,NA,0,NA,NA,0,NA,Low Risk of Bias,60+,60+
+50,Forslund,2021,cluster-based,k-means,1,all,Both,0,NA,Anxiety Depression Alcohol problems,0,0,0,0,0,0,0,NA,NA,NA,0,0,1,0,NA,NA,0,NA,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+50,Forslund,2021,cluster-based,k-means,1,all,Both,0,NA,Cancer,0,1,0,0,0,0,0,NA,NA,NA,1,0,0,0,NA,NA,0,NA,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+50,Forslund,2021,cluster-based,k-means,1,all,Both,0,NA,Diabetes Hypertension,0,0,0,0,0,1,0,NA,NA,NA,1,1,0,0,NA,NA,0,NA,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+50,Forslund,2021,cluster-based,k-means,1,all,Both,0,NA,Hearing loss,0,0,0,0,0,0,0,NA,NA,NA,1,0,0,0,NA,NA,0,NA,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+50,Forslund,2021,cluster-based,k-means,1,all,Both,0,NA,Hypertension,0,0,0,0,0,0,0,NA,NA,NA,1,1,0,0,NA,NA,0,NA,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+50,Forslund,2021,cluster-based,k-means,1,all,Both,0,NA,Hypertension Cardiovascular disease,0,0,0,0,0,0,0,NA,NA,NA,1,0,0,0,NA,NA,0,NA,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+50,Forslund,2021,cluster-based,k-means,1,all,Both,0,NA,Thyroid disorders,0,0,0,0,0,0,0,NA,NA,NA,1,0,1,0,NA,NA,0,NA,NA,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+51,Diaz,2018,factor-based,EFA,4f,Other non-western F 65+,F,68,NA,4,0,0,NA,0,0,0,NA,0,1,NA,0,1,0,NA,NA,0,NA,NA,0,NA,Low Risk of Bias,60+,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,1,W 65- 79,F,65,79,Cardiovascular pattern,0,0,NA,1,0,1,0,1,1,NA,1,1,1,NA,1,1,0,NA,NA,1,Low Risk of Bias,60-79,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,1,W 65- 79,F,65,79,Digestive pattern,0,1,NA,0,0,1,0,0,0,NA,1,0,1,NA,1,1,0,NA,NA,0,Low Risk of Bias,60-79,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,1,W 65- 79,F,65,79,Endocrine-metabolic pattern,0,0,NA,0,0,1,0,1,0,NA,1,0,0,NA,1,0,0,NA,NA,0,Low Risk of Bias,60-79,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,1,W 65- 79,F,65,79,Musculoskeletal pattern,0,0,NA,0,0,0,0,0,0,NA,1,0,1,NA,1,1,0,NA,NA,0,Low Risk of Bias,60-79,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,1,W 65- 79,F,65,79,Neuropsychiatric pattern,0,0,NA,0,1,1,1,0,0,NA,1,1,1,NA,1,1,1,NA,NA,1,Low Risk of Bias,60-79,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,1,W 65- 79,F,65,79,Nonspecific pattern,0,0,NA,0,0,0,0,0,0,NA,1,0,0,NA,0,1,0,NA,NA,0,Low Risk of Bias,60-79,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,2,M 65-79,M,65,79,Cardiovascular pattern,0,0,NA,1,0,1,0,0,1,NA,1,1,0,NA,0,0,0,NA,NA,0,Low Risk of Bias,60-79,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,2,M 65-79,M,65,79,Digestive-respiratory pattern,0,1,NA,1,0,1,0,0,0,NA,1,0,0,NA,0,0,0,NA,NA,0,Low Risk of Bias,60-79,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,2,M 65-79,M,65,79,Endocrine-metabolic pattern,0,0,NA,0,0,1,0,0,0,NA,1,0,0,NA,0,0,0,NA,NA,0,Low Risk of Bias,60-79,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,2,M 65-79,M,65,79,Muskuloskeletal pattern,1,0,NA,0,0,1,0,0,0,NA,1,0,1,NA,1,0,0,NA,NA,0,Low Risk of Bias,60-79,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,2,M 65-79,M,65,79,Neuropsychiatric pattern,0,0,NA,0,1,1,1,0,0,NA,1,1,1,NA,0,0,1,NA,NA,1,Low Risk of Bias,60-79,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,2,M 65-79,M,65,79,Nonspecific pattern,0,0,NA,0,0,0,0,0,0,NA,1,0,0,NA,0,0,0,NA,NA,0,Low Risk of Bias,60-79,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,3,W 80+,F,80,NA,Cardiovascular pattern,0,0,NA,1,0,1,0,0,1,NA,1,1,1,NA,1,1,0,NA,NA,0,Low Risk of Bias,80+,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,3,W 80+,F,80,NA,Digestive pattern,0,1,NA,1,0,1,0,0,0,NA,1,0,1,NA,1,1,0,NA,NA,0,Low Risk of Bias,80+,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,3,W 80+,F,80,NA,Endocrine-metabolic pattern,0,0,NA,0,0,1,0,1,0,NA,1,1,1,NA,1,0,0,NA,NA,0,Low Risk of Bias,80+,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,3,W 80+,F,80,NA,Muskuloskeletal pattern,0,1,NA,0,0,0,0,0,0,NA,1,0,1,NA,1,1,0,NA,NA,0,Low Risk of Bias,80+,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,3,W 80+,F,80,NA,Neuropsychiatric pattern,0,0,NA,0,1,0,1,0,0,NA,1,0,1,NA,1,1,1,NA,NA,1,Low Risk of Bias,80+,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,3,W 80+,F,80,NA,Nonspecific pattern,0,0,NA,0,0,0,0,0,0,NA,1,0,0,NA,1,1,0,NA,NA,0,Low Risk of Bias,80+,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,4,M 80+,M,80,NA,Cardiovascular pattern,0,0,NA,1,0,1,0,0,1,NA,1,0,0,NA,0,0,0,NA,NA,0,Low Risk of Bias,80+,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,4,M 80+,M,80,NA,Digestive-respiratory pattern,1,1,NA,1,0,0,0,0,0,NA,1,0,0,NA,1,1,0,NA,NA,0,Low Risk of Bias,80+,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,4,M 80+,M,80,NA,Endocrine-metabolic pattern,0,0,NA,1,0,1,0,0,1,NA,1,1,0,NA,0,0,0,NA,NA,0,Low Risk of Bias,80+,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,4,M 80+,M,80,NA,Muskuloskeletal pattern,0,1,NA,0,0,1,0,0,0,NA,1,0,1,NA,1,0,0,NA,NA,0,Low Risk of Bias,80+,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,4,M 80+,M,80,NA,Neuropsychiatric pattern,0,0,NA,0,1,1,1,0,0,NA,1,0,1,NA,1,0,1,NA,NA,1,Low Risk of Bias,80+,60+
+51,Guisado-Clavero,2018,cluster-based,k-means,4,M 80+,M,80,NA,Nonspecific pattern,0,0,NA,0,0,1,0,0,0,NA,1,0,0,NA,0,0,0,NA,NA,0,Low Risk of Bias,80+,60+
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S10,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,1,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S103,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S104,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S105,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S106,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,1,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S107,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S108,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,1,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S109,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S110,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S111,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S112,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S113,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S114,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S115,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S116,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S117,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S118,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,1,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S119,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,1,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S12,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,0,1,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S120,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S121,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S122,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S123,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S124,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,1,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S125,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,1,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S126,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,1,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S127,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,1,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S128,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,1,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S129,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,1,0,NA,NA,NA,NA,NA,0,1,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S130,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S131,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S132,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S18,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,1,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S28,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,1,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S49,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,1,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S66,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,1,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S7,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+53,Haug,2020,cluster-based,HCA (DIVCLUST),1,all,Both,0,NA,S72,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,1,NA,NA,NA,NA,NA,0,0,Low Risk of Bias,all ages,"All ages
+(0 - 100+)"
+54,Juul-Larsen,2020a,factor-based,LCA,1,Females,F,65,NA,1,NA,1,0,NA,0,0,0,NA,NA,NA,0,NA,0,NA,NA,NA,0,NA,NA,0,Low Risk of Bias,60+,60+
+54,Juul-Larsen,2020a,factor-based,LCA,1,Males,M,65,NA,1,NA,1,0,NA,0,0,0,NA,NA,NA,0,NA,0,NA,NA,NA,0,NA,NA,0,Low Risk of Bias,60+,60+
+54,Juul-Larsen,2020a,factor-based,LCA,1,Females,F,65,NA,2,NA,0,0,NA,0,1,0,NA,NA,NA,1,NA,0,NA,NA,NA,0,NA,NA,0,Low Risk of Bias,60+,60+
+54,Juul-Larsen,2020a,factor-based,LCA,1,Males,M,65,NA,2,NA,0,0,NA,0,1,0,NA,NA,NA,1,NA,0,NA,NA,NA,0,NA,NA,0,Low Risk of Bias,60+,60+
+54,Juul-Larsen,2020a,factor-based,LCA,1,Females,F,65,NA,3,NA,0,0,NA,1,0,1,NA,NA,NA,0,NA,0,NA,NA,NA,0,NA,NA,1,Low Risk of Bias,60+,60+
+54,Juul-Larsen,2020a,factor-based,LCA,1,Males,M,65,NA,3,NA,0,0,NA,1,0,1,NA,NA,NA,0,NA,0,NA,NA,NA,0,NA,NA,1,Low Risk of Bias,60+,60+
+54,Juul-Larsen,2020a,factor-based,LCA,1,Females,F,65,NA,4,NA,0,0,NA,0,0,0,NA,NA,NA,0,NA,0,NA,NA,NA,1,NA,NA,0,Low Risk of Bias,60+,60+
+54,Juul-Larsen,2020a,factor-based,LCA,1,Males,M,65,NA,4,NA,0,0,NA,0,0,0,NA,NA,NA,0,NA,0,NA,NA,NA,1,NA,NA,0,Low Risk of Bias,60+,60+
+54,Juul-Larsen,2020a,factor-based,LCA,1,Females,F,65,NA,5,NA,1,1,NA,1,0,1,NA,NA,NA,0,NA,1,NA,NA,NA,1,NA,NA,0,Low Risk of Bias,60+,60+
+54,Juul-Larsen,2020a,factor-based,LCA,1,Males,M,65,NA,5,NA,1,1,NA,1,0,1,NA,NA,NA,0,NA,1,NA,NA,NA,1,NA,NA,0,Low Risk of Bias,60+,60+
+54,Juul-Larsen,2020a,factor-based,LCA,1,Females,F,65,NA,6,NA,1,1,NA,0,1,0,NA,NA,NA,1,NA,1,NA,NA,NA,1,NA,NA,0,Low Risk of Bias,60+,60+
+54,Juul-Larsen,2020a,factor-based,LCA,1,Males,M,65,NA,6,NA,1,1,NA,0,1,0,NA,NA,NA,1,NA,1,NA,NA,NA,1,NA,NA,0,Low Risk of Bias,60+,60+
+54,Juul-Larsen,2020a,factor-based,LCA,1,Females,F,65,NA,7,NA,0,1,NA,0,1,0,NA,NA,NA,1,NA,1,NA,NA,NA,1,NA,NA,1,Low Risk of Bias,60+,60+
+54,Juul-Larsen,2020a,factor-based,LCA,1,Males,M,65,NA,7,NA,0,1,NA,0,1,0,NA,NA,NA,1,NA,1,NA,NA,NA,1,NA,NA,1,Low Risk of Bias,60+,60+
+54,Juul-Larsen,2020a,factor-based,LCA,1,Females,F,65,NA,8,NA,0,1,NA,1,1,1,NA,NA,NA,1,NA,1,NA,NA,NA,1,NA,NA,1,Low Risk of Bias,60+,60+
+54,Juul-Larsen,2020a,factor-based,LCA,1,Males,M,65,NA,8,NA,0,1,NA,1,1,1,NA,NA,NA,1,NA,1,NA,NA,NA,1,NA,NA,1,Low Risk of Bias,60+,60+
+55,Juul-Larsen,2020b,factor-based,LCA,1,all,Both,65,NA,1,NA,NA,0,NA,0,0,NA,NA,NA,NA,0,NA,0,NA,NA,NA,0,NA,NA,0,Low Risk of Bias,60+,60+
+55,Juul-Larsen,2020b,factor-based,LCA,1,all,Both,65,NA,2,NA,NA,1,NA,0,1,NA,NA,NA,NA,0,NA,1,NA,NA,NA,0,NA,NA,0,Low Risk of Bias,60+,60+
+55,Juul-Larsen,2020b,factor-based,LCA,1,all,Both,65,NA,3,NA,NA,1,NA,1,1,NA,NA,NA,NA,1,NA,1,NA,NA,NA,0,NA,NA,1,Low Risk of Bias,60+,60+
+55,Juul-Larsen,2020b,factor-based,LCA,1,all,Both,65,NA,4,NA,NA,1,NA,0,1,NA,NA,NA,NA,1,NA,0,NA,NA,NA,1,NA,NA,1,Low Risk of Bias,60+,60+
+56,Lai,2021,cluster-based,HCA,1,hongkong,Both,45,NA,1,0,1,0,NA,0,1,0,NA,1,NA,1,0,0,0,NA,NA,1,0,0,0,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,1,hongkong,Both,45,NA,2,0,0,0,NA,0,0,0,NA,1,NA,1,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,1,hongkong,Both,45,NA,3,0,0,1,NA,0,0,0,NA,0,NA,1,1,0,0,NA,NA,0,0,0,0,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,1,hongkong,Both,45,NA,4,0,0,0,NA,0,0,0,NA,1,NA,1,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,1,hongkong,Both,45,NA,5,0,0,0,NA,0,0,0,NA,1,NA,1,0,0,0,NA,NA,0,0,0,1,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,1,hongkong,Both,45,NA,6,0,1,0,NA,0,0,0,NA,1,NA,1,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,1,hongkong,Both,45,NA,7,1,0,0,NA,1,0,1,NA,1,NA,1,0,1,1,NA,NA,0,1,1,0,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,1,hongkong,Both,45,NA,8,0,0,0,NA,0,0,0,NA,1,NA,1,0,0,0,NA,NA,0,0,0,1,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,1,hongkong,Both,45,NA,9,0,1,0,NA,0,0,0,NA,1,NA,1,0,0,0,NA,NA,0,0,0,1,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,2,zurich,Both,45,NA,1,0,0,0,NA,0,1,0,NA,1,NA,1,0,0,0,NA,NA,1,0,0,0,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,2,zurich,Both,45,NA,2,0,1,0,NA,0,0,0,NA,1,NA,1,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,2,zurich,Both,45,NA,3,0,0,1,NA,0,0,0,NA,0,NA,1,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,2,zurich,Both,45,NA,4,0,1,0,NA,0,0,0,NA,0,NA,1,0,1,0,NA,NA,0,1,1,0,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,2,zurich,Both,45,NA,5,0,0,0,NA,0,0,1,NA,0,NA,1,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,2,zurich,Both,45,NA,6,0,0,0,NA,1,0,0,NA,1,NA,1,0,0,0,NA,NA,0,0,0,0,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,2,zurich,Both,45,NA,7,1,0,0,NA,0,0,1,NA,0,NA,1,0,0,1,NA,NA,0,0,0,0,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,2,zurich,Both,45,NA,8,0,0,0,NA,0,0,0,NA,1,NA,1,0,0,0,NA,NA,0,0,0,1,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+56,Lai,2021,cluster-based,HCA,2,zurich,Both,45,NA,9,0,0,1,NA,0,0,0,NA,0,NA,1,1,0,0,NA,NA,0,0,0,0,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+57,Marengoni,2009,cluster-based,HCA,1,all,Both,75,NA,1,NA,0,NA,0,0,0,NA,NA,1,NA,1,0,0,NA,NA,NA,NA,NA,NA,1,High Risk of Bias,60+,60+
+57,Marengoni,2009,cluster-based,HCA,1,all,Both,75,NA,2,NA,0,NA,1,0,0,NA,NA,0,NA,0,1,0,NA,NA,NA,NA,NA,NA,0,High Risk of Bias,60+,60+
+57,Marengoni,2009,cluster-based,HCA,1,all,Both,75,NA,3,NA,0,NA,0,0,1,NA,NA,0,NA,0,0,0,NA,NA,NA,NA,NA,NA,0,High Risk of Bias,60+,60+
+57,Marengoni,2009,cluster-based,HCA,1,all,Both,75,NA,4,NA,0,NA,0,1,0,NA,NA,0,NA,0,0,1,NA,NA,NA,NA,NA,NA,0,High Risk of Bias,60+,60+
+57,Marengoni,2009,cluster-based,HCA,1,all,Both,75,NA,5,NA,1,NA,0,0,0,NA,NA,0,NA,0,0,0,NA,NA,NA,NA,NA,NA,0,High Risk of Bias,60+,60+
+58,Marengoni,2013,cluster-based,HCA,1,first_wave,Both,65,NA,1,NA,1,0,0,0,0,NA,NA,0,NA,0,0,0,NA,0,NA,NA,NA,NA,0,High Risk of Bias,60+,60+
+58,Marengoni,2013,cluster-based,HCA,1,first_wave,Both,65,NA,2,NA,0,0,1,0,0,NA,NA,0,NA,0,0,0,NA,0,NA,NA,NA,NA,0,High Risk of Bias,60+,60+
+58,Marengoni,2013,cluster-based,HCA,1,first_wave,Both,65,NA,3,NA,0,0,0,0,1,NA,NA,0,NA,0,1,0,NA,0,NA,NA,NA,NA,0,High Risk of Bias,60+,60+
+58,Marengoni,2013,cluster-based,HCA,1,first_wave,Both,65,NA,4,NA,0,0,0,1,0,NA,NA,0,NA,0,0,0,NA,1,NA,NA,NA,NA,0,High Risk of Bias,60+,60+
+58,Marengoni,2013,cluster-based,HCA,1,first_wave,Both,65,NA,5,NA,0,0,0,0,0,NA,NA,0,NA,0,0,1,NA,0,NA,NA,NA,NA,0,High Risk of Bias,60+,60+
+58,Marengoni,2013,cluster-based,HCA,1,first_wave,Both,65,NA,7,NA,0,1,0,0,0,NA,NA,1,NA,0,0,0,NA,0,NA,NA,NA,NA,0,High Risk of Bias,60+,60+
+58,Marengoni,2013,cluster-based,HCA,1,first_wave,Both,65,NA,8,NA,0,0,0,0,0,NA,NA,0,NA,1,0,0,NA,0,NA,NA,NA,NA,1,High Risk of Bias,60+,60+
+58,Marengoni,2013,cluster-based,HCA,2,second_wave,Both,65,NA,1,NA,1,0,0,0,0,NA,NA,0,NA,0,0,0,NA,0,NA,NA,NA,NA,0,High Risk of Bias,60+,60+
+58,Marengoni,2013,cluster-based,HCA,2,second_wave,Both,65,NA,2,NA,0,0,0,0,1,NA,NA,0,NA,0,1,0,NA,0,NA,NA,NA,NA,0,High Risk of Bias,60+,60+
+58,Marengoni,2013,cluster-based,HCA,2,second_wave,Both,65,NA,3,NA,0,0,0,0,0,NA,NA,0,NA,1,0,0,NA,0,NA,NA,NA,NA,0,High Risk of Bias,60+,60+
+58,Marengoni,2013,cluster-based,HCA,2,second_wave,Both,65,NA,4,NA,0,0,0,1,0,NA,NA,0,NA,0,0,0,NA,1,NA,NA,NA,NA,1,High Risk of Bias,60+,60+
+58,Marengoni,2013,cluster-based,HCA,2,second_wave,Both,65,NA,5,NA,0,0,0,0,0,NA,NA,0,NA,0,0,1,NA,0,NA,NA,NA,NA,0,High Risk of Bias,60+,60+
+58,Marengoni,2013,cluster-based,HCA,2,second_wave,Both,65,NA,6,NA,0,0,1,0,0,NA,NA,1,NA,0,1,0,NA,0,NA,NA,NA,NA,0,High Risk of Bias,60+,60+
+59,Prasad,2022,factor-based,MCA,1,all,Both,40,NA,1,NA,1,0,NA,0,1,NA,NA,0,0,NA,0,NA,NA,NA,NA,NA,NA,NA,0,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+59,Prasad,2022,factor-based,MCA,1,all,Both,40,NA,2,NA,1,0,NA,0,1,NA,NA,0,0,NA,0,NA,NA,NA,NA,NA,NA,NA,1,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+59,Prasad,2022,factor-based,MCA,1,all,Both,40,NA,3,NA,0,0,NA,1,0,NA,NA,0,0,NA,0,NA,NA,NA,NA,NA,NA,NA,1,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+59,Prasad,2022,factor-based,MCA,1,all,Both,40,NA,4,NA,0,0,NA,0,0,NA,NA,0,0,NA,0,NA,NA,NA,NA,NA,NA,NA,1,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+59,Prasad,2022,factor-based,MCA,1,all,Both,40,NA,5,NA,0,0,NA,1,0,NA,NA,0,0,NA,0,NA,NA,NA,NA,NA,NA,NA,1,Low Risk of Bias,40+,"Middle-aged
+and older
+(40+)"
+60,Ruiz,2015,factor-based,MCA,1,all,Both,65,NA,1,NA,1,0,NA,1,0,NA,NA,0,NA,1,0,0,NA,NA,0,NA,0,NA,0,Low Risk of Bias,60+,60+
+60,Ruiz,2015,factor-based,MCA,1,all,Both,65,NA,2,NA,1,0,NA,0,1,NA,NA,0,NA,0,0,0,NA,NA,0,NA,0,NA,1,Low Risk of Bias,60+,60+
+60,Ruiz,2015,factor-based,MCA,1,all,Both,65,NA,3,NA,0,0,NA,0,0,NA,NA,1,NA,0,0,0,NA,NA,0,NA,1,NA,0,Low Risk of Bias,60+,60+
+61,Schramm,2022,factor-based,LCA,1,all,Both,40,64,"Asthma, allergy",1,0,0,0,0,0,0,NA,NA,0,1,NA,0,0,0,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+61,Schramm,2022,factor-based,LCA,1,all,Both,40,64,"Diabetes, hypertension, high cholesterol",0,0,0,0,0,1,0,NA,NA,0,1,NA,0,0,0,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+61,Schramm,2022,factor-based,LCA,1,all,Both,40,64,Few or no chronic conditions,0,0,0,0,0,0,0,NA,NA,0,1,NA,0,0,1,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+61,Schramm,2022,factor-based,LCA,1,all,Both,40,64,"Heart disease, hypertension, high cholesterol",0,0,0,0,0,0,0,NA,NA,0,1,NA,0,0,0,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+61,Schramm,2022,factor-based,LCA,1,all,Both,40,64,Many chronic conditions,0,0,0,0,0,0,0,NA,NA,0,1,NA,0,0,0,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+61,Schramm,2022,factor-based,LCA,1,all,Both,40,64,Musculoskeletal conditions,0,0,0,0,0,0,0,NA,NA,0,1,NA,0,0,1,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+61,Schramm,2022,factor-based,LCA,1,all,Both,40,64,"Psychiatric conditions, epilepsy",0,0,0,0,0,0,1,NA,NA,0,0,NA,1,0,0,0,0,NA,0,0,Low Risk of Bias,40-59,40-59
+62,Stafford,2021,cluster-based,fuzzy c-means,1,all,Both,65,NA,2: Diabetes,0,0,0,0,0,1,NA,NA,0,NA,0,0,0,NA,0,0,0,NA,NA,0,Low Risk of Bias,60+,60+
+62,Stafford,2021,cluster-based,fuzzy c-means,1,all,Both,65,NA,"4: Behavioral, Neurological, and Musculoskeletal, Female Dominant",0,0,0,0,0,0,NA,NA,0,NA,0,0,1,NA,1,0,0,NA,NA,0,Low Risk of Bias,60+,60+
+62,Stafford,2021,cluster-based,fuzzy c-means,1,all,Both,65,NA,5: Cardio-cerebrovascular and renal,0,0,1,0,0,0,NA,NA,1,NA,0,1,0,NA,0,0,0,NA,NA,1,Low Risk of Bias,60+,60+
+62,Stafford,2021,cluster-based,fuzzy c-means,1,all,Both,65,NA,"6: Cardiovascular, Renal, Inflammatory, and Respiratory",0,0,1,1,0,0,NA,NA,1,NA,0,1,0,NA,0,0,0,NA,NA,0,Low Risk of Bias,60+,60+
+62,Stafford,2021,cluster-based,fuzzy c-means,1,all,Both,65,NA,7: Multisystem,0,0,0,0,1,0,NA,NA,1,NA,0,0,0,NA,0,0,0,NA,NA,0,Low Risk of Bias,60+,60+
+63,Fortuna,2021,factor-based,EFA,1,all,Both,65,NA,pattern_1_cardiovascular,0,0,1,1,1,0,0,1,1,0,1,1,0,NA,NA,NA,0,NA,NA,1,Low Risk of Bias,60+,60+
+63,Fortuna,2021,factor-based,EFA,1,all,Both,65,NA,pattern_2_neuropsychiatric,0,0,0,0,1,0,1,0,1,0,0,0,1,NA,NA,NA,1,NA,NA,1,Low Risk of Bias,60+,60+
+63,Fortuna,2021,factor-based,EFA,1,all,Both,65,NA,pattern_3_metabolic,0,0,1,0,0,1,0,1,0,0,1,1,0,NA,NA,NA,0,NA,NA,0,Low Risk of Bias,60+,60+
+63,Fortuna,2021,factor-based,EFA,1,all,Both,65,NA,pattern_4_pain,0,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,0,NA,NA,0,Low Risk of Bias,60+,60+
+64,Tazzeo,2021,cluster-based,fuzzy c-means,1,all,Both,60,NA,"Cardio., Anemia, & Dementia",0,0,0,0,1,0,NA,NA,1,NA,0,1,0,NA,0,0,NA,NA,NA,1,Some Concerns,60+,60+
+64,Tazzeo,2021,cluster-based,fuzzy c-means,1,all,Both,60,NA,Metabolic & Sleep,0,0,0,0,0,1,NA,NA,0,NA,0,0,0,NA,0,0,NA,NA,NA,0,Some Concerns,60+,60+
+64,Tazzeo,2021,cluster-based,fuzzy c-means,1,all,Both,60,NA,"MSK, Resp., & GI",1,0,0,1,0,0,NA,NA,0,NA,0,0,0,NA,1,1,NA,NA,NA,0,Some Concerns,60+,60+
+64,Tazzeo,2021,cluster-based,fuzzy c-means,1,all,Both,60,NA,Psychiatric,1,0,0,0,0,0,NA,NA,0,NA,0,0,1,NA,0,0,NA,NA,NA,0,Some Concerns,60+,60+
+64,Tazzeo,2021,cluster-based,fuzzy c-means,1,all,Both,60,NA,Sensory & Cancer,0,1,0,0,0,0,NA,NA,0,NA,0,0,0,NA,0,0,NA,NA,NA,0,Some Concerns,60+,60+
+64,Tazzeo,2021,cluster-based,fuzzy c-means,1,all,Both,60,NA,Unspecific,0,1,0,0,0,0,NA,NA,0,NA,1,0,0,NA,1,0,NA,NA,NA,0,Some Concerns,60+,60+
+65,Vertrano,2022,factor-based,PCA,1,all,Both,60,NA,Dementia and Sensory Impairments,NA,0,NA,0,1,0,NA,NA,0,NA,0,0,1,NA,0,NA,0,NA,0,0,Low Risk of Bias,60+,60+
+65,Vertrano,2022,factor-based,PCA,1,all,Both,60,NA,"Diabetes, Musculoskeletal and Vascular Diseases",NA,0,NA,0,1,1,NA,NA,0,NA,1,0,0,NA,0,NA,1,NA,0,1,Low Risk of Bias,60+,60+
+65,Vertrano,2022,factor-based,PCA,1,all,Both,60,NA,Heart Diseases,NA,0,NA,0,0,0,NA,NA,1,NA,0,1,0,NA,0,NA,0,NA,0,0,Low Risk of Bias,60+,60+
+65,Vertrano,2022,factor-based,PCA,1,all,Both,60,NA,"Heart, Respiratory and Psychiatric Diseases",NA,0,NA,1,0,0,NA,NA,1,NA,0,1,1,NA,0,NA,0,NA,0,0,Low Risk of Bias,60+,60+
+66,Violan,2018,cluster-based,k-means,1,F,F,45,64,F2,NA,0,NA,NA,NA,0,NA,NA,NA,NA,0,0,0,NA,1,NA,NA,NA,0,0,High Risk of Bias,40-59,40-59
+66,Violan,2018,cluster-based,k-means,1,F,F,45,64,F5,NA,0,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,NA,0,NA,NA,NA,0,0,High Risk of Bias,40-59,40-59
+66,Violan,2018,cluster-based,k-means,2,M,M,45,64,M2,NA,0,NA,NA,NA,0,NA,NA,NA,NA,0,0,1,NA,0,NA,NA,NA,0,0,High Risk of Bias,40-59,40-59
+66,Violan,2018,cluster-based,k-means,2,M,M,45,64,M4,NA,0,NA,NA,NA,0,NA,NA,NA,NA,0,0,0,NA,1,NA,NA,NA,0,0,High Risk of Bias,40-59,40-59
+66,Violan,2018,cluster-based,k-means,2,M,M,45,64,M5,NA,0,NA,NA,NA,1,NA,NA,NA,NA,1,1,0,NA,0,NA,NA,NA,0,0,High Risk of Bias,40-59,40-59
+69,Soley-Bori,2024,factor-based,LCA,1,highcost,Both,18,NA,1,1,0,0,0,0,0,0,NA,0,0,0,0,1,0,0,0,0,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+69,Soley-Bori,2024,factor-based,LCA,1,highcost,Both,18,NA,2,0,0,0,0,0,0,0,NA,0,0,0,0,1,0,0,0,0,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+69,Soley-Bori,2024,factor-based,LCA,1,highcost,Both,18,NA,3,0,0,0,0,0,1,0,NA,0,0,0,0,0,0,1,0,0,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+69,Soley-Bori,2024,factor-based,LCA,1,highcost,Both,18,NA,4,0,0,0,0,0,0,0,NA,0,0,0,0,1,0,0,0,0,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+69,Soley-Bori,2024,factor-based,LCA,1,highcost,Both,18,NA,5,0,0,1,0,0,1,0,NA,1,0,0,1,0,0,0,0,0,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+69,Soley-Bori,2024,factor-based,LCA,2,lowcost,Both,18,NA,1,0,0,0,0,0,1,0,NA,0,0,0,0,0,0,0,0,0,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+69,Soley-Bori,2024,factor-based,LCA,2,lowcost,Both,18,NA,2,1,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+69,Soley-Bori,2024,factor-based,LCA,2,lowcost,Both,18,NA,3,0,0,0,0,0,0,0,NA,0,0,0,0,1,0,0,0,0,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+70,Cho,2024,cluster-based,HCA,1,white,Both,85,NA,ADRD,0,0,0,0,1,0,NA,NA,0,NA,0,0,1,NA,NA,0,NA,NA,NA,0,High Risk of Bias,80+,60+
+70,Cho,2024,cluster-based,HCA,1,white,Both,85,NA,bone & joint,0,0,0,0,0,0,NA,NA,0,NA,0,0,0,NA,NA,1,NA,NA,NA,0,High Risk of Bias,80+,60+
+70,Cho,2024,cluster-based,HCA,1,white,Both,85,NA,metabolic syndrome,0,0,0,0,0,1,NA,NA,0,NA,1,0,0,NA,NA,0,NA,NA,NA,0,High Risk of Bias,80+,60+
+70,Cho,2024,cluster-based,HCA,1,white,Both,85,NA,pulmonary-vascular-renal,0,0,1,1,0,0,NA,NA,1,NA,0,1,0,NA,NA,0,NA,NA,NA,0,High Risk of Bias,80+,60+
+70,Cho,2024,cluster-based,HCA,2,black,Both,85,NA,ADRD,0,0,0,0,1,0,NA,NA,0,NA,0,0,1,NA,NA,0,NA,NA,NA,0,High Risk of Bias,80+,60+
+70,Cho,2024,cluster-based,HCA,2,black,Both,85,NA,bone & joint,0,0,0,0,0,0,NA,NA,0,NA,0,0,0,NA,NA,1,NA,NA,NA,0,High Risk of Bias,80+,60+
+70,Cho,2024,cluster-based,HCA,2,black,Both,85,NA,metabolic syndrome-renal,0,0,1,0,0,1,NA,NA,0,NA,1,0,0,NA,NA,0,NA,NA,NA,1,High Risk of Bias,80+,60+
+70,Cho,2024,cluster-based,HCA,2,black,Both,85,NA,pulmonary-vascular,0,0,0,1,0,0,NA,NA,1,NA,0,1,0,NA,NA,0,NA,NA,NA,0,High Risk of Bias,80+,60+
+70,Cho,2024,cluster-based,HCA,3,hispanic,Both,85,NA,ADRD - COPD,0,0,0,1,1,0,NA,NA,0,NA,0,0,1,NA,NA,0,NA,NA,NA,0,High Risk of Bias,80+,60+
+70,Cho,2024,cluster-based,HCA,3,hispanic,Both,85,NA,bone & joint - renal,0,0,1,0,0,0,NA,NA,0,NA,0,0,0,NA,NA,1,NA,NA,NA,0,High Risk of Bias,80+,60+
+70,Cho,2024,cluster-based,HCA,3,hispanic,Both,85,NA,metabolic syndrome,0,0,0,0,0,1,NA,NA,0,NA,1,0,0,NA,NA,0,NA,NA,NA,0,High Risk of Bias,80+,60+
+70,Cho,2024,cluster-based,HCA,3,hispanic,Both,85,NA,vascular,0,0,0,0,0,0,NA,NA,1,NA,0,1,0,NA,NA,0,NA,NA,NA,1,High Risk of Bias,80+,60+
+70,Cho,2024,cluster-based,HCA,4,other,Both,85,NA,bone & joint,0,0,0,0,0,0,NA,NA,0,NA,0,0,0,NA,NA,1,NA,NA,NA,0,High Risk of Bias,80+,60+
+70,Cho,2024,cluster-based,HCA,5,other,Both,85,NA,ADRD & stroke,0,0,0,0,1,0,NA,NA,0,NA,0,0,1,NA,NA,0,NA,NA,NA,1,High Risk of Bias,80+,60+
+70,Cho,2024,cluster-based,HCA,6,other,Both,85,NA,metabolic syndrome - renal,0,0,1,0,0,1,NA,NA,0,NA,1,0,0,NA,NA,0,NA,NA,NA,0,High Risk of Bias,80+,60+
+70,Cho,2024,cluster-based,HCA,7,other,Both,85,NA,pulmonary-vascular,0,0,0,1,0,0,NA,NA,1,NA,0,1,0,NA,NA,0,NA,NA,NA,0,High Risk of Bias,80+,60+
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,5,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,10,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,12,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,13,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,14,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,19,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih MCA,1,MCA,Both,18,NA,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,3,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,13,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,15,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,18,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,21,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+71,Beaney,2024,cluster-based,MMCD wih SGM,2,SGM,Both,18,NA,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,15,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,47,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,51,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,64,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,66,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,68,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,69,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,70,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,74,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,75,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,77,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,78,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,81,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,82,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,89,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,93,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,102,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,104,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,106,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,107,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,108,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,109,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,110,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,114,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,117,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,119,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,120,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,122,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,123,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,124,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,126,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,132,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,139,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,140,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,144,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,154,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,156,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,157,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,161,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,162,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,163,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,164,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,165,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,166,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,167,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,171,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,173,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,179,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,181,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,184,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,185,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,186,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,189,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,197,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,201,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,202,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,203,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,204,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,206,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,208,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,209,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,211,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,223,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,225,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,226,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,227,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,228,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,236,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,237,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,239,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,241,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,245,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,247,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,248,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,249,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,250,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,251,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,252,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,253,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,254,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,255,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,256,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,257,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,258,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,259,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,260,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,261,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,270,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,272,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,273,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,274,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,275,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,278,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,279,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,280,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,282,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,284,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,295,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,296,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,307,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,311,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,319,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,323,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,324,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,325,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,328,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,329,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,330,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,331,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,332,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,333,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,335,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,338,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,339,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,340,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,341,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,342,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,343,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,344,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,345,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,346,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,347,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,348,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,349,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,350,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,352,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,354,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,355,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,357,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,363,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,364,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,367,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,368,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,370,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,371,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,372,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,374,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,376,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,377,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,393,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,397,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,401,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,407,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,408,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,410,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,415,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,416,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,417,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,418,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,419,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,420,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,421,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,422,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,425,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,426,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,428,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,430,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,433,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,434,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,436,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,437,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,438,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,441,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,443,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,1,F,F,20,79,444,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,51,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,61,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,67,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,69,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,70,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,72,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,73,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,74,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,77,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,83,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,84,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,85,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,86,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,92,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,108,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,110,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,111,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,112,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,113,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,114,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,115,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,116,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,118,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,119,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,122,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,123,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,126,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,131,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,133,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,140,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,149,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,161,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,168,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,173,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,174,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,175,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,176,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,177,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,178,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,179,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,180,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,181,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,182,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,183,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,184,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,189,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,194,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,200,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,203,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,204,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,205,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,207,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,209,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,212,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,213,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,217,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,218,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,219,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,221,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,228,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,229,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,247,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,248,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,257,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,258,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,261,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,262,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,268,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,271,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,272,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,273,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,274,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,275,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,276,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,277,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,278,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,279,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,280,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,281,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,282,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,283,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,291,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,292,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,297,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,298,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,301,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,302,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,303,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,315,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,320,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,329,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,337,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,342,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,343,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,344,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,346,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,351,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,353,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,356,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,357,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,358,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,359,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,360,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,361,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,362,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,363,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,364,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,365,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,366,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,367,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,369,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,370,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,373,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,374,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,375,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,378,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,379,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,382,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,383,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,384,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,386,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,389,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,390,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,394,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,397,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,398,0,0,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,400,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,401,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,402,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,405,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,406,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,408,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,413,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,414,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,416,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,417,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,418,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,419,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,420,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,422,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,423,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,427,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,428,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,432,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,433,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,434,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,435,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,436,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,437,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,438,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,441,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,444,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,445,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,448,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,450,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,451,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,454,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,457,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+72,Dervic,2024,cluster-based,hierarchical modularity community detection,2,M,M,20,79,458,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+73,Ioakeim-Skoufa,2024,cluster-based,k-means,1,2011,Both,18,65,Dyslipidaemia...endocrine.metabolic,0,0,0,0,0,0,0,0,NA,NA,0,0,0,NA,0,0,NA,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+73,Ioakeim-Skoufa,2024,cluster-based,k-means,1,2011,Both,18,65,Hypertension...obesity,0,0,0,0,0,0,0,0,NA,NA,1,0,0,NA,0,0,NA,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+73,Ioakeim-Skoufa,2024,cluster-based,k-means,1,2011,Both,18,65,Unspecific,0,0,0,0,0,0,0,0,NA,NA,0,0,1,NA,0,0,NA,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+73,Ioakeim-Skoufa,2024,cluster-based,k-means,2,2015,Both,18,65,Anxiety...upper.respiratory.disease,0,0,0,0,0,0,0,0,NA,NA,0,0,1,NA,0,0,NA,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+73,Ioakeim-Skoufa,2024,cluster-based,k-means,2,2015,Both,18,65,Dyslipidaemia...endocrine.metabolic,0,0,0,0,0,0,0,0,NA,NA,0,0,0,NA,0,0,NA,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+73,Ioakeim-Skoufa,2024,cluster-based,k-means,2,2015,Both,18,65,Hypertension...obesity,0,0,0,0,0,0,0,0,NA,NA,1,0,0,NA,0,0,NA,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+73,Ioakeim-Skoufa,2024,cluster-based,k-means,2,2015,Both,18,65,Unspecific,0,0,0,0,0,0,0,0,NA,NA,0,0,1,NA,0,0,NA,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+73,Ioakeim-Skoufa,2024,cluster-based,k-means,3,2019,Both,18,65,Depression...thyroid.disorders,0,0,0,0,0,0,0,0,NA,NA,0,0,1,NA,0,0,NA,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+73,Ioakeim-Skoufa,2024,cluster-based,k-means,3,2019,Both,18,65,Dyslipidaemia...endocrine.metabolic,0,0,0,0,0,0,0,0,NA,NA,0,0,0,NA,0,0,NA,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+73,Ioakeim-Skoufa,2024,cluster-based,k-means,3,2019,Both,18,65,Hypertension..obesity...diabetes,0,0,0,0,0,1,0,0,NA,NA,1,0,0,NA,0,0,NA,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+73,Ioakeim-Skoufa,2024,cluster-based,k-means,3,2019,Both,18,65,Unspecific,0,0,0,0,0,0,0,0,NA,NA,0,0,1,NA,0,0,NA,0,NA,0,Low Risk of Bias,16+,"Adults
+(16+)"
+74,Stockmarr,2024,cluster-based,k-means,1,all,Both,18,NA,cluster.all,NA,0,NA,1,0,0,NA,NA,NA,NA,1,0,0,NA,0,0,NA,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+74,Stockmarr,2024,cluster-based,k-means,1,all,Both,18,NA,cluster.chc,NA,0,NA,0,0,0,NA,NA,NA,NA,1,1,0,NA,0,0,NA,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+74,Stockmarr,2024,cluster-based,k-means,1,all,Both,18,NA,cluster.chl,NA,0,NA,0,0,0,NA,NA,NA,NA,1,0,1,NA,0,0,NA,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+74,Stockmarr,2024,cluster-based,k-means,1,all,Both,18,NA,cluster.dia,NA,0,NA,0,0,1,NA,NA,NA,NA,1,0,0,NA,0,0,NA,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+74,Stockmarr,2024,cluster-based,k-means,1,all,Both,18,NA,cluster.m.p,NA,0,NA,0,0,0,NA,NA,NA,NA,1,0,1,NA,0,1,NA,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+75,Seghieri,2024,cluster-based,fuzzy k-means,1,M 25-44,M,25,44,autoimmune,1,0,0,0,0,1,0,NA,0,0,0,0,NA,0,NA,NA,0,0,NA,0,Low Risk of Bias,0-39,0-39
+75,Seghieri,2024,cluster-based,fuzzy k-means,1,M 25-44,M,25,44,cancer - endocrine,0,1,0,0,0,0,0,NA,0,0,0,0,NA,0,NA,NA,0,0,NA,0,Low Risk of Bias,0-39,0-39
+75,Seghieri,2024,cluster-based,fuzzy k-means,1,M 25-44,M,25,44,cardio-metabolic,0,0,0,0,0,1,0,NA,1,0,1,1,NA,0,NA,NA,0,0,NA,0,Low Risk of Bias,0-39,0-39
+75,Seghieri,2024,cluster-based,fuzzy k-means,1,M 25-44,M,25,44,neurological,0,0,0,0,0,0,1,NA,0,0,0,0,NA,0,NA,NA,0,0,NA,1,Low Risk of Bias,0-39,0-39
+75,Seghieri,2024,cluster-based,fuzzy k-means,2,M 45-64,M,45,64,autoimmune,0,0,1,0,0,0,0,NA,0,0,0,0,NA,0,NA,NA,0,0,NA,0,Low Risk of Bias,40-59,40-59
+75,Seghieri,2024,cluster-based,fuzzy k-means,2,M 45-64,M,45,64,cancer-endocrine - rheumatological,1,1,0,1,0,0,0,NA,0,0,0,0,NA,0,NA,NA,0,1,NA,0,Low Risk of Bias,40-59,40-59
+75,Seghieri,2024,cluster-based,fuzzy k-means,2,M 45-64,M,45,64,cardio-metabolic,0,0,0,0,0,1,0,NA,1,0,1,1,NA,0,NA,NA,0,0,NA,0,Low Risk of Bias,40-59,40-59
+75,Seghieri,2024,cluster-based,fuzzy k-means,2,M 45-64,M,45,64,neurological,0,0,0,0,0,0,1,NA,0,0,0,0,NA,1,NA,NA,1,0,NA,0,Low Risk of Bias,40-59,40-59
+75,Seghieri,2024,cluster-based,fuzzy k-means,3,M 65-84,M,65,84,autoimmune - rheumatological,1,0,0,0,0,0,0,NA,0,0,0,0,NA,0,NA,NA,0,1,NA,0,Low Risk of Bias,60+,60+
+75,Seghieri,2024,cluster-based,fuzzy k-means,3,M 65-84,M,65,84,cardio - metabolic - cancer,0,1,1,1,0,1,0,NA,1,0,1,1,NA,0,NA,NA,0,0,NA,1,Low Risk of Bias,60+,60+
+75,Seghieri,2024,cluster-based,fuzzy k-means,3,M 65-84,M,65,84,endocrine - infective,0,0,0,0,0,0,0,NA,0,1,0,0,NA,0,NA,NA,0,0,NA,0,Low Risk of Bias,60+,60+
+75,Seghieri,2024,cluster-based,fuzzy k-means,3,M 65-84,M,65,84,neurological,0,0,0,0,1,0,1,NA,0,0,0,0,NA,0,NA,NA,1,0,NA,0,Low Risk of Bias,60+,60+
+75,Seghieri,2024,cluster-based,fuzzy k-means,4,M 85-100,M,85,100,autoimmune -rheumatological,0,0,0,0,0,1,0,NA,0,0,0,0,NA,0,NA,NA,0,1,NA,0,Low Risk of Bias,80+,60+
+75,Seghieri,2024,cluster-based,fuzzy k-means,4,M 85-100,M,85,100,cardio-metabolic-cancer,0,1,1,1,0,1,0,NA,1,0,1,1,NA,0,NA,NA,0,0,NA,1,Low Risk of Bias,80+,60+
+75,Seghieri,2024,cluster-based,fuzzy k-means,4,M 85-100,M,85,100,neurological,0,0,0,0,1,0,1,NA,0,0,0,0,NA,0,NA,NA,1,0,NA,0,Low Risk of Bias,80+,60+
+75,Seghieri,2024,cluster-based,fuzzy k-means,5,F 25-44,F,25,44,autoimmune,1,0,0,0,0,1,0,NA,0,0,0,0,NA,0,NA,NA,0,0,NA,0,Low Risk of Bias,0-39,0-39
+75,Seghieri,2024,cluster-based,fuzzy k-means,5,F 25-44,F,25,44,cancer - endocrine,0,1,0,0,0,0,0,NA,0,0,0,0,NA,1,NA,NA,0,1,NA,0,Low Risk of Bias,0-39,0-39
+75,Seghieri,2024,cluster-based,fuzzy k-means,5,F 25-44,F,25,44,cancer - metabolic,0,0,1,0,0,1,0,NA,0,0,1,0,NA,0,NA,NA,0,0,NA,0,Low Risk of Bias,0-39,0-39
+75,Seghieri,2024,cluster-based,fuzzy k-means,5,F 25-44,F,25,44,neurological,0,0,0,0,0,0,1,NA,0,0,0,0,NA,0,NA,NA,0,0,NA,1,Low Risk of Bias,0-39,0-39
+75,Seghieri,2024,cluster-based,fuzzy k-means,6,F 45-64,F,45,64,autoimmune - infective,0,0,1,0,0,1,0,NA,0,1,0,0,NA,0,NA,NA,0,0,NA,0,Low Risk of Bias,40-59,40-59
+75,Seghieri,2024,cluster-based,fuzzy k-means,6,F 45-64,F,45,64,cardio-metabolic-cancer-endocrine,1,1,0,1,0,1,0,NA,1,0,1,1,NA,0,NA,NA,0,0,NA,0,Low Risk of Bias,40-59,40-59
+75,Seghieri,2024,cluster-based,fuzzy k-means,6,F 45-64,F,45,64,neurological,0,0,0,0,0,0,1,NA,0,0,0,0,NA,1,NA,NA,1,0,NA,1,Low Risk of Bias,40-59,40-59
+75,Seghieri,2024,cluster-based,fuzzy k-means,6,F 45-64,F,45,64,rheumatological,0,0,0,0,0,0,0,NA,0,0,0,0,NA,0,NA,NA,0,1,NA,0,Low Risk of Bias,40-59,40-59
+75,Seghieri,2024,cluster-based,fuzzy k-means,7,F 65-84,F,65,85,cardio-metabolic-cancer-endocrine,0,1,0,1,0,1,0,NA,1,0,1,1,NA,0,NA,NA,0,0,NA,0,Low Risk of Bias,60+,60+
+75,Seghieri,2024,cluster-based,fuzzy k-means,7,F 65-84,F,65,85,neurological,0,0,1,0,1,0,1,NA,0,0,0,0,NA,0,NA,NA,1,0,NA,1,Low Risk of Bias,60+,60+
+75,Seghieri,2024,cluster-based,fuzzy k-means,7,F 65-84,F,65,85,pulmonary - autoimmune,0,0,0,0,0,1,0,NA,0,0,0,0,NA,0,NA,NA,0,0,NA,0,Low Risk of Bias,60+,60+
+75,Seghieri,2024,cluster-based,fuzzy k-means,7,F 65-84,F,65,85,rheumatological,0,0,0,0,0,0,0,NA,0,0,0,0,NA,1,NA,NA,0,1,NA,0,Low Risk of Bias,60+,60+
+75,Seghieri,2024,cluster-based,fuzzy k-means,8,F 85-100,F,85,100,autoimmune - rheumatological,1,0,0,0,0,1,0,NA,0,0,0,0,NA,0,NA,NA,0,1,NA,0,Low Risk of Bias,80+,60+
+75,Seghieri,2024,cluster-based,fuzzy k-means,8,F 85-100,F,85,100,cardio-metabolic-cancer,0,1,0,1,0,1,0,NA,1,0,1,1,NA,0,NA,NA,0,0,NA,0,Low Risk of Bias,80+,60+
+75,Seghieri,2024,cluster-based,fuzzy k-means,8,F 85-100,F,85,100,neurological,0,0,0,0,1,0,1,NA,0,0,0,0,NA,0,NA,NA,1,0,NA,1,Low Risk of Bias,80+,60+
+76,Jiang,2023,factor-based,bayesian hierarchical model,1,UK biobank- under 60,Both,40,59,arp,0,0,0,0,NA,0,0,0,0,NA,0,0,0,0,1,0,0,0,NA,0,Low Risk of Bias,40-59,40-59
+76,Jiang,2023,factor-based,bayesian hierarchical model,1,UK biobank- under 60,Both,40,59,cer,0,0,0,1,NA,0,0,0,0,NA,0,0,1,0,0,0,0,0,NA,1,Low Risk of Bias,40-59,40-59
+76,Jiang,2023,factor-based,bayesian hierarchical model,1,UK biobank- under 60,Both,40,59,cvd,0,0,0,0,NA,0,0,0,1,NA,0,1,0,0,0,0,0,0,NA,0,Low Risk of Bias,40-59,40-59
+76,Jiang,2023,factor-based,bayesian hierarchical model,1,UK biobank- under 60,Both,40,59,mgnd,0,1,0,0,NA,0,0,0,0,NA,0,0,0,0,0,0,0,0,NA,0,Low Risk of Bias,40-59,40-59
+76,Jiang,2023,factor-based,bayesian hierarchical model,1,UK biobank- under 60,Both,40,59,nri,0,1,0,0,NA,0,0,0,0,NA,0,0,0,0,0,0,0,0,NA,0,Low Risk of Bias,40-59,40-59
+76,Jiang,2023,factor-based,bayesian hierarchical model,1,UK biobank- under 60,Both,40,59,srd,0,1,0,0,NA,0,0,0,0,NA,0,0,0,0,0,0,0,0,NA,0,Low Risk of Bias,40-59,40-59
+76,Jiang,2023,factor-based,bayesian hierarchical model,2,UK biobank- over 60,Both,60,NA,arp,0,0,0,0,NA,0,0,0,0,NA,0,0,0,0,1,0,0,0,NA,0,Low Risk of Bias,60+,60+
+76,Jiang,2023,factor-based,bayesian hierarchical model,2,UK biobank- over 60,Both,60,NA,cer,0,0,0,1,NA,1,0,0,0,NA,0,0,0,0,0,0,0,0,NA,0,Low Risk of Bias,60+,60+
+76,Jiang,2023,factor-based,bayesian hierarchical model,2,UK biobank- over 60,Both,60,NA,cvd,0,0,0,0,NA,0,0,0,0,NA,0,1,0,0,0,0,0,0,NA,0,Low Risk of Bias,60+,60+
+76,Jiang,2023,factor-based,bayesian hierarchical model,2,UK biobank- over 60,Both,60,NA,mgnd,0,1,0,0,NA,0,0,0,0,NA,0,0,0,0,0,0,0,0,NA,0,Low Risk of Bias,60+,60+
+76,Jiang,2023,factor-based,bayesian hierarchical model,2,UK biobank- over 60,Both,60,NA,nri,0,1,0,0,NA,0,0,0,0,NA,0,0,0,0,0,0,0,0,NA,0,Low Risk of Bias,60+,60+
+76,Jiang,2023,factor-based,bayesian hierarchical model,2,UK biobank- over 60,Both,60,NA,srd,0,1,0,0,NA,0,0,0,0,NA,0,0,0,0,0,0,0,0,NA,0,Low Risk of Bias,60+,60+
+76,Jiang,2023,factor-based,bayesian hierarchical model,3,All of Us - under 60,Both,40,59,ARP,1,0,0,0,NA,1,0,0,0,NA,1,0,1,0,0,0,0,0,NA,0,Low Risk of Bias,40-59,40-59
+76,Jiang,2023,factor-based,bayesian hierarchical model,3,All of Us - under 60,Both,40,59,CER,0,0,0,0,NA,0,0,0,0,NA,0,0,0,0,0,0,0,1,NA,0,Low Risk of Bias,40-59,40-59
+76,Jiang,2023,factor-based,bayesian hierarchical model,3,All of Us - under 60,Both,40,59,CVD,0,0,1,0,NA,0,0,0,0,NA,0,0,1,0,0,0,0,0,NA,0,Low Risk of Bias,40-59,40-59
+76,Jiang,2023,factor-based,bayesian hierarchical model,3,All of Us - under 60,Both,40,59,FGND,1,0,0,0,NA,0,0,0,0,NA,0,0,0,0,0,0,0,0,NA,0,Low Risk of Bias,40-59,40-59
+76,Jiang,2023,factor-based,bayesian hierarchical model,3,All of Us - under 60,Both,40,59,LGI,0,0,1,0,NA,0,0,0,0,NA,0,0,0,0,0,0,0,0,NA,0,Low Risk of Bias,40-59,40-59
+76,Jiang,2023,factor-based,bayesian hierarchical model,3,All of Us - under 60,Both,40,59,MDS,1,0,0,0,NA,0,0,0,0,NA,0,0,0,0,0,0,0,0,NA,0,Low Risk of Bias,40-59,40-59
+76,Jiang,2023,factor-based,bayesian hierarchical model,3,All of Us - under 60,Both,40,59,MGND,0,0,0,0,NA,0,0,0,0,NA,0,0,0,0,1,0,0,0,NA,0,Low Risk of Bias,40-59,40-59
+76,Jiang,2023,factor-based,bayesian hierarchical model,3,All of Us - under 60,Both,40,59,NRI,0,0,0,0,NA,0,0,0,0,NA,1,0,0,0,0,0,0,0,NA,0,Low Risk of Bias,40-59,40-59
+76,Jiang,2023,factor-based,bayesian hierarchical model,3,All of Us - under 60,Both,40,59,SRD,0,0,1,0,NA,1,0,0,0,NA,1,0,0,0,0,0,0,0,NA,0,Low Risk of Bias,40-59,40-59
+76,Jiang,2023,factor-based,bayesian hierarchical model,4,All of Us - over 60,Both,60,NA,ARP,0,0,1,0,NA,1,0,0,0,NA,1,0,0,0,0,0,0,0,NA,0,Low Risk of Bias,60+,60+
+76,Jiang,2023,factor-based,bayesian hierarchical model,4,All of Us - over 60,Both,60,NA,CER,0,0,0,0,NA,0,0,0,0,NA,0,0,0,0,1,0,0,1,NA,0,Low Risk of Bias,60+,60+
+76,Jiang,2023,factor-based,bayesian hierarchical model,4,All of Us - over 60,Both,60,NA,CVD,0,0,0,0,NA,1,0,0,0,NA,1,0,1,0,0,0,0,0,NA,0,Low Risk of Bias,60+,60+
+76,Jiang,2023,factor-based,bayesian hierarchical model,4,All of Us - over 60,Both,60,NA,MGND,0,0,0,0,NA,0,0,0,0,NA,0,0,0,0,1,0,0,0,NA,0,Low Risk of Bias,60+,60+
+76,Jiang,2023,factor-based,bayesian hierarchical model,4,All of Us - over 60,Both,60,NA,NRI,0,0,0,0,NA,0,0,0,0,NA,1,0,0,0,0,0,0,0,NA,0,Low Risk of Bias,60+,60+
+76,Jiang,2023,factor-based,bayesian hierarchical model,4,All of Us - over 60,Both,60,NA,UGI,0,1,1,0,NA,0,0,0,0,NA,0,0,0,0,0,1,0,0,NA,0,Low Risk of Bias,60+,60+
+77,Alvarez-Galvez,2023,factor-based,LCA,1,F 16–44,F,16,44,C2,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,0,0,0,0,0,Low Risk of Bias,0-39,0-39
+77,Alvarez-Galvez,2023,factor-based,LCA,1,F 16–44,F,16,44,C3,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0,0,0,0,0,Low Risk of Bias,0-39,0-39
+77,Alvarez-Galvez,2023,factor-based,LCA,2,F 45–64,F,45,64,C6,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0,0,0,0,0,Low Risk of Bias,40-59,40-59
+77,Alvarez-Galvez,2023,factor-based,LCA,2,F 45–64,F,45,64,C8,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,0,0,0,0,0,Low Risk of Bias,40-59,40-59
+77,Alvarez-Galvez,2023,factor-based,LCA,3,F 65–79,F,65,79,C1,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,NA,0,0,0,0,0,Low Risk of Bias,60-79,60+
+77,Alvarez-Galvez,2023,factor-based,LCA,3,F 65–79,F,65,79,C5,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,0,0,0,0,0,Low Risk of Bias,60-79,60+
+77,Alvarez-Galvez,2023,factor-based,LCA,4,F >79,F,80,NA,C5,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,0,0,0,0,0,Low Risk of Bias,80+,60+
+77,Alvarez-Galvez,2023,factor-based,LCA,4,F >79,F,80,NA,C6,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,NA,0,0,0,0,0,Low Risk of Bias,80+,60+
+77,Alvarez-Galvez,2023,factor-based,LCA,5,M 16–44,M,16,44,C1,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0,0,0,0,0,Low Risk of Bias,0-39,0-39
+77,Alvarez-Galvez,2023,factor-based,LCA,5,M 16–44,M,16,44,C8,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,0,0,0,0,0,Low Risk of Bias,0-39,0-39
+77,Alvarez-Galvez,2023,factor-based,LCA,6,M 45–64,M,45,64,C1,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,NA,0,0,0,0,0,Low Risk of Bias,40-59,40-59
+77,Alvarez-Galvez,2023,factor-based,LCA,6,M 45–64,M,45,64,C4,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,0,0,0,0,0,Low Risk of Bias,40-59,40-59
+77,Alvarez-Galvez,2023,factor-based,LCA,7,M 65–79,M,65,79,C2,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,0,0,0,0,0,Low Risk of Bias,60-79,60+
+77,Alvarez-Galvez,2023,factor-based,LCA,7,M 65–79,M,65,79,C4,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,NA,0,0,0,0,0,Low Risk of Bias,60-79,60+
+77,Alvarez-Galvez,2023,factor-based,LCA,8,M >79,F,80,NA,C3,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,0,0,0,0,0,Low Risk of Bias,80+,60+
+77,Alvarez-Galvez,2023,factor-based,LCA,8,M >79,F,80,NA,C4,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,0,0,0,0,0,Low Risk of Bias,80+,60+
+77,Alvarez-Galvez,2023,factor-based,LCA,8,M >79,F,80,NA,C5,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,NA,0,0,0,0,0,Low Risk of Bias,80+,60+
+78,Eto,2023,factor-based,LCA,1,white,Both,16,49,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+78,Eto,2023,factor-based,LCA,1,white,Both,16,49,2,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+78,Eto,2023,factor-based,LCA,1,white,Both,16,49,3,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+78,Eto,2023,factor-based,LCA,1,white,Both,16,49,4,1,0,1,1,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+78,Eto,2023,factor-based,LCA,2,south asian,Both,16,49,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+78,Eto,2023,factor-based,LCA,2,south asian,Both,16,49,2,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+78,Eto,2023,factor-based,LCA,2,south asian,Both,16,49,3,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+78,Eto,2023,factor-based,LCA,3,black,Both,16,49,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+78,Eto,2023,factor-based,LCA,3,black,Both,16,49,2,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,Low Risk of Bias,16+,"Adults
+(16+)"
+78,Eto,2023,factor-based,LCA,3,black,Both,16,49,3,1,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,Low Risk of Bias,16+,"Adults
+(16+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,1,0,0,0,0,NA,0,1,NA,0,NA,0,0,0,NA,NA,0,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,2,1,0,0,1,NA,0,0,NA,0,NA,0,0,0,NA,NA,0,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,3,0,0,0,0,NA,0,1,NA,0,NA,0,0,1,NA,NA,0,NA,NA,1,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,4,0,0,1,0,NA,1,1,NA,0,NA,0,0,1,NA,NA,0,NA,NA,1,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,5,1,1,0,0,NA,0,1,NA,0,NA,0,0,1,NA,NA,0,NA,NA,1,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,6,1,0,1,1,NA,1,0,NA,0,NA,1,0,0,NA,NA,0,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,7,0,1,0,0,NA,0,0,NA,0,NA,0,0,0,NA,NA,0,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,8,1,1,0,1,NA,0,0,NA,0,NA,0,0,1,NA,NA,1,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,9,0,0,0,0,NA,0,0,NA,0,NA,0,0,0,NA,NA,1,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,10,1,1,0,1,NA,1,1,NA,1,NA,1,1,1,NA,NA,1,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,11,0,1,1,0,NA,0,0,NA,0,NA,0,0,0,NA,NA,0,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,12,0,1,0,0,NA,0,0,NA,0,NA,0,0,0,NA,NA,0,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,13,0,1,1,0,NA,0,0,NA,0,NA,0,0,0,NA,NA,0,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,14,1,1,1,1,NA,1,1,NA,1,NA,0,1,1,NA,NA,1,NA,NA,1,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,15,1,1,0,0,NA,0,0,NA,0,NA,0,0,1,NA,NA,1,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,16,1,1,1,1,NA,1,0,NA,0,NA,1,1,1,NA,NA,0,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,17,0,0,0,0,NA,1,0,NA,0,NA,1,0,0,NA,NA,0,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,18,1,1,0,1,NA,1,0,NA,0,NA,1,1,0,NA,NA,0,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,19,0,0,1,0,NA,1,0,NA,1,NA,1,1,0,NA,NA,1,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,20,0,1,1,0,NA,1,0,NA,1,NA,1,1,0,NA,NA,0,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,21,0,0,0,0,NA,1,0,NA,1,NA,1,1,0,NA,NA,0,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,22,1,1,1,1,NA,1,1,NA,1,NA,1,1,1,NA,NA,0,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,23,1,1,1,1,NA,1,1,NA,1,NA,1,1,1,NA,NA,1,NA,NA,1,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,24,0,0,1,1,NA,0,0,NA,0,NA,0,0,0,NA,NA,1,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,25,0,1,0,0,NA,0,0,NA,0,NA,0,0,0,NA,NA,1,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,26,1,1,0,1,NA,1,0,NA,1,NA,0,1,0,NA,NA,0,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,27,0,0,0,0,NA,1,0,NA,0,NA,0,0,0,NA,NA,0,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,28,0,1,1,1,NA,1,0,NA,1,NA,1,1,0,NA,NA,0,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,29,1,1,1,1,NA,1,1,NA,1,NA,1,1,1,NA,NA,1,NA,NA,1,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
+79,Nishida,2023,factor-based,LCA,1,all,Both,10,64,30,0,1,1,1,NA,1,1,NA,1,NA,1,1,0,NA,NA,1,NA,NA,0,0,High Risk of Bias,all ages,"All ages
+(0 - 100+)"
