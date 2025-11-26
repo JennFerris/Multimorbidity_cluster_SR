@@ -2,7 +2,7 @@
 
 This repo contains the wrangled data and code to reproduce analyses in **Ferris, et al. 2025, *Nature Communications*, "A systematic review and meta-analysis of disease clustering in multimorbidity"**
 
-The raw data are available in the figshare database under accession code [DOI 10.6084/m9.figshare.28382543](https://doi.org/10.6084/m9.figshare.28382543). 
+The raw data are available in the figshare database under accession code [10.6084/m9.figshare.28382543](https://doi.org/10.6084/m9.figshare.28382543). 
 
 
 ## Directory structure
