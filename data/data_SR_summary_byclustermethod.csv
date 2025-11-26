@@ -1,0 +1,214 @@
+studyid,author,year,cluster_category,cluster_method,distance_metric,time_used_in_clustering,weighting_used_in_clustering,n_clusters_all,n_clusters_subgroups,n_clusters_subgroups_low,n_clusters_subgroups_high,included_in_meta_analysis,risk_of_bias_overall,n_clusters,network_analysis,temporal_analysis
+1,Prados-Torres,2012,Factor-based,Exploratory factor analysis,Tetrachoric correlation,no,NA,NA,"M 15-44: 2
+M 45 - 64: 2
+M 65+: 3
+F 15-44: 2
+F 45 - 64: 3
+F 65+: 4",2,4,yes,Low Risk of Bias,4,no,no
+2,Aubert,2019,Factor-based,Latent class analysis,model-based clustering (no distance metric),no,NA,5,NA,NA,NA,yes,High Risk of Bias,5,no,no
+3,Egan,2019,Cluster-based,Hierarchical cluster analysis,Jaccard index +  Ward's minimum variance linkage,no,NA,13,"group A: 13
+group B: 13
+group C: 13
+",13,NA,yes,High Risk of Bias,13,no,no
+4,Lu,2023,Cluster-based,Network: modularity-based algorithms,"clustering distance: modularity
+link weight: unweighted",undirected,NA,6,NA,NA,NA,yes,Very High Risk of Bias,6,yes,no
+5,Roso-Llorach,2022,Factor-based,Hidden Markov models,"MCA, with HMM parameters initialized by fuzzy-c means",yes,NA,NA,"Sexagenerians: 6
+Septugenerians:  6
+Octogenerians and up: 6",6,NA,yes,Low Risk of Bias,6,no,yes
+6,Baré,2021,Cluster-based,Fuzzy c-means clustering,PCA,no,levels of clinical management for each disease,4,NA,NA,NA,yes,Some Concerns,4,no,no
+7,Bisquera,2021,Factor-based,Exploratory factor analysis,tetrachoric correlations and principal axis factoring method,no,NA,NA,"2005 - 2010 cohort: 4
+2011 - 2015 cohort: 5
+2016 - 2020 cohort: 4",4,5,yes,Some Concerns,5,no,no
+7,Bisquera,2021,Cluster-based,Hierarchical cluster analysis,MCA + Ward's minimum variance,no,NA,NA,"2005 - 2010 cohort: 3
+2011 - 2015 cohort: 4
+2016 - 2020 cohort: 5",3,5,yes,Some Concerns,5,no,no
+8,Hajat,2021,Cluster-based,K-center clustering,not stated,no,NA,10,NA,NA,NA,yes,High Risk of Bias,10,no,no
+9,Van Cleave,2016,Factor-based,Latent class analysis,model-based clustering (no distance metric),no- conditions clustered at study enrollment,NA,3,NA,NA,NA,yes,Some Concerns,3,no,no
+10,Zhu,2020,Factor-based,Latent class analysis,model-based clustering (no distance metric),no,NA,NA,"18-44: 5
+45 - 64: 5
+65 - 84: 6
+85+: 4",4,6,yes,Low Risk of Bias,6,no,no
+11,Schafer,2010,Factor-based,Exploratory factor analysis,Tetrachoric correlation,no,NA,NA,"F: 3
+M: 3",3,NA,yes,Low Risk of Bias,3,no,no
+12,Roso-Llorach,2018,Cluster-based,Hierarchical cluster analysis,Jaccard index +  Ward's minimum variance linkage,no,NA,NA,"F HCA: 12
+M HCA: 15",12,15,yes,Low Risk of Bias,15,no,no
+12,Roso-Llorach,2018,Factor-based,Exploratory factor analysis,"tetrachoric correlations
+",no,NA,NA,"F EFA: 9
+M EFA: 10",9,10,yes,Low Risk of Bias,10,no,no
+13,Moran,2017,Cluster-based,Hierarchical cluster analysis,Jaccard index +  Ward's minimum variance linkage,no,NA,7,NA,NA,NA,yes,High Risk of Bias,7,no,no
+14,Nicolet,2022,Cluster-based,Hierarchical cluster analysis,"Embedded RF proximity metric of similarity between points, this was trained off of 10 random subsamples of data. Then the similarity matrix from the RF was projected thorugh MDS and fed into HDBSCAN",no,NA,4,NA,NA,NA,yes,Very High Risk of Bias,4,no,no
+15,Wang,2020,Cluster-based,Hierarchical cluster analysis,"""homogeneity criterion"": within-cluster correlation ratios",no,NA,NA,none stated- did not cut dendrogram,NA,NA,no,Very High Risk of Bias,NA,no,no
+16,Caballero,2023,Factor-based,Exploratory factor analysis,Tetrachoric correlation,no,NA,3,NA,NA,NA,yes,Low Risk of Bias,3,no,no
+17,Corsonello,2022,Cluster-based,K-center clustering,not stated,no,NA,3,NA,NA,NA,yes,Some Concerns,3,no,no
+18,Dong,2013,Cluster-based,Hierarchical cluster analysis,Yule's Q correlation matrix + average linkage,no,NA,NA,"F: 4-6 (5 chosen)
+M: 3-5 (5 chosen)",5,NA,yes,Some Concerns,5,no,no
+19,Franti,2022,Cluster-based,Network: other algorithms,"clustering distance:  Inverse internal weight (IIW) 
+link weight: relative risk (RR)",undirected,NA,15,NA,NA,NA,yes,Some Concerns,15,yes,no
+20,Hassaine,2020,Factor-based,Matrix factorization analyses,model-based clustering (no distance metric),cross-sectional age,disease frequency-inverse patient frequency (DF-IPF)  to normalize diseases by prevalence,NA,"F: 34
+M: 34",34,NA,yes,Low Risk of Bias,34,no,no
+21,Ioakeim-Skoufa,2020,Factor-based,Exploratory factor analysis,Tetrachoric correlation,no,NA,NA,"F 15-29: 3
+F 30–44: 3
+F 45-59: 3
+F 60-74: 4
+F 75-89: 4
+F 90+: 4
+M 15-29: 3 
+M 30–44: 4
+M 45-59: 4
+M 60-74: 4
+M 75-89: 4
+M 90+: 3",3,4,yes,Some Concerns,4,no,no
+22,Ioakeim-Skoufa,2022,Cluster-based,K-center clustering,Jaccard index,no,NA,NA,"F 80-89: 4
+F 90-99: 5
+F 100+: 5
+M 80-89: 3
+M 90-99: 4
+M 100+: 3",3,5,yes,Low Risk of Bias,5,no,no
+23,Lind,2020,Factor-based,Latent class analysis,model-based clustering (no distance metric),no,NA,7,NA,NA,NA,yes,Some Concerns,7,no,no
+24,M﻿øller,2020,Factor-based,Latent class analysis,model-based clustering (no distance metric),no,NA,NA,"16-44: 7
+45 - 64: 7
+65+: 5",5,7,yes,Low Risk of Bias,7,no,no
+25,Nichols,2022,Cluster-based,Hierarchical cluster analysis,k-means centroids,no,NA,4,NA,NA,NA,yes,High Risk of Bias,4,no,no
+25,Nichols,2022,Cluster-based,K-center clustering,hamming distance (for binary data),no,NA,7,NA,NA,NA,yes,High Risk of Bias,7,no,no
+25,Nichols,2022,Factor-based,Latent class analysis,model-based clustering (no distance metric),no,NA,4,NA,NA,NA,yes,High Risk of Bias,4,no,no
+26,Planell-Morell,2020,Cluster-based,Network: random walk-based algorithms,"clustering distance: Jaccard index
+link weight: Relative risk (RR)",directed,NA,2,NA,NA,NA,yes,Low Risk of Bias,2,yes,yes
+27,Poblador-Plou,2014,Factor-based,Exploratory factor analysis,Tetrachoric correlation,no,NA,NA,"M 15-44: 3
+M 45 - 64: 2
+M 65+: 2
+F 15-44: 3
+F 45 - 64: 2
+F 65+: 3",2,3,yes,Low Risk of Bias,3,no,no
+28,Robertson,2022,Cluster-based,K-center clustering,Gower distance,no,NA,10,NA,NA,NA,yes,Low Risk of Bias,10,no,no
+29,Siah,2022,Cluster-based,Network: modularity-based algorithms,"clustering distance: modularity
+link weight: prevalence and lift",undirected,NA,NA,"19-45: 3
+45-65: 2
+65-80: 4
+80+: 3",2,4,yes,Low Risk of Bias,4,yes,no
+30,Strauss,2021,Cluster-based,Network: modularity-based algorithms,"clustering distance: modularity
+link weight: model coefficient vectors (the degree to which two sets of diseases tend to predict the future occurrence of the same target disease)",undirected (but network links measure prediction of future disease),NA,13,NA,NA,NA,no,High Risk of Bias,13,yes,no
+31,Vetrano,2020,Cluster-based,Fuzzy c-means clustering,MCA,no,NA,5,NA,NA,NA,no,Low Risk of Bias,5,no,no
+32,Violan,2019,Cluster-based,Fuzzy c-means clustering,MCA,no,age + sex as covariates,8,NA,NA,NA,yes,Low Risk of Bias,8,no,no
+33,Violan,2020,Factor-based,Hidden Markov models,"MCA, with HMM parameters initialized by fuzzy-c means",yes,age + sex as covariates,10,NA,NA,NA,yes,Low Risk of Bias,10,no,yes
+34,Webster,2021,Cluster-based,Hierarchical cluster analysis,﻿Bhattacharyya distances + Ward's linkage,no,NA,24,NA,NA,NA,yes,High Risk of Bias,24,no,no
+35,Tan,2020,Factor-based,Latent class analysis,model-based clustering (no distance metric),no,"age, sex, and ethnicity included as covariates in LCA",8,NA,NA,NA,yes,Low Risk of Bias,8,no,no
+36,Zheng,2018,Cluster-based,Network: modularity-based algorithms,"clustering distance: modularity
+link weight: unweighted",undirected,NA,6,NA,NA,NA,no,High Risk of Bias,6,yes,no
+37,Machon,2020,Cluster-based,K-center clustering,MCA,no,NA,NA,"Robust: 3
+Frail: 4",3,4,yes,Low Risk of Bias,4,no,no
+38,Profili,2020,Factor-based,Exploratory factor analysis,Tetrachoric correlation,no,NA,2,NA,NA,NA,yes,High Risk of Bias,2,no,no
+39,Srinivasan,2018,Cluster-based,Network: modularity-based algorithms,"clustering distance: modularity
+link weight: ﻿co-occurrence correlation (CC) (similar to cosine index)",undirected,NA,120,NA,NA,NA,yes,High Risk of Bias,120,yes,no
+40,Ko,2020,Cluster-based,Network: random walk-based algorithms,"Clustering distance: minimizing length of random walk trajectory
+link weight: Relative Risk (RRs) but clustering algorithm was done on unweighted links.",directed,NA,34,NA,NA,NA,no,Very High Risk of Bias,34,yes,yes
+41,Jiang,2018,Cluster-based,Network: other algorithms,"clustering distance: Topological Overlap Matrix
+link weight: φ-correlation or disease co-occurrence",undirected,NA,9,NA,NA,NA,yes,High Risk of Bias,9,yes,no
+42,Jensen,2014,Cluster-based,Network: random walk-based algorithms,"clustering distance: Jaccard index
+link weight: Relative risk (RR)",directed,NA,15,NA,NA,NA,yes,Low Risk of Bias,15,yes,yes
+43,Giannoula,2018,Cluster-based,Hierarchical cluster analysis,euclidian distance between each patients disease vector (sequence of ICD code history in order),yes,NA,NA,"F: 164 trajectories
+M: 199 trajectories",164,199,yes,High Risk of Bias,199,no,yes
+44,Wartelle,2021,Cluster-based,Hierarchical cluster analysis,Relative Risk (defined as lift),no,NA,16,NA,NA,NA,yes,Low Risk of Bias,16,no,no
+45,Violan,2016,Cluster-based,Hierarchical cluster analysis,Jaccard index +  Ward's minimum variance linkage,no,NA,NA,"F 19-24: 15
+F 25-44: 22
+M: 19-24: 18
+M 25-44: 44",15,44,yes,Low Risk of Bias,44,no,no
+46,Buja,2018,Cluster-based,Hierarchical cluster analysis,Jaccard's index + complete linkage criterion,no,NA,5,NA,NA,NA,yes,High Risk of Bias,5,no,no
+46,Buja,2018,Factor-based,Latent class analysis,model-based clustering (no distance metric),no,NA,5,NA,NA,NA,yes,High Risk of Bias,5,no,no
+47,Collerton,2016,Cluster-based,Hierarchical cluster analysis,Jaccard index,no,NA,5,NA,NA,NA,yes,Low Risk of Bias,5,no,no
+48,Diaz,2015,Factor-based,Exploratory factor analysis,Tetrachoric correlation,no,NA,NA,"Norwegian M 15-44: 2
+Norwegian M 45-64: 4
+Norwegian M 65+: 6
+Norwegian F 15-44: 2
+Norwegian F 45-64: 3
+Norwegian F 65+: 5
+Western M 15-44: 1
+Western M 45-64: 4
+Western M 65+: 4
+Western F 15-44: 2
+Western F 45-64: 2
+Western F 65+: 5
+Eastern European M 15-44: 1
+Eastern European M 45-64: 2
+Eastern European M 65+: 5
+Eastern European F 15-44: 2
+Eastern European F 45-64: 4
+Eastern European F 65+: 3
+Other Non-Western M 15-44: 2
+Other Non-Western M 45-64: 4
+Other Non-Western M 65+: 4
+Other Non-Western F 15-44: 3
+Other Non-Western F 45-64: 4
+Other Non-Western F 65+: 4",1,6,yes,Some Concerns,6,no,no
+49,Foguet-Boreu,2015,Cluster-based,Hierarchical cluster analysis,Jaccard index +  Ward's minimum variance linkage,no,NA,NA,"F 65-79: 18
+M 65-79: 11
+F 80+: 6
+M 80+: 18",6,18,yes,Low Risk of Bias,18,no,no
+50,Forslund,2021,Cluster-based,K-center clustering,not stated,no,NA,7,NA,NA,NA,yes,Low Risk of Bias,7,no,no
+51,Guisado-Clavero,2018,Cluster-based,K-center clustering,MCA,no,NA,NA,"F 65 - 79: 6
+M 65 - 79: 6
+F 80+: 6
+M 80+: 6",6,NA,yes,Low Risk of Bias,6,no,no
+52,Guo,2019,Cluster-based,Network: modularity-based algorithms,"clustering distance: modularity
+link weight: case counts",undirected,NA,10,NA,NA,NA,no,High Risk of Bias,10,yes,no
+53,Haug,2020,Cluster-based,Hierarchical cluster analysis,partition inertia,no,NA,132,NA,NA,NA,yes,Low Risk of Bias,132,no,no
+54,Juul-Larsen,2020,Factor-based,Latent class analysis,model-based clustering (no distance metric),no,NA,NA,"F: 8
+M: 8",8,NA,yes,Low Risk of Bias,8,no,no
+55,Juul-Larsen,2020,Factor-based,Latent class analysis,model-based clustering (no distance metric),no,NA,4,NA,NA,NA,yes,Low Risk of Bias,4,no,no
+56,Lai,2021,Cluster-based,Hierarchical cluster analysis,Jaccard index +  Ward's minimum variance linkage,no,5-year age groups and sex included as HCA vars,NA,"Hong Kong: 9
+Zurich: 9",9,NA,yes,Low Risk of Bias,9,no,no
+57,Marengoni,2009,Cluster-based,Hierarchical cluster analysis,"Yule's Q association + 
+average linkage",no,NA,5,not stated,NA,NA,yes,High Risk of Bias,5,no,no
+58,Marengoni,2013,Cluster-based,Hierarchical cluster analysis,"Yule's Q association +
+average linkage",no,NA,NA,"first wave: 8
+second wave: 6",6,8,yes,High Risk of Bias,8,no,no
+59,Prasad,2022,Factor-based,Matrix factorization analyses,model-based clustering (no distance metric),no,NA,5,NA,NA,NA,yes,Low Risk of Bias,5,no,no
+60,Ruiz,2015,Factor-based,Matrix factorization analyses,model-based clustering (no distance metric),no,NA,3,NA,NA,NA,yes,Low Risk of Bias,3,no,no
+61,Schramm,2022,Factor-based,Latent class analysis,model-based clustering (no distance metric),no,NA,7,NA,NA,NA,yes,Low Risk of Bias,7,no,no
+62,Stafford,2021,Cluster-based,Fuzzy c-means clustering,PCA/MCA,no,NA,7,NA,NA,NA,yes,Low Risk of Bias,7,no,no
+63,Fortuna,2021,Factor-based,Exploratory factor analysis,Tetrachoric correlation,no,NA,4,NA,NA,NA,yes,Low Risk of Bias,4,no,no
+64,Tazzeo,2021,Cluster-based,Fuzzy c-means clustering,not stated,no,NA,6,NA,NA,NA,yes,Some Concerns,6,no,no
+65,Vetrano,2022,Factor-based,Matrix factorization analyses,Tetrachoric correlation matrix,no,NA,4,NA,NA,NA,yes,Low Risk of Bias,4,no,no
+66,Violan,2018,Cluster-based,K-center clustering,MCA,no,NA,NA,"F: 6
+M: 6",6,NA,yes,High Risk of Bias,6,no,no
+67,Wang,2022,Cluster-based,Network: modularity-based algorithms,"clustering distance: modularity
+link weight: Salton Cosine index",undirected,NA,NA,not reported,NA,NA,no,High Risk of Bias,NA,yes,no
+68,Jeong,2017,Cluster-based,Network: random walk-based algorithms,"clustering distance: minimizes length of random walk trajectory
+Link weight: Relative Risk (RR)",directed,NA,88,NA,NA,NA,no,Low Risk of Bias,88,yes,yes
+69,Soley-Bori,2024,Factor-based,Latent class analysis,model-based clustering (no distance metric),no,NA,NA,"high-cost: 5
+low-cost: 3",3,5,yes,Low Risk of Bias,5,no,no
+70,Cho,2024,Cluster-based,Hierarchical cluster analysis,Yule's Q correlation matrix + average linkage,no,NA,NA,"White: 7
+Black: 5
+Hispanic: 5
+Other: 5",5,7,yes,High Risk of Bias,7,no,no
+71,Beaney,2024,Cluster-based,Network: random walk-based algorithms,"clustering distance: MCA or NLP method: SG with multiple codes
+link weight: ﻿cosine similarity",undirected,NA,NA,"MCA embedding: 23
+SGM embedding: 25",23,25,yes,Low Risk of Bias,25,yes,no
+72,Dervic,2024,Cluster-based,Network: modularity-based algorithms,"clustering distance: ""fitness"": within-cluster modularity over within and between module modularity
+Link weight: Relative Risk (RR)",undirected (but trajectories mapped over cross-sectional age groups),NA,NA,"F: 444 
+M: 461",44,461,yes,Low Risk of Bias,461,yes,no
+73,Ioakeim-Skoufa,2024,Cluster-based,K-center clustering,Jaccard index,no,NA,NA,"baseline: 3
+followup 1: 4
+followup 2: 4",3,4,yes,Low Risk of Bias,4,no,no
+74,Stockmarr,2024,Cluster-based,K-center clustering,not stated,no,NA,5,NA,NA,NA,yes,Low Risk of Bias,5,no,no
+75,Seghieri,2024,Cluster-based,K-center clustering,"Jaccard index, reduced by t-distributed stochastic neighbour embedding (t-SNE)",no,NA,4,"M 25-44: 4
+M 45-64: 4
+M 65-84: 4
+M 85-100: 5
+F 25-44: 4
+F 45-64: 4
+F 65-84: 5
+F 85-100: 5",4,5,yes,Low Risk of Bias,4,no,no
+76,Jiang,2023,Factor-based,Latent class analysis,model-based (no distance metric),cross-sectional age,NA,NA,"UK Biobank: 10
+All of Us: 13",10,13,yes,Low Risk of Bias,13,no,no
+77,Alvarez-Galvez,2023,Factor-based,Latent class analysis,model-based clustering (no distance metric),no,NA,NA,"F 16–44: 7
+F 45–64: 9
+F 65–79: 7
+F 80+: 7
+M 16–44: 8
+M 45–: 8
+M 65–79: 8
+M 80+: 8",7,9,yes,Low Risk of Bias,9,no,no
+78,Eto,2023,Factor-based,Latent class analysis,model-based clustering (no distance metric),no,NA,NA,"white: 4
+black: 3
+south asian: 3",3,4,yes,Low Risk of Bias,4,no,no
+79,Nishida,2023,Factor-based,Latent class analysis,model-based clustering (no distance metric),no,NA,30,NA,NA,NA,yes,High Risk of Bias,30,no,no

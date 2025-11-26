@@ -1,0 +1,444 @@
+studyid,author,year,ages_included_low,ages_included_high,sample_size,stratified_subgroups,sample_age_distribution,sample_age_breakdown,sample_sex_distribution,Age and sex breakdown of any analysis sugroups,subgoup_name,subgroup_age_low,subgroup_age_high,subgroup_n,subgroup_sex,subgroup_n_F,subgroup_n_M,redundant_sample,redundant_pair,included_in_meta_analysis,notes,age_bin,age_bin_2
+1,Prados-Torres,2012,15,NA,275682,"sex, age",estimated mean: 51,NA,"F: 156029 (56.6%)
+M: 119653 (43.4%)",1: Men: 15-44 years old (n = 54705),M 15-44,15,44,54705,M,0,54705,N,NA,Y,NA,0-39,0-39
+1,Prados-Torres,2012,15,NA,275682,"sex, age",estimated mean: 51,NA,"F: 156029 (56.6%)
+M: 119653 (43.4%)",4: Women: 15-44 years old (n = 66540),W 15-44,15,44,66540,F,66540,0,N,NA,Y,NA,0-39,0-39
+1,Prados-Torres,2012,15,NA,275682,"sex, age",estimated mean: 51,NA,"F: 156029 (56.6%)
+M: 119653 (43.4%)",2: Men: 45 - 64 years old (n  = 35587),M 45-64,45,64,35587,M,0,35587,N,NA,Y,NA,40-59,40-59
+1,Prados-Torres,2012,15,NA,275682,"sex, age",estimated mean: 51,NA,"F: 156029 (56.6%)
+M: 119653 (43.4%)",5: Women: 45 - 64 years old (n  = 46035),W 45-64,45,64,46035,F,46035,0,N,NA,Y,NA,40-59,40-59
+1,Prados-Torres,2012,15,NA,275682,"sex, age",estimated mean: 51,NA,"F: 156029 (56.6%)
+M: 119653 (43.4%)",3: Men : >= 65 years old (n = 29361),M 65+,65,NA,29361,M,0,29361,N,NA,Y,NA,60+,60+
+1,Prados-Torres,2012,15,NA,275682,"sex, age",estimated mean: 51,NA,"F: 156029 (56.6%)
+M: 119653 (43.4%)",6: Women : >= 65 years old (n = 43454),W 65+,65,NA,43454,F,43454,0,N,NA,Y,NA,60+,60+
+4,Lu,2023,0,NA,19828,NA,not reported,NA,not reported,NA,all,0,NA,19828,both,NA,NA,N,NA,Y,NA,all ages,"All ages
+(0 - 100+)"
+5,Roso-Llorach,2022,60,NA,3363,age,baseline mean: 76.1,NA,at baseline: 66.6% F,"1- sexagenerians: age mean (SD): 63.0 (2.91), 56.4% F
+",sexagenerians,60,70,1304,both,735,569,N,NA,Y,NA,60-79,60+
+5,Roso-Llorach,2022,60,NA,3363,age,baseline mean: 76.1,NA,at baseline: 66.6% F,"
+2- septugenerians:  age mean (SD) 75.3 (3.00), 63.7% F
+",septugenerians,70,80,939,both,598,341,N,NA,Y,NA,60+,60+
+5,Roso-Llorach,2022,60,NA,3363,age,baseline mean: 76.1,NA,at baseline: 66.6% F,"3- Octogenerians and up: age mean (SD) 87.9 (5.10), 75.8% F",octogenerians,80,NA,1120,both,849,271,N,NA,Y,NA,80+,60+
+6,Baré,2021,65,NA,740,NA,mean (SD): 84.12 (7.01),NA,53.24% F,NA,all,65,NA,740,both,394,346,N,NA,Y,NA,60+,60+
+8,Hajat,2021,18,NA,871613,NA,mean (SD): 53.0 (16.7),NA,"393,121 (42.20%)  male (total sample prior to exclusion of 11+ CCs)",NA,all,18,NA,871613,both,503792,367821,N,NA,Y,NA,16+,"Adults
+(16+)"
+9,Van Cleave,2016,60,NA,470,NA,"mean (SD): 80.88 (8.71)
+range: 60 - 98",NA,F: 334 (71.06%),NA,all,60,NA,470,both,334,136,N,NA,Y,NA,60+,60+
+10,Zhu,2020,18,NA,113211,age,median (IQR): 66 [53-77],NA,"F: 63,072 (56%)",1: 18-44 years old (n = 15306; age: 37 [30–41]; 62%F),18-44,18,44,15306,both,9490,5816,N,NA,Y,NA,0-39,0-39
+10,Zhu,2020,18,NA,113211,age,median (IQR): 66 [53-77],NA,"F: 63,072 (56%)","
+2: 45 - 64 years old (n  = 36097; age:  56 [51–61]; 55% F)",45 - 64,45,64,36097,both,19853,16244,N,NA,Y,NA,40-59,40-59
+10,Zhu,2020,18,NA,113211,age,median (IQR): 66 [53-77],NA,"F: 63,072 (56%)",3: 65 - 84 years old (n = 49494; 74 [69–79; 52% F),65 - 84,65,84,49494,both,25737,23757,N,NA,Y,NA,60+,60+
+10,Zhu,2020,18,NA,113211,age,median (IQR): 66 [53-77],NA,"F: 63,072 (56%)",4: 85+ years old (n = 12314; age:  89 [86–91]; 65% F),85+,85,NA,12314,both,8004,4310,N,NA,Y,NA,80+,60+
+11,Schafer,2010,65,NA,149280,sex,"(weighted mean from samples, total mean not reported): 71.9, SD: 6.12",NA,"F: 63104 (42.3%); mean age: 72.6 (SD 6.6)
+M: 86176 (57.7%); mean age: 71.4 (SD5.7)",1: F: (n = 63104 (42.3%); mean age: 72.6 (SD 6.6)),F,65,NA,63104,F,63104,0,N,NA,Y,NA,60+,60+
+11,Schafer,2010,65,NA,149280,sex,"(weighted mean from samples, total mean not reported): 71.9, SD: 6.12",NA,"F: 63104 (42.3%); mean age: 72.6 (SD 6.6)
+M: 86176 (57.7%); mean age: 71.4 (SD5.7)",2: M: (n = 86176 (57.7%); mean age: 71.4 (SD 5.7)),M,65,NA,86176,M,0,86176,N,NA,Y,NA,60+,60+
+12,Roso-Llorach,2018,45,64,408994,sex,"mean (SD): 54.2 (5.8) (From Violan, 2018)",NA,"F: ﻿217 823 (53.3%)
+M: ﻿191 171 (46.7%)","1: F HCA
+2: M HCA
+3: F EFA
+4: M EFA",M (HCA/EFA),45,64,191171,M,0,191171,N,1,Y,NA,40-59,40-59
+12,Roso-Llorach,2018,45,64,408994,sex,"mean (SD): 54.2 (5.8) (From Violan, 2018)",NA,"F: ﻿217 823 (53.3%)
+M: ﻿191 171 (46.7%)","1: F HCA
+2: M HCA
+3: F EFA
+4: M EFA",F (HCA/EFA),45,64,217823,F,217823,0,N,1,Y,NA,40-59,40-59
+13,Moran,2017,18,NA,10408,NA,"mean: 58.1
+SD: 16.5",NA,"F: 6568 (63.1%)
+M: 3840 (36.9%)",NA,all,18,NA,10408,both,6568,3840,N,NA,Y,NA,16+,"Adults
+(16+)"
+14,Nicolet,2022,50,NA,18732,NA,"mean: 65.0
+SD: 10.6
+(none reported for final analytic sample)",NA,"F: 10106 (53.95%)
+M: 8626 (46.05%)
+(none reported for final analytic sample)",NA,all,50,NA,18732,both,10106,8626,N,NA,Y,NA,40+,"Middle-aged
+and older
+(40+)"
+16,Caballero,2023,65,NA,3264,NA,mean (SD): 71.9 (4.55),NA,"F: 1734 (53.1%)
+M: 1530 (46.9%)",NA,all,65,NA,3264,both,1734,1530,N,NA,Y,NA,60+,60+
+17,Corsonello,2022,65,NA,1967,NA,mean (SD): 85.3 (6.5),NA,"F: 1088 (55.3%)
+M: 879 (44.7%)",NA,all,65,NA,1967,both,1088,879,N,NA,Y,NA,60+,60+
+18,Dong,2013,85,90,496,sex,"all participants were 85 years old, invited to participate 2 months after 85th birthday.",NA,"F: 307 (62%)
+M: 189 (38%)","F: 307 (62%) 85 years
+M: 189 (38%) 85 years",M,85,90,189,M,0,189,N,NA,Y,NA,80+,60+
+18,Dong,2013,85,90,496,sex,"all participants were 85 years old, invited to participate 2 months after 85th birthday.",NA,"F: 307 (62%)
+M: 189 (38%)","F: 307 (62%) 85 years
+M: 189 (38%) 85 years",F,85,90,307,F,307,0,N,NA,Y,NA,80+,60+
+21,Ioakeim-Skoufa,2020,0,NA,1253292,"sex, age",44 (estimated mean from distribution),NA,"F: ﻿632,631 (50.5%)
+M: ﻿620,661 (49.5%)",9: M 15-29,M 15-29,15,29,94599,M,0,94599,N,NA,Y,NA,0-39,0-39
+21,Ioakeim-Skoufa,2020,0,NA,1253292,"sex, age",44 (estimated mean from distribution),NA,"F: ﻿632,631 (50.5%)
+M: ﻿620,661 (49.5%)",2: F 15-29,F 15-29,15,29,96510,F,96510,0,N,NA,Y,NA,0-39,0-39
+21,Ioakeim-Skoufa,2020,0,NA,1253292,"sex, age",44 (estimated mean from distribution),NA,"F: ﻿632,631 (50.5%)
+M: ﻿620,661 (49.5%)",10: M 30–44,M 30–44,30,44,155914,M,0,155914,N,NA,Y,NA,0-39,0-39
+21,Ioakeim-Skoufa,2020,0,NA,1253292,"sex, age",44 (estimated mean from distribution),NA,"F: ﻿632,631 (50.5%)
+M: ﻿620,661 (49.5%)",3: F 30–44,F 30–44,30,44,159063,F,159063,0,N,NA,Y,NA,0-39,0-39
+21,Ioakeim-Skoufa,2020,0,NA,1253292,"sex, age",44 (estimated mean from distribution),NA,"F: ﻿632,631 (50.5%)
+M: ﻿620,661 (49.5%)",11: M 45-59,M 45-59,45,59,130088,M,0,130088,N,NA,Y,NA,40-59,40-59
+21,Ioakeim-Skoufa,2020,0,NA,1253292,"sex, age",44 (estimated mean from distribution),NA,"F: ﻿632,631 (50.5%)
+M: ﻿620,661 (49.5%)",4: F 45-59,F 45-59,45,59,132716,F,132716,0,N,NA,Y,NA,40-59,40-59
+21,Ioakeim-Skoufa,2020,0,NA,1253292,"sex, age",44 (estimated mean from distribution),NA,"F: ﻿632,631 (50.5%)
+M: ﻿620,661 (49.5%)",12: M 60-74,M 60-74,60,74,89168,M,0,89168,N,NA,Y,NA,60-79,60+
+21,Ioakeim-Skoufa,2020,0,NA,1253292,"sex, age",44 (estimated mean from distribution),NA,"F: ﻿632,631 (50.5%)
+M: ﻿620,661 (49.5%)",5: F 60-74,F 60-74,60,74,90969,F,90969,0,N,NA,Y,NA,60-79,60+
+21,Ioakeim-Skoufa,2020,0,NA,1253292,"sex, age",44 (estimated mean from distribution),NA,"F: ﻿632,631 (50.5%)
+M: ﻿620,661 (49.5%)",13: M 75-89,M 75-89,75,89,68159,M,0,68159,N,NA,Y,NA,60+,60+
+21,Ioakeim-Skoufa,2020,0,NA,1253292,"sex, age",44 (estimated mean from distribution),NA,"F: ﻿632,631 (50.5%)
+M: ﻿620,661 (49.5%)",6: F 75-89,F 75-89,75,89,69535,F,69535,0,N,NA,Y,NA,60+,60+
+21,Ioakeim-Skoufa,2020,0,NA,1253292,"sex, age",44 (estimated mean from distribution),NA,"F: ﻿632,631 (50.5%)
+M: ﻿620,661 (49.5%)",14: M ≥90,M ≥90,90,NA,8039,M,0,8039,N,NA,Y,NA,80+,60+
+21,Ioakeim-Skoufa,2020,0,NA,1253292,"sex, age",44 (estimated mean from distribution),NA,"F: ﻿632,631 (50.5%)
+M: ﻿620,661 (49.5%)",7: F ≥90,F ≥90,90,NA,8201,F,8201,0,N,NA,Y,NA,80+,60+
+22,Ioakeim-Skoufa,2022,80,NA,91442,"sex, age",88 (estimated from subgroups),NA,"F: 51289 (56.1%)
+M: 40153 (43.9%)",1: F 80-89,F 80-89,80,89,26563,F,26563,0,N,NA,Y,NA,80+,60+
+22,Ioakeim-Skoufa,2022,80,NA,91442,"sex, age",88 (estimated from subgroups),NA,"F: 51289 (56.1%)
+M: 40153 (43.9%)",4: M 80-89,M 80-89,80,89,26758,M,0,26758,N,NA,Y,NA,80+,60+
+22,Ioakeim-Skoufa,2022,80,NA,91442,"sex, age",88 (estimated from subgroups),NA,"F: 51289 (56.1%)
+M: 40153 (43.9%)",5: M 90-99,M 90-99,90,99,12929,M,0,12929,N,NA,Y,NA,80+,60+
+22,Ioakeim-Skoufa,2022,80,NA,91442,"sex, age",88 (estimated from subgroups),NA,"F: 51289 (56.1%)
+M: 40153 (43.9%)",2: F 90-99,F 90-99,90,99,22896,F,22896,0,N,NA,Y,NA,80+,60+
+22,Ioakeim-Skoufa,2022,80,NA,91442,"sex, age",88 (estimated from subgroups),NA,"F: 51289 (56.1%)
+M: 40153 (43.9%)",6: M 100+,M 100+,100,NA,466,M,0,466,N,NA,Y,NA,80+,60+
+22,Ioakeim-Skoufa,2022,80,NA,91442,"sex, age",88 (estimated from subgroups),NA,"F: 51289 (56.1%)
+M: 40153 (43.9%)",3: F 100+,F 100+,100,NA,1830,F,1830,0,N,NA,Y,NA,80+,60+
+23,Lind,2020,65,NA,9436,NA,86.3 estimated from subgroups,NA,"F: 6341 (﻿67.2%)
+M: 3005 (32.8%)",NA,all,65,NA,9436,both,6341,3005,N,NA,Y,NA,60+,60+
+24,M﻿øller,2020,16,NA,470794,age,48.5 (estimated from subgroups),NA,"F: 237877 (50.5%)
+M: 232917 (49.5%)",1: 16-44 years (54% F),16-44,16,44,209606,both,103126,106480,N,NA,Y,NA,0-39,0-39
+24,M﻿øller,2020,16,NA,470794,age,48.5 (estimated from subgroups),NA,"F: 237877 (50.5%)
+M: 232917 (49.5%)",2: 45 - 64 years (49.9% F),45 - 64,45,64,151870,both,75783,76087,N,NA,Y,NA,40-59,40-59
+24,M﻿øller,2020,16,NA,470794,age,48.5 (estimated from subgroups),NA,"F: 237877 (50.5%)
+M: 232917 (49.5%)",3: 65+ years (49.2% F),65+,65,NA,109318,both,59032,50286,N,NA,Y,NA,60+,60+
+25,Nichols,2022,65,85,23251,NA,not stated,NA,M: 100%,NA,all,65,85,23251,M,0,23251,N,NA,Y,NA,60+,60+
+26,Planell-Morell,2020,45,NA,1100000,NA,not stated,NA,not stated,NA,all,45,NA,1100000,both,NA,NA,N,NA,Y,NA,40+,"Middle-aged
+and older
+(40+)"
+27,Poblador-Plou,2014,15,NA,79291,"sex, age",Netherlands (estimated mean): 51,NA,"F: 40909 
+M: 38382",1: Men: 15-44 years old (netherlands n: 15600),M 15-44,15,44,15600,M,0,15600,N,NA,Y,NA,0-39,0-39
+27,Poblador-Plou,2014,15,NA,79291,"sex, age",Netherlands (estimated mean): 51,NA,"F: 40909 
+M: 38385",4: Women: 15-44 years old (netherlands n: 16045),W 15-44,15,44,16045,F,16045,0,N,NA,Y,NA,0-39,0-39
+27,Poblador-Plou,2014,15,NA,79291,"sex, age",Netherlands (estimated mean): 51,NA,"F: 40909 
+M: 38383","2: Men: 45 - 64 years old (netherlands n: 14823)
+",M 45-64,45,64,14823,M,0,14823,N,NA,Y,NA,40-59,40-59
+27,Poblador-Plou,2014,15,NA,79291,"sex, age",Netherlands (estimated mean): 51,NA,"F: 40909 
+M: 38386",5: Women: 45 - 64 years old (netherlands n: 14882),W 45-64,45,64,14882,F,14882,0,N,NA,Y,NA,40-59,40-59
+27,Poblador-Plou,2014,15,NA,79291,"sex, age",Netherlands (estimated mean): 51,NA,"F: 40909 
+M: 38384",3: Men : >= 65 years old (netherlands n: 7959),M 65+,65,NA,7959,M,0,7959,N,NA,Y,NA,60+,60+
+27,Poblador-Plou,2014,15,NA,79291,"sex, age",Netherlands (estimated mean): 51,NA,"F: 40909 
+M: 38387",6: Women : >= 65 years old (netherlands n: 9982),W 65+,65,NA,9982,F,9982,0,N,NA,Y,NA,60+,60+
+29,Siah,2022,19,NA,2494800,age,estimated mean (from agegroups): 42,NA,"F: 1587600 (50.4%)
+M: 1559250 (49.5%)",4: 19-45 years: n = 1042650,19-45,19,45,1042650,both,NA,NA,N,NA,Y,"subtracted <19 age groups from total sample n, because these data are not included in our metaanalysis",0-39,0-39
+29,Siah,2022,19,NA,2494800,age,estimated mean (from agegroups): 42,NA,"F: 1587600 (50.4%)
+M: 1559250 (49.5%)",5: 45-65 years: n = 872550,45-65,45,65,872550,both,NA,NA,N,NA,Y,"subtracted <19 age groups from total sample n, because these data are not included in our metaanalysis",40-59,40-59
+29,Siah,2022,19,NA,2494800,age,estimated mean (from agegroups): 42,NA,"F: 1587600 (50.4%)
+M: 1559250 (49.5%)",6: 65-80 years: n = 431550,65-80,65,80,431550,both,NA,NA,N,NA,Y,"subtracted <19 age groups from total sample n, because these data are not included in our metaanalysis",60+,60+
+29,Siah,2022,19,NA,2494800,age,estimated mean (from agegroups): 42,NA,"F: 1587600 (50.4%)
+M: 1559250 (49.5%)",7: 80+ years: n = 151200,80+,80,NA,151200,both,NA,NA,N,NA,Y,"subtracted <19 age groups from total sample n, because these data are not included in our metaanalysis",80+,60+
+33,Violan,2020,65,NA,916619,NA,mean (SD): ﻿75.4 (7.4),NA,"F: 528889 ﻿(57.7%)
+M: 387730 (42.3%)",NA,all,65,NA,916619,both,528889,387730,N,2,Y,NA,60+,60+
+34,Webster,2021,40,NA,500000,NA,none reported,NA,none reported,NA,all,40,NA,500000,both,NA,NA,N,NA,Y,NA,40+,"Middle-aged
+and older
+(40+)"
+35,Tan,2020,0,NA,201348,NA,mean (SD): 66 (12),NA,"F: ﻿104133 (51.7%)
+M: ﻿97215 (48.3%)",NA,all,0,NA,201348,both,104133,97215,N,NA,Y,NA,all ages,"All ages
+(0 - 100+)"
+37,Machon,2020,70,NA,813,"frailty
+",mean (SD): 77.4 (5.0),NA,"F: 446 (55)
+M: 367 (45)",2. Frail (>12s for TUG task): n = 244; age (mean + SD): 79.3 (5.0); 59% Female,frail,70,NA,244,both,144,100,N,NA,Y,NA,60+,60+
+37,Machon,2020,70,NA,813,"frailty
+",mean (SD): 77.4 (5.0),NA,"F: 446 (55)
+M: 367 (45)",1. Robust (<=12s for TUG task): n = 569; age (mean + SD): 76.6 (4.8); 53% Female,robust,70,NA,569,both,302,267,N,NA,Y,NA,60+,60+
+39,Srinivasan,2018,0,NA,NA,NA,not reported,NA,not reported,NA,all,0,NA,NA,both,NA,NA,N,NA,Y,NA,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,0,NA,643358,sex,not reported,NA,"F: 339,636 (53%)
+M: 303,722 (47%)","F: exact age not reported, but from plot mean age ~60
+M: mean age ~62",M,0,NA,303722,M,0,303722,N,NA,Y,NA,all ages,"All ages
+(0 - 100+)"
+43,Giannoula,2018,0,NA,643358,sex,not reported,NA,"F: 339,636 (53%)
+M: 303,722 (47%)","F: exact age not reported, but from plot mean age ~60
+M: mean age ~62",F,0,NA,339636,F,339636,0,N,NA,Y,NA,all ages,"All ages
+(0 - 100+)"
+44,Wartelle,2021,0,NA,67216,NA,mean (SD): 39.84 (27.40),NA,"F: 34280 (51%)
+M: 32960 (49%)",NA,all,0,NA,67216,both,34280,32960,N,NA,Y,NA,all ages,"All ages
+(0 - 100+)"
+45,Violan,2016,18,44,530798,"sex, age",mean (SD): ﻿33.0 (7.0),NA,"F: ﻿282,915 (53.3%)
+M: 247,883 (46.7%)","3: M: 19-24: n = 36,549",M: 19-24,19,24,36549,M,0,36549,N,NA,Y,NA,0-39,0-39
+45,Violan,2016,18,44,530798,"sex, age",mean (SD): ﻿33.0 (7.0),NA,"F: ﻿282,915 (53.3%)
+M: 247,883 (46.7%)","1: F 19-24: n = 42,877",F 19-24,19,24,42877,F,42877,0,N,NA,Y,NA,0-39,0-39
+45,Violan,2016,18,44,530798,"sex, age",mean (SD): ﻿33.0 (7.0),NA,"F: ﻿282,915 (53.3%)
+M: 247,883 (46.7%)","4: M 25-44: n = 211,184",M 25-44,25,44,211184,M,0,211184,N,NA,Y,NA,0-39,0-39
+45,Violan,2016,18,44,530798,"sex, age",mean (SD): ﻿33.0 (7.0),NA,"F: ﻿282,915 (53.3%)
+M: 247,883 (46.7%)","2: F 25-44: n = 240,188",F 25-44,25,44,240188,F,240188,0,N,NA,Y,NA,0-39,0-39
+46,Buja,2018,65,NA,2691,NA,mean 81.3 (estimated from stratified agegroups),NA,"F: n=1384 (48.57%)
+M: n=1307 (51.43%)",NA,all,65,NA,2691,both,1384,1307,N,NA,Y,NA,60+,60+
+47,Collerton,2016,85,NA,658,NA,mean (SD): 85.5 (0.4),NA,"m n=285 (40.14%)
+f n=425 (59.86%)",NA,all,85,NA,658,both,425,285,N,NA,Y,NA,80+,60+
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","2. Western Countries (West Europe & N. America)
+2d. F 15-44 n = 25906",Western Countries F 15-44,15,44,25906,F,25906,0,N,NA,Y,NA,0-39,0-39
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","2. Western Countries (West Europe & N. America) 
+2a. M 15-44 n = 30658",Western Countries M 15-44,15,44,30658,M,0,30658,N,NA,Y,NA,0-39,0-39
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","3. Eastern Europe
+3d. F 15-44 n = 31866",Eastern Europe F 15-44,15,44,31866,F,31866,0,N,NA,Y,NA,0-39,0-39
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","3. Eastern Europe
+3a. M 15-44 n = 41559",Eastern Europe M 15-44,15,44,41559,M,0,41559,N,NA,Y,NA,0-39,0-39
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","4. Other Non-Western (Asia, Africa & Latin America)
+4a. M 15-44 n = 61743",Other non-western M 15-44,15,44,61743,M,0,61743,N,NA,Y,NA,0-39,0-39
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","
+4. Other Non-Western (Asia, Africa & Latin America)
+4d. F 15-44 n = 70186",Other non-western F 15-44,15,44,70186,F,70186,0,N,NA,Y,NA,0-39,0-39
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","1. Norwegian-born 
+1d. F 15-44 n = 760053",Norwegian F 15-44,15,44,760053,F,760053,0,N,NA,Y,NA,0-39,0-39
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","1. Norwegian-born 
+1a. M 15-44 n = 797432",Norwegian M 15-44,15,44,797432,M,0,797432,N,NA,Y,NA,0-39,0-39
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","3. Eastern Europe
+3e. F 45-64 n = 9551",Eastern Europe F 45-64,45,64,9551,F,9551,0,N,NA,Y,NA,40-59,40-59
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","3. Eastern Europe
+3b. M 45-64 n = 12406",Eastern Europe M 45-64,45,64,12406,M,0,12406,N,NA,Y,NA,40-59,40-59
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","2. Western Countries (West Europe & N. America)
+2e. F45-64 n = 15943",Western Countries F 45-64,45,64,15943,F,15943,0,N,NA,Y,NA,40-59,40-59
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","2. Western Countries (West Europe & N. America)
+2b. M 45-64 n = 19565",Western Countries M 45-64,45,64,19565,M,0,19565,N,NA,Y,NA,40-59,40-59
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","4. Other Non-Western (Asia, Africa & Latin America)
+4e. F 45-64 n = 19924",Other non-western F 45-64,45,64,19924,F,19924,0,N,NA,Y,NA,40-59,40-59
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","4. Other Non-Western (Asia, Africa & Latin America)
+4b. M 45-64 n = 22924",Other non-western M 45-64,45,64,22924,M,0,22924,N,NA,Y,NA,40-59,40-59
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","1. Norwegian-born 
+1e. F 45-64 n = 537637",Norwegian F 45-64,45,64,537637,F,537637,0,N,NA,Y,NA,40-59,40-59
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","1. Norwegian-born 
+1b. M 45-64 n = 548499",Norwegian M 45-64,45,64,548499,M,0,548499,N,NA,Y,NA,40-59,40-59
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","3. Eastern Europe
+3c. M 65+ n = 1724",Eastern Europe M 65+,65,NA,1724,M,0,1724,N,NA,Y,NA,60+,60+
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","3. Eastern Europe
+3f. F 65+ n = 2195",Eastern Europe F 65+,65,NA,2195,F,2195,0,N,NA,Y,NA,60+,60+
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","4. Other Non-Western (Asia, Africa & Latin America)
+4c. M 65+ n = 3089",Other non-western M 65+,65,NA,3089,M,0,3089,N,NA,Y,NA,60+,60+
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","4. Other Non-Western (Asia, Africa & Latin America)
+4f. F 65+ n = 3202",Other non-western F 65+,65,NA,3202,F,3202,0,N,NA,Y,NA,60+,60+
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","2. Western Countries (West Europe & N. America)
+2c. M 65+ n = 6512
+",Western Countries M 65+,65,NA,6512,M,0,6512,N,NA,Y,NA,60+,60+
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","2. Western Countries (West Europe & N. America)
+2f. F65+ n = 10854",Western Countries F 65+,65,NA,10854,F,10854,0,N,NA,Y,NA,60+,60+
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","1. Norwegian-born 
+1c. M 65+ n = 305741",Norwegian M 65+,65,NA,305741,M,0,305741,N,NA,Y,NA,60+,60+
+48,Diaz,2015,15,NA,3739528,"sex, age, immigrant status",mean 48.03 (estimated from stratified subgroups),NA,"F: 1887677 (50.5%)
+M: 1851851 (49.5%)","1. Norwegian-born 
+1f. F 65+ n = 400359",Norwegian F 65+,65,NA,400359,F,400359,0,N,NA,Y,NA,60+,60+
+49,Foguet-Boreu,2015,65,NA,322328,"sex, age",75.4 (7.4 SD),NA,"M: n=147251 (57.11%)
+F: n=196107 (42.89%)",2. M 65-79: n=111630,M 65-79,65,79,103512,M,0,111630,N,NA,Y,NA,60-79,60+
+49,Foguet-Boreu,2015,65,NA,322328,"sex, age",75.4 (7.4 SD),NA,"M: n=147251 (57.11%)
+F: n=196107 (42.89%)",1. F 65-79: n=132553,F 65-79,65,79,124662,F,132553,0,N,NA,Y,NA,60-79,60+
+49,Foguet-Boreu,2015,65,NA,322328,"sex, age",75.4 (7.4 SD),NA,"M: n=147251 (57.11%)
+F: n=196107 (42.89%)",4. M >=80: n=35624,M >=80,80,NA,33956,M,0,35624,N,NA,Y,NA,80+,60+
+49,Foguet-Boreu,2015,65,NA,322328,"sex, age",75.4 (7.4 SD),NA,"M: n=147251 (57.11%)
+F: n=196107 (42.89%)",3. F >=80: f n=63554,F >=80,80,NA,60198,F,63554,0,N,NA,Y,NA,80+,60+
+51,Guisado-Clavero,2018,65,94,190108,"sex, age",mean 77 (estimated from stratified samples),NA,"F: 113650 (60%)
+M: 76458 (40%)",2: M 65 - 79: n = 59331,M 65 - 79,65,79,59331,M,0,59331,N,NA,Y,NA,60-79,60+
+51,Guisado-Clavero,2018,65,94,190108,"sex, age",mean 77 (estimated from stratified samples),NA,"F: 113650 (60%)
+M: 76458 (40%)",1: F 65 - 79: n = 80208,F 65 - 79,65,79,80208,F,80208,0,N,NA,Y,NA,60-79,60+
+51,Guisado-Clavero,2018,65,94,190108,"sex, age",mean 77 (estimated from stratified samples),NA,"F: 113650 (60%)
+M: 76458 (40%)",4: M 80+: n = 17127,M 80+,80,NA,17127,M,0,17127,N,NA,Y,NA,80+,60+
+51,Guisado-Clavero,2018,65,94,190108,"sex, age",mean 77 (estimated from stratified samples),NA,"F: 113650 (60%)
+M: 76458 (40%)",3: F 80+: n = 33442,F 80+,80,NA,33442,F,33442,0,N,NA,Y,NA,80+,60+
+53,Haug,2020,0,NA,5112811,NA,not stated,NA,not stated,NA,all,0,NA,5112811,both,NA,NA,N,NA,Y,NA,all ages,"All ages
+(0 - 100+)"
+54,Juul-Larsen,2020,65,NA,129900,sex,Median age: 78 (IQR 71 - 84),NA,"F: n=68687 (53%)
+M: n=61213 (47%)",M: n=61213,M,65,NA,61213,M,0,61213,N,NA,Y,NA,60+,60+
+54,Juul-Larsen,2020,65,NA,129900,sex,Median age: 78 (IQR 71 - 84),NA,"F: n=68687 (53%)
+M: n=61213 (47%)",F: n=68687,F,65,NA,68687,F,68687,0,N,NA,Y,NA,60+,60+
+55,Juul-Larsen,2020,65,NA,369,NA,Median age: 78 (IQR 71 - 85),NA,"F: n=230 (62%)
+M: n=139 (38%)
+",NA,all,65,NA,369,both,230,139,N,NA,Y,NA,60+,60+
+57,Marengoni,2009,75,NA,1099,"sex, age","F: mean age 84.8 +/-  4.6 
+M: mean age 83.7 +/- 4.2",NA,"F: n = 846 (77%)
+M: n = 253 (33%)","no reported sample size for subgroups
+1: F 77- 84:
+2: M 77 - 84:
+3: F  85+:
+4: M 85+",M,75,NA,253,M,0,253,N,NA,Y,NA,60+,60+
+57,Marengoni,2009,75,NA,1099,"sex, age","F: mean age 84.8 +/-  4.6 
+M: mean age 83.7 +/- 4.2",NA,"F: n = 846 (77%)
+M: n = 253 (33%)","no reported sample size for subgroups
+1: F 77- 84:
+2: M 77 - 84:
+3: F  85+:
+4: M 85+",F,75,NA,846,F,846,0,N,NA,Y,NA,60+,60+
+58,Marengoni,2013,65,NA,2328,time window,"First wave median age: 79 
+Second wave median age: 79",NA,"F:  n = 1184 (50.9%) 
+M: n = 1144 (49.1%)","1. First wave: n=1155, age range 65–101 (median 79), M n=536 46.4%, F n=619 53.6%",firstwave,65,NA,1155,both,619,536,N,NA,Y,NA,60+,60+
+58,Marengoni,2013,65,NA,2328,time window,"First wave median age: 79 
+Second wave median age: 79",NA,"F:  n = 1184 (50.9%) 
+M: n = 1144 (49.1%)","2. Second wave: n=1173, age range 65–100 (median 79), M n=608 51.8%, F n=565 48.2%",secondwave,65,NA,1173,both,565,608,N,NA,Y,NA,60+,60+
+59,Prasad,2022,40,NA,77524,NA,mean 70.7 (6.9 SD),NA,"F: n=34527 (44.44%)
+M: n=42997 (55.46%)
+",NA,all,40,NA,77524,both,34527,42997,N,NA,Y,NA,40+,"Middle-aged
+and older
+(40+)"
+60,Ruiz,2015,65,NA,1751361,NA,"79.19 (estimated from stratified subgroups)
+M:  mean (SD) 76.0 (7.5)
+F: mean (SD) 77.5 (8.3)",NA,"F: n=906027
+M: n=845334",NA,all,65,NA,1751361,both,906027,845334,N,NA,Y,NA,60+,60+
+61,Schramm,2022,40,64,102818,NA,52.03 (mean estimated from stratified n),NA,"F: n=49686 (48.3%)
+M: n=53132 (51.7%)",NA,all,40,64,102818,both,49686,53132,N,NA,Y,NA,40-59,40-59
+63,Fortuna,2021,65,NA,982768,NA,65+ for factor analysis,NA,not stated,NA,all,65,NA,982768,both,NA,NA,N,NA,Y,NA,60+,60+
+64,Tazzeo,2021,60,NA,2534,NA,mean (SD): 74.3 (10.3),NA,"F: n =1631 (64.4%)
+M: n=903 (36.6%)",NA,all,60,NA,2534,both,1631,903,N,NA,Y,NA,60+,60+
+65,Vetrano,2022,60,NA,4131,NA,mean (SD): 84 (8),NA,"
+F: n=2902 (70%)
+M: n=1229 (30%)",NA,all,60,NA,4131,both,2902,1229,N,NA,Y,NA,60+,60+
+69,Soley-Bori,2024,18,NA,101498,health care cost,mean (SD): 52.24 (17.98),NA,"F: 56707 (55.87%)
+M: 44791 (44.13%)",1. High cost: n: 20304; age (mean + SD): 58.21 (18.19); F: 64.33%,highcost,18,NA,20304,both,13062,7242,N,NA,Y,NA,16+,"Adults
+(16+)"
+69,Soley-Bori,2024,18,NA,101498,health care cost,mean (SD): 52.24 (17.98),NA,"F: 56707 (55.87%)
+M: 44791 (44.13%)","2. Low cost: n: 81194, age (mean + SD): 50.75 (17.61); F: 50.75%",lowcost,18,NA,81194,both,41206,39988,N,NA,Y,NA,16+,"Adults
+(16+)"
+70,Cho,2024,85,NA,25801,race,mean (SD): 88.87 (3.15),NA,"F: 17006 (65.9%)
+M: 8795 (34.1%)",4. Other: n: 663; age (mean + SD): 88.72 (3.10); F: 430 (64.9%),other,85,NA,663,both,430,233,N,NA,Y,NA,80+,60+
+70,Cho,2024,85,NA,25801,race,mean (SD): 88.87 (3.15),NA,"F: 17006 (65.9%)
+M: 8795 (34.1%)",3. Hispanic: n: 1331; age (mean + SD): 88.72 (3.07); F: 869 (65.3%),hispanic,85,NA,1331,both,869,462,N,NA,Y,NA,80+,60+
+70,Cho,2024,85,NA,25801,race,mean (SD): 88.87 (3.15),NA,"F: 17006 (65.9%)
+M: 8795 (34.1%)",2. Black: n:1483 ; age (mean + SD): 89.05 (3.51); F: 1147 (77.3%),black,85,NA,1483,both,1147,336,N,NA,Y,NA,80+,60+
+70,Cho,2024,85,NA,25801,race,mean (SD): 88.87 (3.15),NA,"F: 17006 (65.9%)
+M: 8795 (34.1%)",1. White: n: 22324; age (mean + SD): 88.88 (3.13); F: 14560 (65.2%),white,85,NA,22324,both,14560,7764,N,NA,Y,NA,80+,60+
+73,Ioakeim-Skoufa,2024,18,65,293923,time window,mean (SD): 47.77 (12.15),NA,"F: ﻿170,040 (57.85)
+M: ﻿123,883 (42.15)","1. baseline (2011): n: ﻿293,923; mean age (SD): ﻿47.77 (12.15); F: 57.85%",baseline,18,65,293932,both,170040,123892,N,3,Y,NA,16+,"Adults
+(16+)"
+74,Stockmarr,2024,18,NA,1137072,NA,mean: 66.12,NA,"F: 624,253 (54.90%)
+M: 512,819 (45.10%)",NA,all,18,NA,1137072,both,624253,512819,N,NA,Y,NA,16+,"Adults
+(16+)"
+75,Seghieri,2024,25,100,636754,"sex, age",mean (SD): ﻿73.1 (± 13.4),NA,"F: 343,693 (53.98%)
+M: 293,061 (46.02%)","1. M 25-44: n = 6,833",M 25-44,25,44,6833,M,0,6833,N,NA,Y,NA,0-39,0-39
+75,Seghieri,2024,25,100,636754,"sex, age",mean (SD): ﻿73.1 (± 13.4),NA,"F: 343,693 (53.98%)
+M: 293,061 (46.02%)","5. F 25-44: n = 12,421",F 25-44,25,44,12421,F,12421,0,N,NA,Y,NA,0-39,0-39
+75,Seghieri,2024,25,100,636754,"sex, age",mean (SD): ﻿73.1 (± 13.4),NA,"F: 343,693 (53.98%)
+M: 293,061 (46.02%)","
+2. M 45-64: n = 64,326",M 45-64,45,64,64326,M,0,64326,N,NA,Y,NA,40-59,40-59
+75,Seghieri,2024,25,100,636754,"sex, age",mean (SD): ﻿73.1 (± 13.4),NA,"F: 343,693 (53.98%)
+M: 293,061 (46.02%)","6. F 45-64: n = 71,926",F 45-64,45,64,71926,F,71926,0,N,NA,Y,NA,40-59,40-59
+75,Seghieri,2024,25,100,636754,"sex, age",mean (SD): ﻿73.1 (± 13.4),NA,"F: 343,693 (53.98%)
+M: 293,061 (46.02%)","3. M 65-84: n = 171,612",M 65-84,65,84,171612,M,0,171612,N,NA,Y,NA,60+,60+
+75,Seghieri,2024,25,100,636754,"sex, age",mean (SD): ﻿73.1 (± 13.4),NA,"F: 343,693 (53.98%)
+M: 293,061 (46.02%)","7. F 65-84: n = 178,892",F 65-84,65,84,178892,F,178892,0,N,NA,Y,NA,60+,60+
+75,Seghieri,2024,25,100,636754,"sex, age",mean (SD): ﻿73.1 (± 13.4),NA,"F: 343,693 (53.98%)
+M: 293,061 (46.02%)","4. M 85-100: n = 50,093",M 85-100,85,100,50093,M,0,50093,N,NA,Y,NA,80+,60+
+75,Seghieri,2024,25,100,636754,"sex, age",mean (SD): ﻿73.1 (± 13.4),NA,"F: 343,693 (53.98%)
+M: 293,061 (46.02%)","8. F 85-100: n = 79,603",F 85-100,85,100,79603,F,79603,0,N,NA,Y,NA,80+,60+
+76,Jiang,2023,40,NA,494865,sample,NA,NA,NA,"2. All of Us: n = ﻿﻿211,908 (split into over/under 60, n's unknown)",All of Us,40,NA,211908,both,NA,NA,N,NA,Y,NA,40+,"Middle-aged
+and older
+(40+)"
+76,Jiang,2023,40,NA,494865,sample,NA,NA,NA,"1. ﻿UK Biobank: n = 282,957 (split into over/under 60, n's unknown) 45% F",UK biobank,40,NA,282957,both,126591,156366,N,NA,Y,NA,40+,"Middle-aged
+and older
+(40+)"
+77,Alvarez-Galvez,2023,0,NA,490130,"sex, age",mean: 56.8 (estimated from stratified subgroups),NA,not reported for MM sample,"﻿1. F 16–44: n = 38,130",F 16–44,16,44,38130,F,38130,0,N,NA,Y,NA,0-39,0-39
+77,Alvarez-Galvez,2023,0,NA,490130,"sex, age",mean: 56.8 (estimated from stratified subgroups),NA,not reported for MM sample,"﻿5. M 16–44: n = 50,817",M 16–44,16,44,50817,M,0,50817,N,NA,Y,NA,0-39,0-39
+77,Alvarez-Galvez,2023,0,NA,490130,"sex, age",mean: 56.8 (estimated from stratified subgroups),NA,not reported for MM sample,"6. M 45–64: n = 88,420",M 45–64,45,64,88420,M,0,88420,N,NA,Y,NA,40-59,40-59
+77,Alvarez-Galvez,2023,0,NA,490130,"sex, age",mean: 56.8 (estimated from stratified subgroups),NA,not reported for MM sample,"2. F 45–64: n = 104,398",F 45–64,45,64,104398,F,104398,0,N,NA,Y,NA,40-59,40-59
+77,Alvarez-Galvez,2023,0,NA,490130,"sex, age",mean: 56.8 (estimated from stratified subgroups),NA,not reported for MM sample,"7. M 65–79: n = 60,129",M 65–79,65,79,60129,M,0,60129,N,NA,Y,NA,60-79,60+
+77,Alvarez-Galvez,2023,0,NA,490130,"sex, age",mean: 56.8 (estimated from stratified subgroups),NA,not reported for MM sample,"3. F 65–79: n = 73,326",F 65–79,65,79,73326,F,73326,0,N,NA,Y,NA,60-79,60+
+77,Alvarez-Galvez,2023,0,NA,490130,"sex, age",mean: 56.8 (estimated from stratified subgroups),NA,not reported for MM sample,"8. M >79: n = 20,410",M >79,80,NA,20410,M,0,20410,N,NA,Y,NA,80+,60+
+77,Alvarez-Galvez,2023,0,NA,490130,"sex, age",mean: 56.8 (estimated from stratified subgroups),NA,not reported for MM sample,"4. F >79: n = 33,700",F >79,80,NA,33700,F,33700,0,N,NA,Y,NA,80+,60+
+2,Aubert,2019,NA,NA,NA,NA,NA,broken,NA,NA,all,0,39,4234,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+3,Egan,2019,NA,NA,NA,NA,NA,broken,NA,NA,all,27,65,6861,both,NA,NA,NA,NA,NA,NA,16+,"Adults
+(16+)"
+7,Bisquera,2021,NA,NA,NA,NA,NA,broken,NA,NA,2016 - 2020 cohort,18,39,38148,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+7,Bisquera,2021,NA,NA,NA,NA,NA,broken,NA,NA,2005 - 2010 cohort,18,39,7089,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+7,Bisquera,2021,NA,NA,NA,NA,NA,broken,NA,NA,2011 - 2015 cohort,18,39,9677,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+19,Franti,2022,NA,NA,NA,NA,NA,broken,NA,NA,all,18,54,1917765,both,NA,NA,NA,NA,NA,NA,16+,"Adults
+(16+)"
+20,Hassaine,2020,NA,NA,NA,NA,NA,broken,NA,NA,M,0,39,358394,M,NA,NA,NA,NA,NA,NA,0-39,0-39
+20,Hassaine,2020,NA,NA,NA,NA,NA,broken,NA,NA,F,0,39,476683,F,NA,NA,NA,NA,NA,NA,0-39,0-39
+28,Robertson,2022,NA,NA,NA,NA,NA,broken,NA,NA,all,0,39,932,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+38,Profili,2020,NA,NA,NA,NA,NA,broken,NA,NA,all,0,39,144000,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+41,Jiang,2018,NA,NA,NA,NA,NA,broken,NA,NA,all,0,39,436699,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+42,Jensen,2014,NA,NA,NA,NA,NA,broken,NA,NA,all,0,39,2705000,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+50,Forslund,2021,NA,NA,NA,NA,NA,broken,NA,NA,all,0,39,95468,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+56,Lai,2021,NA,NA,NA,NA,NA,broken,NA,NA,hongkong,40,59,2500,both,NA,NA,NA,NA,NA,NA,40-59,40-59
+56,Lai,2021,NA,NA,NA,NA,NA,broken,NA,NA,zurich,40,59,2500,both,NA,NA,NA,NA,NA,NA,40-59,40-59
+71,Beaney,2024,NA,NA,NA,NA,NA,broken,NA,NA,all,0,39,3214897,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+72,Dervic,2024,NA,NA,NA,NA,NA,broken,NA,NA,F,0,39,874000,F,NA,NA,NA,NA,NA,NA,0-39,0-39
+72,Dervic,2024,NA,NA,NA,NA,NA,broken,NA,NA,M,0,39,891000,M,NA,NA,NA,NA,NA,NA,0-39,0-39
+78,Eto,2023,NA,NA,NA,NA,NA,broken,NA,NA,black,16,26,6512,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+78,Eto,2023,NA,NA,NA,NA,NA,broken,NA,NA,southasian,16,26,8479,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+78,Eto,2023,NA,NA,NA,NA,NA,broken,NA,NA,white,16,27,194476,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+79,Nishida,2023,NA,NA,NA,NA,NA,broken,NA,NA,all,0,39,322925,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+2,Aubert,2019,NA,NA,NA,NA,NA,broken,NA,NA,all,40,59,12702,both,NA,NA,NA,NA,NA,NA,40-59,40-59
+3,Egan,2019,NA,NA,NA,NA,NA,broken,NA,NA,all,65,NA,37784,both,NA,NA,NA,NA,NA,NA,60+,60+
+7,Bisquera,2021,NA,NA,NA,NA,NA,broken,NA,NA,2016 - 2020 cohort,40,59,42336,both,NA,NA,NA,NA,NA,NA,40-59,40-59
+7,Bisquera,2021,NA,NA,NA,NA,NA,broken,NA,NA,2005 - 2010 cohort,40,59,6050,both,NA,NA,NA,NA,NA,NA,40-59,40-59
+7,Bisquera,2021,NA,NA,NA,NA,NA,broken,NA,NA,2011 - 2015 cohort,40,59,7399,both,NA,NA,NA,NA,NA,NA,40-59,40-59
+19,Franti,2022,NA,NA,NA,NA,NA,broken,NA,NA,all,54,69,974048,both,NA,NA,NA,NA,NA,NA,40+,"Middle-aged
+and older
+(40+)"
+20,Hassaine,2020,NA,NA,NA,NA,NA,broken,NA,NA,M,40,59,390134,M,NA,NA,NA,NA,NA,NA,40-59,40-59
+20,Hassaine,2020,NA,NA,NA,NA,NA,broken,NA,NA,F,40,59,412951,F,NA,NA,NA,NA,NA,NA,40-59,40-59
+28,Robertson,2022,NA,NA,NA,NA,NA,broken,NA,NA,all,40,59,1648,both,NA,NA,NA,NA,NA,NA,40-59,40-59
+38,Profili,2020,NA,NA,NA,NA,NA,broken,NA,NA,all,40,59,331000,both,NA,NA,NA,NA,NA,NA,40-59,40-59
+41,Jiang,2018,NA,NA,NA,NA,NA,broken,NA,NA,all,40,59,291881,both,NA,NA,NA,NA,NA,NA,40-59,40-59
+42,Jensen,2014,NA,NA,NA,NA,NA,broken,NA,NA,all,40,59,1515000,both,NA,NA,NA,NA,NA,NA,40-59,40-59
+50,Forslund,2021,NA,NA,NA,NA,NA,broken,NA,NA,all,40,59,122516,both,NA,NA,NA,NA,NA,NA,40-59,40-59
+56,Lai,2021,NA,NA,NA,NA,NA,broken,NA,NA,hongkong,60,79,5000,both,NA,NA,NA,NA,NA,NA,60-79,60+
+56,Lai,2021,NA,NA,NA,NA,NA,broken,NA,NA,zurich,60,79,5000,both,NA,NA,NA,NA,NA,NA,60-79,60+
+71,Beaney,2024,NA,NA,NA,NA,NA,broken,NA,NA,all,40,59,3454715,both,NA,NA,NA,NA,NA,NA,40-59,40-59
+72,Dervic,2024,NA,NA,NA,NA,NA,broken,NA,NA,F,40,59,521000,F,NA,NA,NA,NA,NA,NA,40-59,40-59
+72,Dervic,2024,NA,NA,NA,NA,NA,broken,NA,NA,M,40,59,564000,M,NA,NA,NA,NA,NA,NA,40-59,40-59
+78,Eto,2023,NA,NA,NA,NA,NA,broken,NA,NA,black,27,31,6512,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+78,Eto,2023,NA,NA,NA,NA,NA,broken,NA,NA,southasian,27,32,8478,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+78,Eto,2023,NA,NA,NA,NA,NA,broken,NA,NA,white,28,36,194477,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+79,Nishida,2023,NA,NA,NA,NA,NA,broken,NA,NA,all,40,59,995617,both,NA,NA,NA,NA,NA,NA,40-59,40-59
+2,Aubert,2019,NA,NA,NA,NA,NA,broken,NA,NA,all,60,79,8467,both,NA,NA,NA,NA,NA,NA,60-79,60+
+7,Bisquera,2021,NA,NA,NA,NA,NA,broken,NA,NA,2016 - 2020 cohort,60,79,30435,both,NA,NA,NA,NA,NA,NA,60-79,60+
+7,Bisquera,2021,NA,NA,NA,NA,NA,broken,NA,NA,2005 - 2010 cohort,60,79,6454,both,NA,NA,NA,NA,NA,NA,60-79,60+
+7,Bisquera,2021,NA,NA,NA,NA,NA,broken,NA,NA,2011 - 2015 cohort,60,79,5773,both,NA,NA,NA,NA,NA,NA,60-79,60+
+19,Franti,2022,NA,NA,NA,NA,NA,broken,NA,NA,all,70,NA,943717,both,NA,NA,NA,NA,NA,NA,60+,60+
+20,Hassaine,2020,NA,NA,NA,NA,NA,broken,NA,NA,M,60,79,225207,M,NA,NA,NA,NA,NA,NA,60-79,60+
+20,Hassaine,2020,NA,NA,NA,NA,NA,broken,NA,NA,F,60,79,271270,F,NA,NA,NA,NA,NA,NA,60-79,60+
+28,Robertson,2022,NA,NA,NA,NA,NA,broken,NA,NA,all,60,79,5884,both,NA,NA,NA,NA,NA,NA,60-79,60+
+38,Profili,2020,NA,NA,NA,NA,NA,broken,NA,NA,all,60,79,643500,both,NA,NA,NA,NA,NA,NA,60-79,60+
+41,Jiang,2018,NA,NA,NA,NA,NA,broken,NA,NA,all,60,NA,258066,both,NA,NA,NA,NA,NA,NA,60+,60+
+42,Jensen,2014,NA,NA,NA,NA,NA,broken,NA,NA,all,60,79,1213000,both,NA,NA,NA,NA,NA,NA,60-79,60+
+50,Forslund,2021,NA,NA,NA,NA,NA,broken,NA,NA,all,60,79,209060,both,NA,NA,NA,NA,NA,NA,60-79,60+
+56,Lai,2021,NA,NA,NA,NA,NA,broken,NA,NA,hongkong,80,NA,2500,both,NA,NA,NA,NA,NA,NA,80+,60+
+56,Lai,2021,NA,NA,NA,NA,NA,broken,NA,NA,zurich,80,NA,2500,both,NA,NA,NA,NA,NA,NA,80+,60+
+71,Beaney,2024,NA,NA,NA,NA,NA,broken,NA,NA,all,60,79,2770191,both,NA,NA,NA,NA,NA,NA,60-79,60+
+72,Dervic,2024,NA,NA,NA,NA,NA,broken,NA,NA,F,60,79,339000,F,NA,NA,NA,NA,NA,NA,60-79,60+
+72,Dervic,2024,NA,NA,NA,NA,NA,broken,NA,NA,M,60,79,345000,M,NA,NA,NA,NA,NA,NA,60-79,60+
+78,Eto,2023,NA,NA,NA,NA,NA,broken,NA,NA,black,32,38,6512,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+78,Eto,2023,NA,NA,NA,NA,NA,broken,NA,NA,southasian,33,39,8479,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+78,Eto,2023,NA,NA,NA,NA,NA,broken,NA,NA,white,37,45,194476,both,NA,NA,NA,NA,NA,NA,0-39,0-39
+79,Nishida,2023,NA,NA,NA,NA,NA,broken,NA,NA,all,60,79,380360,both,NA,NA,NA,NA,NA,NA,60-79,60+
+2,Aubert,2019,NA,NA,NA,NA,NA,broken,NA,NA,all,80,NA,8468,both,NA,NA,NA,NA,NA,NA,80+,60+
+7,Bisquera,2021,NA,NA,NA,NA,NA,broken,NA,NA,2016 - 2020 cohort,80,NA,11382,both,NA,NA,NA,NA,NA,NA,80+,60+
+7,Bisquera,2021,NA,NA,NA,NA,NA,broken,NA,NA,2005 - 2010 cohort,80,NA,5459,both,NA,NA,NA,NA,NA,NA,80+,60+
+7,Bisquera,2021,NA,NA,NA,NA,NA,broken,NA,NA,2011 - 2015 cohort,80,NA,4679,both,NA,NA,NA,NA,NA,NA,80+,60+
+20,Hassaine,2020,NA,NA,NA,NA,NA,broken,NA,NA,M,80,NA,20828,M,NA,NA,NA,NA,NA,NA,80+,60+
+20,Hassaine,2020,NA,NA,NA,NA,NA,broken,NA,NA,F,80,NA,48711,F,NA,NA,NA,NA,NA,NA,80+,60+
+28,Robertson,2022,NA,NA,NA,NA,NA,broken,NA,NA,all,80,NA,2925,both,NA,NA,NA,NA,NA,NA,80+,60+
+38,Profili,2020,NA,NA,NA,NA,NA,broken,NA,NA,all,80,NA,331500,both,NA,NA,NA,NA,NA,NA,80+,60+
+42,Jensen,2014,NA,NA,NA,NA,NA,broken,NA,NA,all,80,NA,707000,both,NA,NA,NA,NA,NA,NA,80+,60+
+50,Forslund,2021,NA,NA,NA,NA,NA,broken,NA,NA,all,80,NA,74567,both,NA,NA,NA,NA,NA,NA,80+,60+
+71,Beaney,2024,NA,NA,NA,NA,NA,broken,NA,NA,all,80,NA,1139429,both,NA,NA,NA,NA,NA,NA,80+,60+
+78,Eto,2023,NA,NA,NA,NA,NA,broken,NA,NA,black,39,49,6512,both,NA,NA,NA,NA,NA,NA,40-59,40-59
+78,Eto,2023,NA,NA,NA,NA,NA,broken,NA,NA,southasian,40,49,8478,both,NA,NA,NA,NA,NA,NA,40-59,40-59
+78,Eto,2023,NA,NA,NA,NA,NA,broken,NA,NA,white,46,49,194477,both,NA,NA,NA,NA,NA,NA,40-59,40-59
